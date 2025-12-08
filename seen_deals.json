@@ -9,7 +9,14 @@
     "model": "N/A",
     "upc": "N/A",
     "link": "https://api.bestbuy.com/click/-/6527462/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:50:52.478Z"
+    "foundAt": "2025-12-08T05:03:53.613Z",
+    "valuation": {
+      "ebayMedianPrice": 336.975,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=NEOZ3%20Qualcomm%20Snapdragon%208GB&LH_Sold=1",
+      "profit": -28.14,
+      "currency": "USD"
+    }
   },
   {
     "id": "6527463-excellent-185.99",
@@ -21,7 +28,14 @@
     "model": "WWZ313Q8504T64",
     "upc": "810002150920",
     "link": "https://api.bestbuy.com/click/-/6527463/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:50:53.013Z"
+    "foundAt": "2025-12-08T05:04:35.352Z",
+    "valuation": {
+      "ebayMedianPrice": 274.95,
+      "ebaySoldItemsCount": 9,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=NEOZ3%20Qualcomm%20Snapdragon%204GB&LH_Sold=1",
+      "profit": 18.34,
+      "currency": "USD"
+    }
   },
   {
     "id": "6530630-excellent-1465.99",
@@ -33,7 +47,14 @@
     "model": "3L553LL/A",
     "upc": "194253714897",
     "link": "https://api.bestbuy.com/click/-/6530630/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:50:53.550Z"
+    "foundAt": "2025-12-08T05:05:08.301Z",
+    "valuation": {
+      "ebayMedianPrice": 909.495,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014%20M2%20Pro%2016GB%20512GB&LH_Sold=1",
+      "profit": -812.01,
+      "currency": "USD"
+    }
   },
   {
     "id": "6531741-excellent-286.99",
@@ -45,7 +66,14 @@
     "model": "82XH0001US",
     "upc": "196804039855",
     "link": "https://api.bestbuy.com/click/-/6531741/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:24.778Z"
+    "foundAt": "2025-12-08T05:05:41.083Z",
+    "valuation": {
+      "ebayMedianPrice": 199.99,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=IdeaPad%20Flex%203i%20Chromebook%20Intel%20N100%202023%204GB%2064GB&LH_Sold=1",
+      "profit": -155.96,
+      "currency": "USD"
+    }
   },
   {
     "id": "6531742-excellent-310.99",
@@ -54,10 +82,17 @@
     "price": 310.99,
     "regularPrice": 399,
     "sku": "6531742",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "82XJ0000US",
+    "upc": "196803504613",
     "link": "https://api.bestbuy.com/click/-/6531742/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:25.318Z"
+    "foundAt": "2025-12-08T05:06:11.606Z",
+    "valuation": {
+      "ebayMedianPrice": 199.95,
+      "ebaySoldItemsCount": 9,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=IdeaPad%20Slim%203%20Chromebook%204GB%2064GB&LH_Sold=1",
+      "profit": -181.91,
+      "currency": "USD"
+    }
   },
   {
     "id": "6534434-excellent-1209.99",
@@ -69,7 +104,14 @@
     "model": "MC654LL/A",
     "upc": "195949888823",
     "link": "https://api.bestbuy.com/click/-/6534434/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:25.890Z"
+    "foundAt": "2025-12-08T05:06:37.243Z",
+    "valuation": {
+      "ebayMedianPrice": 1052,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
+      "profit": -411.55,
+      "currency": "USD"
+    }
   },
   {
     "id": "6534438-excellent-1209.99",
@@ -78,10 +120,17 @@
     "price": 1209.99,
     "regularPrice": 1399,
     "sku": "6534438",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "MC6A4LL/A",
+    "upc": "195949889295",
     "link": "https://api.bestbuy.com/click/-/6534438/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:26.423Z"
+    "foundAt": "2025-12-08T05:06:56.590Z",
+    "valuation": {
+      "ebayMedianPrice": 1052,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
+      "profit": -411.55,
+      "currency": "USD"
+    }
   },
   {
     "id": "6534483-excellent-978.99",
@@ -93,7 +142,14 @@
     "model": "3L621LL/A",
     "upc": "194253710240",
     "link": "https://api.bestbuy.com/click/-/6534483/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:27.014Z"
+    "foundAt": "2025-12-08T05:07:18.736Z",
+    "valuation": {
+      "ebayMedianPrice": 626.995,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015%20M2%208GB%20256GB&LH_Sold=1",
+      "profit": -531.82,
+      "currency": "USD"
+    }
   },
   {
     "id": "6534488-excellent-1454.99",
@@ -105,7 +161,14 @@
     "model": "3M524LL/A",
     "upc": "195949073755",
     "link": "https://api.bestbuy.com/click/-/6534488/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:27.586Z"
+    "foundAt": "2025-12-08T05:07:41.177Z",
+    "valuation": {
+      "ebayMedianPrice": 1274.495,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014%20M3%20Pro%2018GB%20512GB&LH_Sold=1",
+      "profit": -482.58,
+      "currency": "USD"
+    }
   },
   {
     "id": "6534623-excellent-1452.99",
@@ -117,7 +180,14 @@
     "model": "MRX73LL/A",
     "upc": "195949000072",
     "link": "https://api.bestbuy.com/click/-/6534623/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:28.154Z"
+    "foundAt": "2025-12-08T05:08:05.879Z",
+    "valuation": {
+      "ebayMedianPrice": 1299,
+      "ebaySoldItemsCount": 9,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014%20M3%20Pro%2018GB%201TB&LH_Sold=1",
+      "profit": -459.1,
+      "currency": "USD"
+    }
   },
   {
     "id": "6534624-excellent-1411.99",
@@ -129,7 +199,14 @@
     "model": "MRX43LL/A",
     "upc": "195949000041",
     "link": "https://api.bestbuy.com/click/-/6534624/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:28.828Z"
+    "foundAt": "2025-12-08T05:08:34.655Z",
+    "valuation": {
+      "ebayMedianPrice": 1299,
+      "ebaySoldItemsCount": 9,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014%20M3%20Pro%2018GB%201TB&LH_Sold=1",
+      "profit": -414.82,
+      "currency": "USD"
+    }
   },
   {
     "id": "6534638-excellent-1203.99",
@@ -141,7 +218,14 @@
     "model": "MC6C4LL/A",
     "upc": "195949889769",
     "link": "https://api.bestbuy.com/click/-/6534638/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:29.401Z"
+    "foundAt": "2025-12-08T05:08:58.202Z",
+    "valuation": {
+      "ebayMedianPrice": 1052,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
+      "profit": -405.07,
+      "currency": "USD"
+    }
   },
   {
     "id": "6534639-excellent-1356.99",
@@ -153,7 +237,14 @@
     "model": "MC6J4LL/A",
     "upc": "195949891724",
     "link": "https://api.bestbuy.com/click/-/6534639/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:29.993Z"
+    "foundAt": "2025-12-08T05:09:18.450Z",
+    "valuation": {
+      "ebayMedianPrice": 1249,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
+      "profit": -398.92,
+      "currency": "USD"
+    }
   },
   {
     "id": "6534642-excellent-1394.99",
@@ -165,7 +256,14 @@
     "model": "MC6K4LL/A",
     "upc": "195949892196",
     "link": "https://api.bestbuy.com/click/-/6534642/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:30.563Z"
+    "foundAt": "2025-12-08T05:09:43.527Z",
+    "valuation": {
+      "ebayMedianPrice": 1249,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
+      "profit": -439.96,
+      "currency": "USD"
+    }
   },
   {
     "id": "6534643-excellent-1351.99",
@@ -174,10 +272,17 @@
     "price": 1351.99,
     "regularPrice": 1599,
     "sku": "6534643",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "MC6L4LL/A",
+    "upc": "195949892660",
     "link": "https://api.bestbuy.com/click/-/6534643/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:31.095Z"
+    "foundAt": "2025-12-08T05:10:19.781Z",
+    "valuation": {
+      "ebayMedianPrice": 1249,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
+      "profit": -393.52,
+      "currency": "USD"
+    }
   },
   {
     "id": "6534644-excellent-822.99",
@@ -189,7 +294,14 @@
     "model": "MC6T4LL/A",
     "upc": "195949890260",
     "link": "https://api.bestbuy.com/click/-/6534644/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:31.665Z"
+    "foundAt": "2025-12-08T05:11:08.022Z",
+    "valuation": {
+      "ebayMedianPrice": 734,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
+      "profit": -270.25,
+      "currency": "USD"
+    }
   },
   {
     "id": "6534646-excellent-974.99",
@@ -201,7 +313,14 @@
     "model": "MC6U4LL/A",
     "upc": "195949890734",
     "link": "https://api.bestbuy.com/click/-/6534646/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:32.233Z"
+    "foundAt": "2025-12-08T05:11:39.798Z",
+    "valuation": {
+      "ebayMedianPrice": 899.5,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
+      "profit": -290.42,
+      "currency": "USD"
+    }
   },
   {
     "id": "6534647-excellent-1158.99",
@@ -213,7 +332,14 @@
     "model": "MC6V4LL/A",
     "upc": "195949891205",
     "link": "https://api.bestbuy.com/click/-/6534647/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:32.819Z"
+    "foundAt": "2025-12-08T05:12:02.640Z",
+    "valuation": {
+      "ebayMedianPrice": 1052,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
+      "profit": -356.47,
+      "currency": "USD"
+    }
   },
   {
     "id": "6534648-excellent-988.99",
@@ -222,10 +348,17 @@
     "price": 988.99,
     "regularPrice": 1199,
     "sku": "6534648",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "MC7A4LL/A",
+    "upc": "195949893162",
     "link": "https://api.bestbuy.com/click/-/6534648/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:33.355Z"
+    "foundAt": "2025-12-08T05:12:33.267Z",
+    "valuation": {
+      "ebayMedianPrice": 835,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
+      "profit": -361.66,
+      "currency": "USD"
+    }
   },
   {
     "id": "6535992-excellent-172.99",
@@ -237,7 +370,14 @@
     "model": "15A-NB0013DX/7J267UA#ABA",
     "upc": "197192458518",
     "link": "https://api.bestbuy.com/click/-/6535992/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:33.918Z"
+    "foundAt": "2025-12-08T05:13:03.572Z",
+    "valuation": {
+      "ebayMedianPrice": 179.99,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=15.6%20Chromebook%20Intel%20%20N200%202023%208GB%2064GB&LH_Sold=1",
+      "profit": -50.24,
+      "currency": "USD"
+    }
   },
   {
     "id": "6542092-excellent-569.99",
@@ -249,7 +389,14 @@
     "model": "M1605YA-ES74",
     "upc": "197105081215",
     "link": "https://api.bestbuy.com/click/-/6542092/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:34.486Z"
+    "foundAt": "2025-12-08T05:13:23.847Z",
+    "valuation": {
+      "ebayMedianPrice": 441.99,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Vivobook%2016%2016%20FHD%2B%20AMD%20Ryzen%207%20with%2016GB%20Memory%201TB&LH_Sold=1",
+      "profit": -251.06,
+      "currency": "USD"
+    }
   },
   {
     "id": "6547350-excellent-343.99",
@@ -261,7 +408,14 @@
     "model": "14-EP0010NR",
     "upc": "197192242261",
     "link": "https://api.bestbuy.com/click/-/6547350/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:35.048Z"
+    "foundAt": "2025-12-08T05:13:44.548Z",
+    "valuation": {
+      "ebayMedianPrice": 187.5,
+      "ebaySoldItemsCount": 2,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=14-EP0010NR%2014%20%20HD%20Intel%20%20N200%20With%204GB%20Memory%20128GB%20UFS&LH_Sold=1",
+      "profit": -228.38,
+      "currency": "USD"
+    }
   },
   {
     "id": "6550736-excellent-345.99",
@@ -273,7 +427,14 @@
     "model": "83EK0000UX",
     "upc": "197528655949",
     "link": "https://api.bestbuy.com/click/-/6550736/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:35.735Z"
+    "foundAt": "2025-12-08T05:14:09.075Z",
+    "valuation": {
+      "ebayMedianPrice": 299.495,
+      "ebaySoldItemsCount": 6,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Flex%205i%20Chromebook%20Plus%20%20with%20Gemini%20Intel%20i3%201315U%202023%208GB%20128GB&LH_Sold=1",
+      "profit": -133.11,
+      "currency": "USD"
+    }
   },
   {
     "id": "6551405-excellent-1171.99",
@@ -285,7 +446,14 @@
     "model": "MC7C4LL/A",
     "upc": "195949893636",
     "link": "https://api.bestbuy.com/click/-/6551405/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:36.302Z"
+    "foundAt": "2025-12-08T05:14:36.703Z",
+    "valuation": {
+      "ebayMedianPrice": 992,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
+      "profit": -422.71,
+      "currency": "USD"
+    }
   },
   {
     "id": "6551408-excellent-1403.99",
@@ -297,7 +465,14 @@
     "model": "MC7D4LL/A",
     "upc": "195949894107",
     "link": "https://api.bestbuy.com/click/-/6551408/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:36.887Z"
+    "foundAt": "2025-12-08T05:15:02.235Z",
+    "valuation": {
+      "ebayMedianPrice": 1249,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
+      "profit": -449.68,
+      "currency": "USD"
+    }
   },
   {
     "id": "6551410-excellent-797.99",
@@ -309,7 +484,14 @@
     "model": "MW0W3LL/A",
     "upc": "195949836251",
     "link": "https://api.bestbuy.com/click/-/6551410/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:37.457Z"
+    "foundAt": "2025-12-08T05:15:41.421Z",
+    "valuation": {
+      "ebayMedianPrice": 734,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
+      "profit": -243.25,
+      "currency": "USD"
+    }
   },
   {
     "id": "6551412-excellent-991.99",
@@ -321,7 +503,14 @@
     "model": "MW0X3LL/A",
     "upc": "195949836725",
     "link": "https://api.bestbuy.com/click/-/6551412/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:38.031Z"
+    "foundAt": "2025-12-08T05:16:08.471Z",
+    "valuation": {
+      "ebayMedianPrice": 899.5,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
+      "profit": -308.78,
+      "currency": "USD"
+    }
   },
   {
     "id": "6565845-excellent-862.99",
@@ -333,7 +522,14 @@
     "model": "MRYN3LL/A",
     "upc": "195949129346",
     "link": "https://api.bestbuy.com/click/-/6565845/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:38.603Z"
+    "foundAt": "2025-12-08T05:16:34.644Z",
+    "valuation": {
+      "ebayMedianPrice": 779.495,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20M3%208GB%20512GB&LH_Sold=1",
+      "profit": -273.87,
+      "currency": "USD"
+    }
   },
   {
     "id": "6565853-excellent-974.99",
@@ -342,10 +538,17 @@
     "price": 974.99,
     "regularPrice": 1199,
     "sku": "6565853",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "MRYV3LL/A",
+    "upc": "195949132162",
     "link": "https://api.bestbuy.com/click/-/6565853/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:39.131Z"
+    "foundAt": "2025-12-08T05:17:02.295Z",
+    "valuation": {
+      "ebayMedianPrice": 779.495,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20M3%208GB%20512GB&LH_Sold=1",
+      "profit": -394.83,
+      "currency": "USD"
+    }
   },
   {
     "id": "6565856-excellent-929.99",
@@ -357,7 +560,14 @@
     "model": "MXD33LL/A",
     "upc": "195949638541",
     "link": "https://api.bestbuy.com/click/-/6565856/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:39.695Z"
+    "foundAt": "2025-12-08T05:17:38.822Z",
+    "valuation": {
+      "ebayMedianPrice": 924.5,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20M3%2016GB%20512GB&LH_Sold=1",
+      "profit": -220.07,
+      "currency": "USD"
+    }
   },
   {
     "id": "6565859-excellent-822.99",
@@ -369,7 +579,14 @@
     "model": "MW0Y3LL/A",
     "upc": "195949837197",
     "link": "https://api.bestbuy.com/click/-/6565859/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:40.262Z"
+    "foundAt": "2025-12-08T05:18:00.609Z",
+    "valuation": {
+      "ebayMedianPrice": 734,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
+      "profit": -270.25,
+      "currency": "USD"
+    }
   },
   {
     "id": "6565860-excellent-1011.99",
@@ -381,7 +598,14 @@
     "model": "MW103LL/A",
     "upc": "195949837661",
     "link": "https://api.bestbuy.com/click/-/6565860/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:40.831Z"
+    "foundAt": "2025-12-08T05:18:21.882Z",
+    "valuation": {
+      "ebayMedianPrice": 899.5,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
+      "profit": -330.38,
+      "currency": "USD"
+    }
   },
   {
     "id": "6565862-excellent-816.99",
@@ -390,10 +614,17 @@
     "price": 816.99,
     "regularPrice": 999,
     "sku": "6565862",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "MW123LL/A",
+    "upc": "195949838132",
     "link": "https://api.bestbuy.com/click/-/6565862/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:41.362Z"
+    "foundAt": "2025-12-08T05:18:42.973Z",
+    "valuation": {
+      "ebayMedianPrice": 734,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
+      "profit": -263.77,
+      "currency": "USD"
+    }
   },
   {
     "id": "6565863-excellent-1015.99",
@@ -405,7 +636,14 @@
     "model": "MW133LL/A",
     "upc": "195949838606",
     "link": "https://api.bestbuy.com/click/-/6565863/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:42.049Z"
+    "foundAt": "2025-12-08T05:19:07.950Z",
+    "valuation": {
+      "ebayMedianPrice": 899.5,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
+      "profit": -334.7,
+      "currency": "USD"
+    }
   },
   {
     "id": "6565864-excellent-979.99",
@@ -417,7 +655,14 @@
     "model": "MW1G3LL/A",
     "upc": "195949840098",
     "link": "https://api.bestbuy.com/click/-/6565864/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:42.724Z"
+    "foundAt": "2025-12-08T05:19:41.730Z",
+    "valuation": {
+      "ebayMedianPrice": 835,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
+      "profit": -351.94,
+      "currency": "USD"
+    }
   },
   {
     "id": "6565865-excellent-1209.99",
@@ -429,7 +674,14 @@
     "model": "MW1H3LL/A",
     "upc": "195949840562",
     "link": "https://api.bestbuy.com/click/-/6565865/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:43.442Z"
+    "foundAt": "2025-12-08T05:20:24.323Z",
+    "valuation": {
+      "ebayMedianPrice": 992,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
+      "profit": -463.75,
+      "currency": "USD"
+    }
   },
   {
     "id": "6565866-excellent-964.99",
@@ -441,7 +693,14 @@
     "model": "MW1J3LL/A",
     "upc": "195949841033",
     "link": "https://api.bestbuy.com/click/-/6565866/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:44.126Z"
+    "foundAt": "2025-12-08T05:20:59.995Z",
+    "valuation": {
+      "ebayMedianPrice": 835,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
+      "profit": -335.74,
+      "currency": "USD"
+    }
   },
   {
     "id": "6565868-excellent-1167.99",
@@ -453,7 +712,14 @@
     "model": "MW1K3LL/A",
     "upc": "195949841507",
     "link": "https://api.bestbuy.com/click/-/6565868/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:44.694Z"
+    "foundAt": "2025-12-08T05:21:21.682Z",
+    "valuation": {
+      "ebayMedianPrice": 992,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
+      "profit": -418.39,
+      "currency": "USD"
+    }
   },
   {
     "id": "6565869-excellent-985.99",
@@ -462,10 +728,17 @@
     "price": 985.99,
     "regularPrice": 1199,
     "sku": "6565869",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "MW1L3LL/A",
+    "upc": "195949841972",
     "link": "https://api.bestbuy.com/click/-/6565869/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:45.223Z"
+    "foundAt": "2025-12-08T05:21:51.499Z",
+    "valuation": {
+      "ebayMedianPrice": 835,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
+      "profit": -358.42,
+      "currency": "USD"
+    }
   },
   {
     "id": "6565870-excellent-1209.99",
@@ -477,7 +750,14 @@
     "model": "MW1M3LL/A",
     "upc": "195949842443",
     "link": "https://api.bestbuy.com/click/-/6565870/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:45.795Z"
+    "foundAt": "2025-12-08T05:22:10.964Z",
+    "valuation": {
+      "ebayMedianPrice": 992,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
+      "profit": -463.75,
+      "currency": "USD"
+    }
   },
   {
     "id": "6565871-excellent-1548.99",
@@ -486,10 +766,17 @@
     "price": 1548.99,
     "regularPrice": 1599,
     "sku": "6565871",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "MDE04LL/A",
+    "upc": "195950488999",
     "link": "https://api.bestbuy.com/click/-/6565871/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:46.328Z"
+    "foundAt": "2025-12-08T05:22:44.856Z",
+    "valuation": {
+      "ebayMedianPrice": 1274.5,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Apple%20M5%C2%A0chip%20with%2010-core%20CPU%20and%2010-core%20GPU%2016GB%20512GB&LH_Sold=1",
+      "profit": -584.09,
+      "currency": "USD"
+    }
   },
   {
     "id": "6565872-excellent-1631.99",
@@ -501,7 +788,14 @@
     "model": "MDE14LL/A",
     "upc": "195950489460",
     "link": "https://api.bestbuy.com/click/-/6565872/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:47.010Z"
+    "foundAt": "2025-12-08T05:23:06.520Z",
+    "valuation": {
+      "ebayMedianPrice": 1369.495,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Apple%20M5%C2%A0chip%20with%2010-core%20CPU%20and%2010-core%20GPU%2016GB%201TB&LH_Sold=1",
+      "profit": -591.09,
+      "currency": "USD"
+    }
   },
   {
     "id": "6565873-excellent-1936.99",
@@ -510,10 +804,17 @@
     "price": 1936.99,
     "regularPrice": 1999,
     "sku": "6565873",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "MDE34LL/A",
+    "upc": "195950489934",
     "link": "https://api.bestbuy.com/click/-/6565873/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:47.536Z"
+    "foundAt": "2025-12-08T05:23:30.798Z",
+    "valuation": {
+      "ebayMedianPrice": 1534,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Apple%20M5%C2%A0chip%20with%2010-core%20CPU%20and%2010-core%20GPU%2024GB%201TB&LH_Sold=1",
+      "profit": -777.37,
+      "currency": "USD"
+    }
   },
   {
     "id": "6565874-excellent-1548.99",
@@ -525,7 +826,14 @@
     "model": "MDE44LL/A",
     "upc": "195950490404",
     "link": "https://api.bestbuy.com/click/-/6565874/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:48.221Z"
+    "foundAt": "2025-12-08T05:24:03.432Z",
+    "valuation": {
+      "ebayMedianPrice": 1224.5,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Apple%20M5%C2%A0chip%20with%2010-core%20CPU%20and%2010-core%20GPU%2016GB%20512GB&LH_Sold=1",
+      "profit": -627.59,
+      "currency": "USD"
+    }
   },
   {
     "id": "6565875-excellent-1742.99",
@@ -537,7 +845,14 @@
     "model": "MDE54LL/A",
     "upc": "195950490879",
     "link": "https://api.bestbuy.com/click/-/6565875/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:48.780Z"
+    "foundAt": "2025-12-08T05:24:26.172Z",
+    "valuation": {
+      "ebayMedianPrice": 1369.495,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Apple%20M5%C2%A0chip%20with%2010-core%20CPU%20and%2010-core%20GPU%2016GB%201TB&LH_Sold=1",
+      "profit": -710.97,
+      "currency": "USD"
+    }
   },
   {
     "id": "6565877-excellent-1936.99",
@@ -549,7 +864,14 @@
     "model": "MDE64LL/A",
     "upc": "195950491340",
     "link": "https://api.bestbuy.com/click/-/6565877/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:49.341Z"
+    "foundAt": "2025-12-08T05:24:53.371Z",
+    "valuation": {
+      "ebayMedianPrice": 1534,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Apple%20M5%C2%A0chip%20with%2010-core%20CPU%20and%2010-core%20GPU%2024GB%201TB&LH_Sold=1",
+      "profit": -777.37,
+      "currency": "USD"
+    }
   },
   {
     "id": "6567669-excellent-250.99",
@@ -561,7 +883,14 @@
     "model": "82N40045US",
     "upc": "197531451583",
     "link": "https://api.bestbuy.com/click/-/6567669/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:49.918Z"
+    "foundAt": "2025-12-08T05:25:29.400Z",
+    "valuation": {
+      "ebayMedianPrice": 220,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=IdeaPad%203i%20Chromebook%208GB%20128GB&LH_Sold=1",
+      "profit": -99.67,
+      "currency": "USD"
+    }
   },
   {
     "id": "6568135-excellent-891.99",
@@ -573,7 +902,14 @@
     "model": "K3704VA-DH96-S",
     "upc": "197105327085",
     "link": "https://api.bestbuy.com/click/-/6568135/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:50.485Z"
+    "foundAt": "2025-12-08T05:26:03.476Z",
+    "valuation": {
+      "ebayMedianPrice": 449.99,
+      "ebaySoldItemsCount": 9,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Vivobook%2017.3%E2%80%9D%20FHD%20Intel%20Core%20i9%20with%2016GB%20Memory%201TB&LH_Sold=1",
+      "profit": -591.86,
+      "currency": "USD"
+    }
   },
   {
     "id": "6571369-excellent-624.99",
@@ -585,7 +921,14 @@
     "model": "83DL0002US",
     "upc": "197531069214",
     "link": "https://api.bestbuy.com/click/-/6571369/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:51.045Z"
+    "foundAt": "2025-12-08T05:26:25.754Z",
+    "valuation": {
+      "ebayMedianPrice": 579.97,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Yoga%207i%20%2016%202K%20Touchscreen%20Intel%20Core%20Ultra%207%20155U%202023%2016GB%201TB&LH_Sold=1",
+      "profit": -190.42,
+      "currency": "USD"
+    }
   },
   {
     "id": "6572179-excellent-1391.99",
@@ -597,7 +940,14 @@
     "model": "NP960XGL-XG2US",
     "upc": "887276831534",
     "link": "https://api.bestbuy.com/click/-/6572179/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:51.622Z"
+    "foundAt": "2025-12-08T05:26:50.874Z",
+    "valuation": {
+      "ebayMedianPrice": 799.99,
+      "ebaySoldItemsCount": 9,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Book4%20Ultra%2016%20AMOLED%20Intel%20Core%20Ultra%207%2016GB%201TB&LH_Sold=1",
+      "profit": -827.36,
+      "currency": "USD"
+    }
   },
   {
     "id": "6572183-excellent-1059.99",
@@ -609,7 +959,14 @@
     "model": "NP960QGK-KG1US",
     "upc": "887276831589",
     "link": "https://api.bestbuy.com/click/-/6572183/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:52.191Z"
+    "foundAt": "2025-12-08T05:27:19.968Z",
+    "valuation": {
+      "ebayMedianPrice": 839.475,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Book4%20Pro%20360%202-in1%2016%20AMOLED%20Intel%20Core%20Ultra%207%2016GB%201TB&LH_Sold=1",
+      "profit": -434.45,
+      "currency": "USD"
+    }
   },
   {
     "id": "6572184-excellent-455.99",
@@ -621,7 +978,14 @@
     "model": "NP750XGK-KS2US",
     "upc": "887276834672",
     "link": "https://api.bestbuy.com/click/-/6572184/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:52.755Z"
+    "foundAt": "2025-12-08T05:27:57.471Z",
+    "valuation": {
+      "ebayMedianPrice": 529.95,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Book4%2015.6%20FHD%20Intel%20Core%207%20512GB&LH_Sold=1",
+      "profit": -51.41,
+      "currency": "USD"
+    }
   },
   {
     "id": "6579293-excellent-255.99",
@@ -633,7 +997,14 @@
     "model": "14B-CD0013DX/A28Q7UA#ABA",
     "upc": "198122945665",
     "link": "https://api.bestbuy.com/click/-/6579293/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:53.317Z"
+    "foundAt": "2025-12-08T05:28:23.726Z",
+    "valuation": {
+      "ebayMedianPrice": 129.525,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=14%20%20Chromebook%20Intel%20%20N100%202023%204GB%2064GB&LH_Sold=1",
+      "profit": -183.78,
+      "currency": "USD"
+    }
   },
   {
     "id": "6580450-excellent-1056.99",
@@ -645,7 +1016,14 @@
     "model": "NP960XMB-KB1US",
     "upc": "887276870250",
     "link": "https://api.bestbuy.com/click/-/6580450/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:53.878Z"
+    "foundAt": "2025-12-08T05:28:49.516Z",
+    "valuation": {
+      "ebayMedianPrice": 677.49,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Book4%20Edge%20Snapdragon%20X%20Elite%203.8Ghz&LH_Sold=1",
+      "profit": -572.13,
+      "currency": "USD"
+    }
   },
   {
     "id": "6582538-excellent-1072.99",
@@ -654,10 +1032,17 @@
     "price": 1072.99,
     "regularPrice": 1299.99,
     "sku": "6582538",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "83ED0001US",
+    "upc": "198153128372",
     "link": "https://api.bestbuy.com/click/-/6582538/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:54.408Z"
+    "foundAt": "2025-12-08T05:29:21.419Z",
+    "valuation": {
+      "ebayMedianPrice": 695,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Yoga%20Slim%207x%20Snapdragon%20X%20Elite%20X1E-78-100%202024&LH_Sold=1",
+      "profit": -574.18,
+      "currency": "USD"
+    }
   },
   {
     "id": "6583788-excellent-764.99",
@@ -669,7 +1054,14 @@
     "model": "NP960XMA-KB1US",
     "upc": "887276861722",
     "link": "https://api.bestbuy.com/click/-/6583788/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:54.972Z"
+    "foundAt": "2025-12-08T05:29:58.400Z",
+    "valuation": {
+      "ebayMedianPrice": 599.99,
+      "ebaySoldItemsCount": 7,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Book4%20Edge%20Snapdragon%20X%20Elite%203.4Ghz&LH_Sold=1",
+      "profit": -324.2,
+      "currency": "USD"
+    }
   },
   {
     "id": "6583789-excellent-692.99",
@@ -681,7 +1073,14 @@
     "model": "NP940XMA-KB1US",
     "upc": "887276861739",
     "link": "https://api.bestbuy.com/click/-/6583789/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:55.544Z"
+    "foundAt": "2025-12-08T05:30:35.973Z",
+    "valuation": {
+      "ebayMedianPrice": 599.99,
+      "ebaySoldItemsCount": 7,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Book4%20Edge%20Snapdragon%20X%20Elite%203.4Ghz&LH_Sold=1",
+      "profit": -246.44,
+      "currency": "USD"
+    }
   },
   {
     "id": "6584127-excellent-809.99",
@@ -690,10 +1089,17 @@
     "price": 809.99,
     "regularPrice": 1499.99,
     "sku": "6584127",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "XPS9345-SX12807BLK-PUS",
+    "upc": "884116429807",
     "link": "https://api.bestbuy.com/click/-/6584127/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:56.074Z"
+    "foundAt": "2025-12-08T05:31:03.219Z",
+    "valuation": {
+      "ebayMedianPrice": 739.99,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=XPS%20Snapdragon%20X%20Elite%20X1E-80%2016GB%20512GB&LH_Sold=1",
+      "profit": -251,
+      "currency": "USD"
+    }
   },
   {
     "id": "6584131-excellent-473.99",
@@ -705,7 +1111,14 @@
     "model": "I7441-SX10838BLU-PUS",
     "upc": "884116429838",
     "link": "https://api.bestbuy.com/click/-/6584131/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:56.643Z"
+    "foundAt": "2025-12-08T05:31:25.770Z",
+    "valuation": {
+      "ebayMedianPrice": 432.49,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Inspiron%2014%20Plus%20Copilot%2B%20PC%20Snapdragon%20X%20Plus%20X1P-64%202024%2016GB%20512GB&LH_Sold=1",
+      "profit": -155.64,
+      "currency": "USD"
+    }
   },
   {
     "id": "6584435-excellent-833.99",
@@ -717,7 +1130,14 @@
     "model": "UM5606WA-S16.R3651TB",
     "upc": "197105646452",
     "link": "https://api.bestbuy.com/click/-/6584435/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:57.209Z"
+    "foundAt": "2025-12-08T05:31:54.652Z",
+    "valuation": {
+      "ebayMedianPrice": 999.495,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Zenbook%20S%2016%2016%E2%80%9D%203K%20OLED%20AMD%20Ryzen%20AI%209%20365%2024GB%201TB&LH_Sold=1",
+      "profit": -51.15,
+      "currency": "USD"
+    }
   },
   {
     "id": "6584436-excellent-1594.99",
@@ -729,7 +1149,14 @@
     "model": "HN7306WU-PX13.R3704050",
     "upc": "197105613942",
     "link": "https://api.bestbuy.com/click/-/6584436/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:57.775Z"
+    "foundAt": "2025-12-08T05:32:21.204Z",
+    "valuation": {
+      "ebayMedianPrice": 1224.995,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=ProArt%20PX13%2013%203K%20OLED%20AMD%20Ryzen%20AI%209%20HX%20370%2032GB%201TB&LH_Sold=1",
+      "profit": -676.84,
+      "currency": "USD"
+    }
   },
   {
     "id": "6584438-excellent-1297.99",
@@ -741,7 +1168,14 @@
     "model": "H7606WV-P16.R3704060",
     "upc": "197105613935",
     "link": "https://api.bestbuy.com/click/-/6584438/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:58.349Z"
+    "foundAt": "2025-12-08T05:32:56.858Z",
+    "valuation": {
+      "ebayMedianPrice": 1574.9650000000001,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=ProArt%20P16%2016%204K%20OLED%20AMD%20Ryzen%20AI%209%20HX%20370%2032GB%201TB&LH_Sold=1",
+      "profit": -51.61,
+      "currency": "USD"
+    }
   },
   {
     "id": "6585178-excellent-777.99",
@@ -753,7 +1187,14 @@
     "model": "HT5306QA-PZ13.X1P1TB",
     "upc": "197105684904",
     "link": "https://api.bestbuy.com/click/-/6585178/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:58.914Z"
+    "foundAt": "2025-12-08T05:33:25.113Z",
+    "valuation": {
+      "ebayMedianPrice": 759.975,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=ProArt%20PZ13%2013%20OLED%203K%20Detachable%20Snapdragon%20X%20Plus%2016GB%201TB&LH_Sold=1",
+      "profit": -199.05,
+      "currency": "USD"
+    }
   },
   {
     "id": "6586063-excellent-1265.99",
@@ -765,7 +1206,14 @@
     "model": "XPS9345-SX12784BLK-PUS",
     "upc": "884116429784",
     "link": "https://api.bestbuy.com/click/-/6586063/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T01:57:59.493Z"
+    "foundAt": "2025-12-08T05:33:53.989Z",
+    "valuation": {
+      "ebayMedianPrice": 874.495,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=XPS%2013%20Snapdragon%20X%20Elite%20X1E-80-100%202024%2032GB%20%20%E2%80%93%201TB%20Storage&LH_Sold=1",
+      "profit": -626.46,
+      "currency": "USD"
+    }
   },
   {
     "id": "6587437-excellent-452.99",
@@ -774,10 +1222,17 @@
     "price": 452.99,
     "regularPrice": 629,
     "sku": "6587437",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "14B-CD0023DX/A4HB3UA#ABA",
+    "upc": "198415330239",
     "link": "https://api.bestbuy.com/click/-/6587437/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:29.014Z"
+    "foundAt": "2025-12-08T05:34:30.986Z",
+    "valuation": {
+      "ebayMedianPrice": 281.495,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=14%20%20Full%20HD%20%20Chromebook%20Plus%20%20with%20Google%20AI%20Intel%20Core%20i3%20N305%202023%208GB%20256GB&LH_Sold=1",
+      "profit": -264.33,
+      "currency": "USD"
+    }
   },
   {
     "id": "6588600-excellent-550.99",
@@ -789,7 +1244,14 @@
     "model": "CX5403CMA-DB588",
     "upc": "197105615557",
     "link": "https://api.bestbuy.com/click/-/6588600/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:29.333Z"
+    "foundAt": "2025-12-08T05:34:50.193Z",
+    "valuation": {
+      "ebayMedianPrice": 369.99,
+      "ebaySoldItemsCount": 5,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Expertbook%20CX54%20Chromebook%20Plus%2014%20%20with%20Google%20AI%20Intel%20Core%20Ultra%205%20with%208GB%20Memory%20128GB&LH_Sold=1",
+      "profit": -293.18,
+      "currency": "USD"
+    }
   },
   {
     "id": "6588651-excellent-198.99",
@@ -798,10 +1260,17 @@
     "price": 198.99,
     "regularPrice": 249,
     "sku": "6588651",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "82N4004NUS",
+    "upc": "198153733804",
     "link": "https://api.bestbuy.com/click/-/6588651/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:29.361Z"
+    "foundAt": "2025-12-08T05:35:14.833Z",
+    "valuation": {
+      "ebayMedianPrice": 162.495,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=IdeaPad%203i%20Chromebook%2015.6%20Full%20HD%20Intel%20Celeron%202021%204GB%20%20with%2064GB%20eMMC%20Storage&LH_Sold=1",
+      "profit": -93.54,
+      "currency": "USD"
+    }
   },
   {
     "id": "6593118-excellent-532.99",
@@ -810,10 +1279,17 @@
     "price": 532.99,
     "regularPrice": 549.99,
     "sku": "6593118",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "F1605ZA-AS56",
+    "upc": "197105541016",
     "link": "https://api.bestbuy.com/click/-/6593118/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:29.388Z"
+    "foundAt": "2025-12-08T05:35:43.152Z",
+    "valuation": {
+      "ebayMedianPrice": 329.99,
+      "ebaySoldItemsCount": 5,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Vivobook%2016%2016%20FHD%2B%20Intel%20Core%20i5%20512GB&LH_Sold=1",
+      "profit": -308.54,
+      "currency": "USD"
+    }
   },
   {
     "id": "6593255-excellent-1529.99",
@@ -822,10 +1298,17 @@
     "price": 1529.99,
     "regularPrice": 1799.99,
     "sku": "6593255",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "UM5606WA-PB99T",
+    "upc": "197105587618",
     "link": "https://api.bestbuy.com/click/-/6593255/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:29.414Z"
+    "foundAt": "2025-12-08T05:36:05.722Z",
+    "valuation": {
+      "ebayMedianPrice": 999.975,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Zenbook%20S%2016%2016%E2%80%9D%203K%20OLED%20Touch%20AMD%20Ryzen%20AI%209%20HX%20370%2032GB%201TB&LH_Sold=1",
+      "profit": -802.41,
+      "currency": "USD"
+    }
   },
   {
     "id": "6593257-excellent-1061.99",
@@ -834,10 +1317,17 @@
     "price": 1061.99,
     "regularPrice": 1249.99,
     "sku": "6593257",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "M5406WA-DS76",
+    "upc": "197105595712",
     "link": "https://api.bestbuy.com/click/-/6593257/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:29.438Z"
+    "foundAt": "2025-12-08T05:36:28.443Z",
+    "valuation": {
+      "ebayMedianPrice": 950,
+      "ebaySoldItemsCount": 9,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Vivobook%20S%2014%20OLED%203K%20120Hz%20AMD%20Ryzen%20AI%209%20365%20with%2024GB%20RAM%20512GB&LH_Sold=1",
+      "profit": -340.45,
+      "currency": "USD"
+    }
   },
   {
     "id": "6593552-excellent-991.99",
@@ -846,10 +1336,17 @@
     "price": 991.99,
     "regularPrice": 1599.99,
     "sku": "6593552",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "14-FH0013DX/A9SR3UA#ABA",
+    "upc": "198415975676",
     "link": "https://api.bestbuy.com/click/-/6593552/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:29.465Z"
+    "foundAt": "2025-12-08T05:36:49.693Z",
+    "valuation": {
+      "ebayMedianPrice": 689.495,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=OmniBook%20Ultra%20Flip%20Intel%20Core%20Ultra%207%20256V%2016GB%201TB&LH_Sold=1",
+      "profit": -491.49,
+      "currency": "USD"
+    }
   },
   {
     "id": "6594998-excellent-783.99",
@@ -861,7 +1358,14 @@
     "model": "83HM0000US",
     "upc": "198153992805",
     "link": "https://api.bestbuy.com/click/-/6594998/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:29.780Z"
+    "foundAt": "2025-12-08T05:37:07.457Z",
+    "valuation": {
+      "ebayMedianPrice": 759.625,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Yoga%20Slim%207i%20Aura%20Edition%20Intel%20Core%20Ultra%207%20256V%202024&LH_Sold=1",
+      "profit": -205.84,
+      "currency": "USD"
+    }
   },
   {
     "id": "6597158-excellent-453.99",
@@ -873,7 +1377,14 @@
     "model": "XE550XGA-KC1US",
     "upc": "887276902432",
     "link": "https://api.bestbuy.com/click/-/6597158/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:30.100Z"
+    "foundAt": "2025-12-08T05:37:28.029Z",
+    "valuation": {
+      "ebayMedianPrice": 489,
+      "ebaySoldItemsCount": 7,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Chromebook%20Plus%2015.6%E2%80%9D%20with%20Google%20AI%20AMOLED%20display%20%E2%80%93%20Intel%20Core%203%20%E2%80%93%208GB%20Memory%20%E2%80%93%20256GB%20Storage&LH_Sold=1",
+      "profit": -84.88,
+      "currency": "USD"
+    }
   },
   {
     "id": "6597397-excellent-211.99",
@@ -882,22 +1393,17 @@
     "price": 211.99,
     "regularPrice": 399,
     "sku": "6597397",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "83HH0002US",
+    "upc": "198153907472",
     "link": "https://api.bestbuy.com/click/-/6597397/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:30.129Z"
-  },
-  {
-    "id": "6598566-excellent-371.99",
-    "title": "Samsung - Galaxy Book4 Edge - Copilot + PC - 15.6\" LED Laptop - Snapdragon X Plus - 16GB Memory- 512GB Storage - Sapphire Blue",
-    "condition": "excellent",
-    "price": 371.99,
-    "regularPrice": 899.99,
-    "sku": "6598566",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6598566/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:30.154Z"
+    "foundAt": "2025-12-08T05:37:56.731Z",
+    "valuation": {
+      "ebayMedianPrice": 185.91000000000003,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Duet%2011%20Chromebook%2011%202K%20LCD%20Touchscreen%204GB&LH_Sold=1",
+      "profit": -87.21,
+      "currency": "USD"
+    }
   },
   {
     "id": "6598567-excellent-1206.99",
@@ -906,10 +1412,17 @@
     "price": 1206.99,
     "regularPrice": 1699.99,
     "sku": "6598567",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "NP960QHA-KG1US",
+    "upc": "887276900346",
     "link": "https://api.bestbuy.com/click/-/6598567/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:30.179Z"
+    "foundAt": "2025-12-08T05:38:22.452Z",
+    "valuation": {
+      "ebayMedianPrice": 1188.5,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Book5%20Pro%20360%20Intel%20Core%20Ultra%207%2016GB%201TB&LH_Sold=1",
+      "profit": -289.55,
+      "currency": "USD"
+    }
   },
   {
     "id": "6598704-excellent-1010.99",
@@ -918,10 +1431,17 @@
     "price": 1010.99,
     "regularPrice": 1399.99,
     "sku": "6598704",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "XPS9350-7715BLK-PUS",
+    "upc": "884116429715",
     "link": "https://api.bestbuy.com/click/-/6598704/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:30.206Z"
+    "foundAt": "2025-12-08T05:38:46.820Z",
+    "valuation": {
+      "ebayMedianPrice": 904.415,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=XPS%2013%20Intel%20Core%20Ultra%207%20256V%202024%2016GB%20512GB&LH_Sold=1",
+      "profit": -325.03,
+      "currency": "USD"
+    }
   },
   {
     "id": "6601706-excellent-1380.99",
@@ -930,10 +1450,17 @@
     "price": 1380.99,
     "regularPrice": 1899.99,
     "sku": "6601706",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "14-FH0033DX/AW5Z6UA#ABA",
+    "upc": "198701765110",
     "link": "https://api.bestbuy.com/click/-/6601706/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:30.230Z"
+    "foundAt": "2025-12-08T05:39:07.558Z",
+    "valuation": {
+      "ebayMedianPrice": 929.99,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=OmniBook%20Ultra%20Flip%20Intel%20Core%20Ultra%209%2032GB%202TB&LH_Sold=1",
+      "profit": -702.38,
+      "currency": "USD"
+    }
   },
   {
     "id": "6602286-excellent-1359.99",
@@ -942,10 +1469,17 @@
     "price": 1359.99,
     "regularPrice": 1599.99,
     "sku": "6602286",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "UX5406SA-PH79T",
+    "upc": "197105714861",
     "link": "https://api.bestbuy.com/click/-/6602286/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:30.255Z"
+    "foundAt": "2025-12-08T05:39:44.045Z",
+    "valuation": {
+      "ebayMedianPrice": 730.495,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Zenbook%20S%2014%2014%203K%20OLED%20Touch%20Intel%20Core%20Ultra%207%20Series%202%20with%2032GB%20Memory%201TB&LH_Sold=1",
+      "profit": -853.26,
+      "currency": "USD"
+    }
   },
   {
     "id": "6602739-excellent-1739.99",
@@ -954,10 +1488,17 @@
     "price": 1739.99,
     "regularPrice": 1899,
     "sku": "6602739",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "MCX04LL/A",
+    "upc": "195949926594",
     "link": "https://api.bestbuy.com/click/-/6602739/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:30.282Z"
+    "foundAt": "2025-12-08T05:40:13.687Z",
+    "valuation": {
+      "ebayMedianPrice": 1699,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%2024GB%201TB&LH_Sold=1",
+      "profit": -421.06,
+      "currency": "USD"
+    }
   },
   {
     "id": "6602740-excellent-1640.99",
@@ -966,10 +1507,17 @@
     "price": 1640.99,
     "regularPrice": 1899,
     "sku": "6602740",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "MCX14LL/A",
+    "upc": "195949927058",
     "link": "https://api.bestbuy.com/click/-/6602740/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:30.308Z"
+    "foundAt": "2025-12-08T05:40:36.767Z",
+    "valuation": {
+      "ebayMedianPrice": 1699,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%2024GB%201TB&LH_Sold=1",
+      "profit": -314.14,
+      "currency": "USD"
+    }
   },
   {
     "id": "6602741-excellent-1335.99",
@@ -978,10 +1526,17 @@
     "price": 1335.99,
     "regularPrice": 1499,
     "sku": "6602741",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "MW2U3LL/A",
+    "upc": "195949507786",
     "link": "https://api.bestbuy.com/click/-/6602741/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:30.335Z"
+    "foundAt": "2025-12-08T05:40:58.668Z",
+    "valuation": {
+      "ebayMedianPrice": 1219.99,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
+      "profit": -401.48,
+      "currency": "USD"
+    }
   },
   {
     "id": "6602742-excellent-1429.99",
@@ -990,10 +1545,17 @@
     "price": 1429.99,
     "regularPrice": 1699,
     "sku": "6602742",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "MW2V3LL/A",
+    "upc": "195949507793",
     "link": "https://api.bestbuy.com/click/-/6602742/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:30.361Z"
+    "foundAt": "2025-12-08T05:41:26.059Z",
+    "valuation": {
+      "ebayMedianPrice": 1399.5,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%2016GB%201TB&LH_Sold=1",
+      "profit": -346.82,
+      "currency": "USD"
+    }
   },
   {
     "id": "6602743-excellent-1331.99",
@@ -1002,1911 +1564,15 @@
     "price": 1331.99,
     "regularPrice": 1499,
     "sku": "6602743",
-    "model": "N/A",
-    "upc": "N/A",
+    "model": "MW2W3LL/A",
+    "upc": "195949507809",
     "link": "https://api.bestbuy.com/click/-/6602743/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:30.387Z"
-  },
-  {
-    "id": "6602744-excellent-1391.99",
-    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 1TB SSD - Silver",
-    "condition": "excellent",
-    "price": 1391.99,
-    "regularPrice": 1699,
-    "sku": "6602744",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6602744/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:30.415Z"
-  },
-  {
-    "id": "6602745-excellent-1655.99",
-    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Silver",
-    "condition": "excellent",
-    "price": 1655.99,
-    "regularPrice": 1999,
-    "sku": "6602745",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6602745/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:30.441Z"
-  },
-  {
-    "id": "6602746-excellent-1909.99",
-    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 1TB SSD - Silver",
-    "condition": "excellent",
-    "price": 1909.99,
-    "regularPrice": 2399,
-    "sku": "6602746",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6602746/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:30.465Z"
-  },
-  {
-    "id": "6602748-excellent-1690.99",
-    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Space Black",
-    "condition": "excellent",
-    "price": 1690.99,
-    "regularPrice": 1999,
-    "sku": "6602748",
-    "model": "MX2H3LL/A",
-    "upc": "195949874833",
-    "link": "https://api.bestbuy.com/click/-/6602748/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:30.778Z"
-  },
-  {
-    "id": "6602749-excellent-2033.99",
-    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 1TB SSD - Space Black",
-    "condition": "excellent",
-    "price": 2033.99,
-    "regularPrice": 2399,
-    "sku": "6602749",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6602749/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:30.807Z"
-  },
-  {
-    "id": "6602750-excellent-2707.99",
-    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 Max chip Built for Apple Intelligence - 36GB Memory - 1TB SSD - Space Black",
-    "condition": "excellent",
-    "price": 2707.99,
-    "regularPrice": 3199,
-    "sku": "6602750",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6602750/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:30.837Z"
-  },
-  {
-    "id": "6602751-excellent-1952.99",
-    "title": "Apple - MacBook Pro 16-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Silver",
-    "condition": "excellent",
-    "price": 1952.99,
-    "regularPrice": 2499,
-    "sku": "6602751",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6602751/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:30.864Z"
-  },
-  {
-    "id": "6602754-excellent-3138.99",
-    "title": "Apple - MacBook Pro 16-inch Laptop - Apple M4 Max chip Built for Apple Intelligence - 48GB Memory - 1TB SSD - Silver",
-    "condition": "excellent",
-    "price": 3138.99,
-    "regularPrice": 3999,
-    "sku": "6602754",
-    "model": "MX2W3LL/A",
-    "upc": "195949869150",
-    "link": "https://api.bestbuy.com/click/-/6602754/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:31.185Z"
-  },
-  {
-    "id": "6602755-excellent-2130.99",
-    "title": "Apple - MacBook Pro 16-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Space Black",
-    "condition": "excellent",
-    "price": 2130.99,
-    "regularPrice": 2499,
-    "sku": "6602755",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6602755/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:31.215Z"
-  },
-  {
-    "id": "6602756-excellent-2469.99",
-    "title": "Apple - MacBook Pro 16-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 48GB Memory - 512GB SSD - Space Black",
-    "condition": "excellent",
-    "price": 2469.99,
-    "regularPrice": 2899,
-    "sku": "6602756",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6602756/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:31.243Z"
-  },
-  {
-    "id": "6602757-excellent-2937.99",
-    "title": "Apple - MacBook Pro 16-inch Laptop - Apple M4 Max chip Built for Apple Intelligence - 36GB Memory - 1TB SSD - Space Black",
-    "condition": "excellent",
-    "price": 2937.99,
-    "regularPrice": 3499,
-    "sku": "6602757",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6602757/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:31.269Z"
-  },
-  {
-    "id": "6602758-excellent-3308.99",
-    "title": "Apple - MacBook Pro 16-inch Laptop - Apple M4 Max chip Built for Apple Intelligence - 48GB Memory - 1TB SSD - Space Black",
-    "condition": "excellent",
-    "price": 3308.99,
-    "regularPrice": 3999,
-    "sku": "6602758",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6602758/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:31.293Z"
-  },
-  {
-    "id": "6602762-excellent-722.99",
-    "title": "Apple - MacBook Air 13-inch Laptop - Apple M2 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Starlight",
-    "condition": "excellent",
-    "price": 722.99,
-    "regularPrice": 799,
-    "sku": "6602762",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6602762/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:31.318Z"
-  },
-  {
-    "id": "6602763-excellent-773.99",
-    "title": "Apple - MacBook Air 13-inch Laptop - Apple M2 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Midnight",
-    "condition": "excellent",
-    "price": 773.99,
-    "regularPrice": 799,
-    "sku": "6602763",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6602763/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:31.343Z"
-  },
-  {
-    "id": "6602779-excellent-1018.99",
-    "title": "Apple - MacBook Air 15-inch Laptop - Apple M3 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Silver",
-    "condition": "excellent",
-    "price": 1018.99,
-    "regularPrice": 1499,
-    "sku": "6602779",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6602779/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:31.371Z"
-  },
-  {
-    "id": "6602780-excellent-1078.99",
-    "title": "Apple - MacBook Air 15-inch Laptop - Apple M3 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Starlight",
-    "condition": "excellent",
-    "price": 1078.99,
-    "regularPrice": 1499,
-    "sku": "6602780",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6602780/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:31.396Z"
-  },
-  {
-    "id": "6602781-excellent-1063.99",
-    "title": "Apple - MacBook Air 15-inch Laptop - Apple M3 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Midnight",
-    "condition": "excellent",
-    "price": 1063.99,
-    "regularPrice": 1499,
-    "sku": "6602781",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6602781/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:31.422Z"
-  },
-  {
-    "id": "6603396-excellent-1352.99",
-    "title": "Lenovo - Yoga Slim 7i Aura Edition - Copilot+ PC - 15.3” 3K 120Hz Touchscreen Laptop - Intel Core Ultra 7 258V 2024 - 32GB - 1TB - Luna Grey",
-    "condition": "excellent",
-    "price": 1352.99,
-    "regularPrice": 1449.99,
-    "sku": "6603396",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6603396/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:31.447Z"
-  },
-  {
-    "id": "6603397-excellent-1261.99",
-    "title": "Lenovo - Yoga Slim 7x - Copilot+ PC - 14.5\" 3K 90Hz OLED Touch-Screen Laptop - Snapdragon X Elite X1E-78-100 2024 - 32GB - 1TB - Cosmic Blue",
-    "condition": "excellent",
-    "price": 1261.99,
-    "regularPrice": 1449.99,
-    "sku": "6603397",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6603397/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:31.483Z"
-  },
-  {
-    "id": "6603654-excellent-1115.99",
-    "title": "ASUS - ExpertBook P5 2.5K Laptop - Copilot+ PC - Intel Core Ultra 5 226V with 16GB Memory - 512GB SSD - Misty Grey",
-    "condition": "excellent",
-    "price": 1115.99,
-    "regularPrice": 1199.99,
-    "sku": "6603654",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6603654/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:31.508Z"
-  },
-  {
-    "id": "6609085-excellent-112.99",
-    "title": "ASUS - CX14 14\" FHD Chromebook Laptop - Intel Celeron - 4GB Memory - 64GB eMMC - Misty Grey",
-    "condition": "excellent",
-    "price": 112.99,
-    "regularPrice": 279,
-    "sku": "6609085",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6609085/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:31.531Z"
-  },
-  {
-    "id": "6609086-excellent-253.99",
-    "title": "ASUS - CX14 14\" FHD Chromebook Plus Laptop with Google AI - Intel Core 3 - 8GB Memory - 128GB eMMC - Misty Grey",
-    "condition": "excellent",
-    "price": 253.99,
-    "regularPrice": 429,
-    "sku": "6609086",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6609086/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:31.562Z"
-  },
-  {
-    "id": "6609087-excellent-484.99",
-    "title": "ASUS - CX34 14\" FHD Chromebook Plus Laptop with Google AI - Intel Core i5 - 8GB Memory - 128GB SSD - Rock Grey",
-    "condition": "excellent",
-    "price": 484.99,
-    "regularPrice": 599,
-    "sku": "6609087",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6609087/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:31.587Z"
-  },
-  {
-    "id": "6609089-excellent-577.99",
-    "title": "ASUS - ExpertBook CX54 14\" 2K Chromebook Plus Laptop with Google AI - Intel Core Ultra 5 - 16GB Memory - 256GB SSD - Fog Silver",
-    "condition": "excellent",
-    "price": 577.99,
-    "regularPrice": 799.99,
-    "sku": "6609089",
-    "model": "CX5403CMA-U516256",
-    "upc": "197105852679",
-    "link": "https://api.bestbuy.com/click/-/6609089/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:31.900Z"
-  },
-  {
-    "id": "6610570-excellent-271.99",
-    "title": "Dell - Inspiron - 15.6\" 2K Touchscreen Laptop - Intel Core i5 1334U 2023 - 8GB Memory - 512GB Storage - Carbon Black",
-    "condition": "excellent",
-    "price": 271.99,
-    "regularPrice": 629.99,
-    "sku": "6610570",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6610570/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:31.927Z"
-  },
-  {
-    "id": "6610629-excellent-492.99",
-    "title": "Dell - Inspiron - 15.6\" 2K Touchscreen Laptop - AMD Ryzen 7 7730U 2023 - 16GB Memory - 1TB Storage - Carbon Black",
-    "condition": "excellent",
-    "price": 492.99,
-    "regularPrice": 799.99,
-    "sku": "6610629",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6610629/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:31.953Z"
-  },
-  {
-    "id": "6610889-excellent-471.99",
-    "title": "Lenovo - IdeaPad Slim 3 15.6\" Full HD Touchscreen Laptop - AMD Ryzen 7 5825U 2025 - 16GB Memory - 512GB SSD - Arctic Grey",
-    "condition": "excellent",
-    "price": 471.99,
-    "regularPrice": 749.99,
-    "sku": "6610889",
-    "model": "82XM00LMUS",
-    "upc": "198155791086",
-    "link": "https://api.bestbuy.com/click/-/6610889/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:32.265Z"
-  },
-  {
-    "id": "6610890-excellent-415.99",
-    "title": "Lenovo - Ideapad 1i 15.6\" Full HD Touchscreen Laptop - Intel Core i5-1334U 2023 - 16GB Memory - 512GB SSD - Abyss Blue",
-    "condition": "excellent",
-    "price": 415.99,
-    "regularPrice": 699.99,
-    "sku": "6610890",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6610890/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:32.299Z"
-  },
-  {
-    "id": "6610891-excellent-237.99",
-    "title": "Lenovo - IdeaPad Slim 3i 15.6\" Full HD Laptop - Intel Core i3-N305 2023 - 8GB Memory - 128GB UFS - Arctic Grey",
-    "condition": "excellent",
-    "price": 237.99,
-    "regularPrice": 449.99,
-    "sku": "6610891",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6610891/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:32.325Z"
-  },
-  {
-    "id": "6610894-excellent-285.99",
-    "title": "Lenovo - IdeaPad 1 15.6\" Full HD Touchscreen Laptop - AMD Ryzen 5 7520U 2022 - 8GB Memory - 256GB SSD - Abyss Blue",
-    "condition": "excellent",
-    "price": 285.99,
-    "regularPrice": 579.99,
-    "sku": "6610894",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6610894/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:32.350Z"
-  },
-  {
-    "id": "6612251-excellent-230.99",
-    "title": "HP - 15.6\" Touch-Screen Laptop - Intel Core i3 1315U 2023 - 8GB Memory - 256GB SSD - Natural Silver",
-    "condition": "excellent",
-    "price": 230.99,
-    "regularPrice": 529.99,
-    "sku": "6612251",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6612251/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:32.375Z"
-  },
-  {
-    "id": "6612252-excellent-421.99",
-    "title": "HP - 17.3\" Full HD Laptop - AMD Ryzen 5 7520U 2023 - 8GB Memory - 512GB SSD - Natural Silver",
-    "condition": "excellent",
-    "price": 421.99,
-    "regularPrice": 629.99,
-    "sku": "6612252",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6612252/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:32.400Z"
-  },
-  {
-    "id": "6612253-excellent-695.99",
-    "title": "HP - 15.6\" Full HD Touch-Screen Laptop - Intel Core i7 1355U 2023 - 16GB Memory - 512GB SSD - Natural Silver",
-    "condition": "excellent",
-    "price": 695.99,
-    "regularPrice": 799.99,
-    "sku": "6612253",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6612253/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:32.426Z"
-  },
-  {
-    "id": "6612254-excellent-111.99",
-    "title": "HP - 14\" Laptop - Intel Celeron N4500 2021 - 4GB Memory - 64GB eMMC - Snowflake White",
-    "condition": "excellent",
-    "price": 111.99,
-    "regularPrice": 199.99,
-    "sku": "6612254",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6612254/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:32.450Z"
-  },
-  {
-    "id": "6612885-excellent-379.99",
-    "title": "ASUS - Vivobook 14 14\" FHD Laptop - Intel Core i7 with 12GB Memory - 512GB SSD - Quiet Blue",
-    "condition": "excellent",
-    "price": 379.99,
-    "regularPrice": 729.99,
-    "sku": "6612885",
-    "model": "X1404VA-I712512",
-    "upc": "197105876187",
-    "link": "https://api.bestbuy.com/click/-/6612885/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:32.793Z"
-  },
-  {
-    "id": "6612930-excellent-137.99",
-    "title": "ASUS - Vivobook Go 14 14\" FHD Laptop - Intel Celeron N4500 - 4GB Memory - 128GB eMMC - Star Black",
-    "condition": "excellent",
-    "price": 137.99,
-    "regularPrice": 199.99,
-    "sku": "6612930",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6612930/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:32.822Z"
-  },
-  {
-    "id": "6612931-excellent-521.99",
-    "title": "ASUS - Vivobook 14 14\" FHD Laptop - Intel Core i5 - 12GB Memory - 256GB SSD - Quiet Blue",
-    "condition": "excellent",
-    "price": 521.99,
-    "regularPrice": 599.99,
-    "sku": "6612931",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6612931/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:32.848Z"
-  },
-  {
-    "id": "6612932-excellent-236.99",
-    "title": "ASUS - Vivobook 14 14\" FHD Laptop - Intel Core i3 - 8GB Memory - 128GB SSD - Quiet Blue",
-    "condition": "excellent",
-    "price": 236.99,
-    "regularPrice": 449.99,
-    "sku": "6612932",
-    "model": "X1404VA-I38128",
-    "upc": "197105865112",
-    "link": "https://api.bestbuy.com/click/-/6612932/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:33.184Z"
-  },
-  {
-    "id": "6612975-excellent-139.99",
-    "title": "HP - 14\" Laptop - Intel Processor N150 2025 - 4GB Memory - 128GB UFS - Natural Silver",
-    "condition": "excellent",
-    "price": 139.99,
-    "regularPrice": 219.99,
-    "sku": "6612975",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6612975/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:33.211Z"
-  },
-  {
-    "id": "6612976-excellent-138.99",
-    "title": "HP - 14\" Laptop - Intel Processor N150 2025 - 4GB Memory - 128GB UFS - Pale Rose Gold",
-    "condition": "excellent",
-    "price": 138.99,
-    "regularPrice": 219.99,
-    "sku": "6612976",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6612976/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:33.238Z"
-  },
-  {
-    "id": "6612977-excellent-175.99",
-    "title": "HP - 14\" Chromebook - Intel Celeron N4500 2021 - 4GB Memory - 64GB eMMC - Modern Grey",
-    "condition": "excellent",
-    "price": 175.99,
-    "regularPrice": 329,
-    "sku": "6612977",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6612977/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:33.265Z"
-  },
-  {
-    "id": "6612978-excellent-173.99",
-    "title": "HP - 17.3\" HD+ Laptop - Intel Core i3 N305 2023 - 8GB Memory - 256GB SSD - Natural Silver",
-    "condition": "excellent",
-    "price": 173.99,
-    "regularPrice": 579.99,
-    "sku": "6612978",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6612978/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:33.290Z"
-  },
-  {
-    "id": "6613608-excellent-1269.99",
-    "title": "Samsung - Galaxy Book5 Pro - Copilot+ PC - 16\" 3K AMOLED Touch-Screen Laptop - Intel Core Ultra 7 - 16GB Memory - 1TB SSD - Gray",
-    "condition": "excellent",
-    "price": 1269.99,
-    "regularPrice": 1649.99,
-    "sku": "6613608",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6613608/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:33.315Z"
-  },
-  {
-    "id": "6613609-excellent-972.99",
-    "title": "Samsung - Galaxy Book5 360 - Copilot+ PC - 15.6\" FHD AMOLED Touch-Screen Laptop - Intel Core Ultra 7 - 16GB Memory - 512GB SSD - Gray",
-    "condition": "excellent",
-    "price": 972.99,
-    "regularPrice": 1349.99,
-    "sku": "6613609",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6613609/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:33.342Z"
-  },
-  {
-    "id": "6613610-excellent-1081.99",
-    "title": "Samsung - Galaxy Book5 Pro - Copilot+ PC - 14\" 3K AMOLED Touch-Screen Laptop - Intel Core Ultra 7 - 16GB Memory - 512GB SSD - Gray",
-    "condition": "excellent",
-    "price": 1081.99,
-    "regularPrice": 1349.99,
-    "sku": "6613610",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6613610/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:33.369Z"
-  },
-  {
-    "id": "6613860-excellent-674.99",
-    "title": "HP - OmniBook X Flip 2-in-1 - Copilot+ PC - 14\" 2K Touch-Screen Laptop - AMD Ryzen AI 7 350 2025 - 24GB Memory - 1TB SSD - Meteor Silver",
-    "condition": "excellent",
-    "price": 674.99,
-    "regularPrice": 1049.99,
-    "sku": "6613860",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6613860/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:33.393Z"
-  },
-  {
-    "id": "6613861-excellent-635.99",
-    "title": "HP - OmniBook X Flip 2-in-1 - Copilot+ PC - 14\" 2K Touch-Screen Laptop - AMD Ryzen AI 5 340 2025 - 16GB Memory - 512GB SSD - Meteor Silver",
-    "condition": "excellent",
-    "price": 635.99,
-    "regularPrice": 849.99,
-    "sku": "6613861",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6613861/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:33.419Z"
-  },
-  {
-    "id": "6613862-excellent-709.99",
-    "title": "HP - OmniBook X Flip 2-in-1 - Copilot+ PC - 16\" 2K Touch-Screen Laptop - AMD Ryzen AI 7 350 2025 - 24GB Memory - 1TB SSD - Meteor Silver",
-    "condition": "excellent",
-    "price": 709.99,
-    "regularPrice": 1049.99,
-    "sku": "6613862",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6613862/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:33.445Z"
-  },
-  {
-    "id": "6613865-excellent-890.99",
-    "title": "HP - OmniBook X Flip 2-in-1 - Copilot+ PC - 16\" 2K Touch-Screen Laptop - Intel Core Ultra 7 256V '24 - 16GB Memory - 1TB SSD - Eclipse Gray",
-    "condition": "excellent",
-    "price": 890.99,
-    "regularPrice": 1099.99,
-    "sku": "6613865",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6613865/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:33.470Z"
-  },
-  {
-    "id": "6613866-excellent-1045.99",
-    "title": "HP - OmniBook X Flip 2-in-1 - Copilot+ PC - 16\" 2K Touch-Screen Laptop - Intel Core Ultra 7 258V 2024 - 32GB Memory - 2TB SSD - Eclipse Gray",
-    "condition": "excellent",
-    "price": 1045.99,
-    "regularPrice": 1349.99,
-    "sku": "6613866",
-    "model": "16-AS0033DX",
-    "upc": "198990145389",
-    "link": "https://api.bestbuy.com/click/-/6613866/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:33.789Z"
-  },
-  {
-    "id": "6613867-excellent-584.99",
-    "title": "HP - OmniBook X Flip 2-in-1 - Copilot+ PC - 14\" 2K Touch-Screen Laptop - Intel Core Ultra 7 256V 2024 - 16GB Memory - 1TB SSD - Atmospheric Blue",
-    "condition": "excellent",
-    "price": 584.99,
-    "regularPrice": 1049.99,
-    "sku": "6613867",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6613867/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:33.819Z"
-  },
-  {
-    "id": "6613868-excellent-434.99",
-    "title": "HP - OmniBook X Flip 2-in-1 - Copilot+ PC - 14\" 2K Touch-Screen Laptop - Intel Core Ultra 5 226V - 16GB Memory - 512GB SSD - Atmospheric Blue",
-    "condition": "excellent",
-    "price": 434.99,
-    "regularPrice": 849.99,
-    "sku": "6613868",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6613868/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:33.845Z"
-  },
-  {
-    "id": "6613869-excellent-815.99",
-    "title": "HP - OmniBook X Flip 2-in-1 - Copilot+ PC - 16\" 2K Touch-Screen Laptop - AMD Ryzen AI 5 340 2025 - 16GB Memory - 512GB SSD - Meteor Silver",
-    "condition": "excellent",
-    "price": 815.99,
-    "regularPrice": 849.99,
-    "sku": "6613869",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6613869/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:33.871Z"
-  },
-  {
-    "id": "6613870-excellent-638.99",
-    "title": "HP - OmniBook X Flip 2-in-1 - Copilot+ PC - 16\" 2K Touch-Screen Laptop - Intel Core Ultra 5 226V - 16GB Memory - 512GB SSD - Eclipse Gray",
-    "condition": "excellent",
-    "price": 638.99,
-    "regularPrice": 899.99,
-    "sku": "6613870",
-    "model": "16-AS0013DX",
-    "upc": "198990145341",
-    "link": "https://api.bestbuy.com/click/-/6613870/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:34.192Z"
-  },
-  {
-    "id": "6613871-excellent-317.99",
-    "title": "HP - OmniBook X Flip 2-in-1 16\" 2K Touch-Screen Laptop - AMD Ryzen 5 220 2025 - 8GB Memory - 512GB SSD - Meteor Silver",
-    "condition": "excellent",
-    "price": 317.99,
-    "regularPrice": 749.99,
-    "sku": "6613871",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6613871/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:34.219Z"
-  },
-  {
-    "id": "6613877-excellent-143.99",
-    "title": "HP - 14\" Laptop - Intel Processor N150 2025 - 4GB Memory - 128GB UFS - Sky Blue",
-    "condition": "excellent",
-    "price": 143.99,
-    "regularPrice": 219.99,
-    "sku": "6613877",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6613877/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:34.247Z"
-  },
-  {
-    "id": "6613878-excellent-137.99",
-    "title": "HP - 14\" Laptop - Intel Processor N150 2025 - 4GB Memory - 128GB UFS - Honey Lavender",
-    "condition": "excellent",
-    "price": 137.99,
-    "regularPrice": 219.99,
-    "sku": "6613878",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6613878/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:34.273Z"
-  },
-  {
-    "id": "6613879-excellent-137.99",
-    "title": "HP - 14\" Laptop - Intel Processor N150 2025 - 4GB Memory - 128GB UFS - Willow Green",
-    "condition": "excellent",
-    "price": 137.99,
-    "regularPrice": 219.99,
-    "sku": "6613879",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6613879/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:34.298Z"
-  },
-  {
-    "id": "6613975-excellent-1552.99",
-    "title": "Samsung - Galaxy Book5 Pro - Copilot+ PC - 16\" 3K AMOLED Touch-Screen Laptop - Intel Core Ultra 7 - 32GB Memory - 1TB SSD - Gray",
-    "condition": "excellent",
-    "price": 1552.99,
-    "regularPrice": 1749.99,
-    "sku": "6613975",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6613975/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:34.324Z"
-  },
-  {
-    "id": "6613976-excellent-1512.99",
-    "title": "Samsung - Galaxy Book5 Pro - Copilot+ PC - 14\" 3K AMOLED Touch-Screen Laptop - Intel Core Ultra 7 - 32GB Memory - 1TB SSD - Gray",
-    "condition": "excellent",
-    "price": 1512.99,
-    "regularPrice": 1649.99,
-    "sku": "6613976",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6613976/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:34.353Z"
-  },
-  {
-    "id": "6614107-excellent-769.99",
-    "title": "HP - OmniBook 5 Flip 2-in-1 14\" 2K Touch-Screen Laptop - Intel Core 7 150U 2024- 16GB Memory - 512GB SSD - Glacier Silver",
-    "condition": "excellent",
-    "price": 769.99,
-    "regularPrice": 799.99,
-    "sku": "6614107",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6614107/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:34.379Z"
-  },
-  {
-    "id": "6614108-excellent-566.99",
-    "title": "HP - OmniBook X - Copilot+ PC - 17.3\" Full HD Touch-Screen Laptop - Intel Core Ultra 7 256V 2024 - 16GB Memory - 1TB SSD - Glacier Silver",
-    "condition": "excellent",
-    "price": 566.99,
-    "regularPrice": 1349.99,
-    "sku": "6614108",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6614108/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:34.406Z"
-  },
-  {
-    "id": "6614109-excellent-441.99",
-    "title": "HP - OmniBook 5 Flip 2-in-1 14\" 2K Touch-Screen Laptop - Intel Core 5 120U 2024 - 8GB Memory - 512GB SSD - Glacier Silver",
-    "condition": "excellent",
-    "price": 441.99,
-    "regularPrice": 699.99,
-    "sku": "6614109",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6614109/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:34.433Z"
-  },
-  {
-    "id": "6614110-excellent-1141.99",
-    "title": "HP - OmniBook X - Copilot+ PC - 17.3\" Full HD Touch-Screen Laptop - Intel Core Ultra 7 258V 2024 - 32GB Memory - 2TB SSD - Glacier Silver",
-    "condition": "excellent",
-    "price": 1141.99,
-    "regularPrice": 1499.99,
-    "sku": "6614110",
-    "model": "17-DD0033DX",
-    "upc": "198990145402",
-    "link": "https://api.bestbuy.com/click/-/6614110/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:34.741Z"
-  },
-  {
-    "id": "6614873-excellent-774.99",
-    "title": "Lenovo - Yoga 7 2-in-1 16\" 2K Touchscreen Laptop - AMD Ryzen 7 8840HS 2023 - 16GB Memory - 512GB SSD - Artic Grey",
-    "condition": "excellent",
-    "price": 774.99,
-    "regularPrice": 949.99,
-    "sku": "6614873",
-    "model": "83DM0006US",
-    "upc": "198155959332",
-    "link": "https://api.bestbuy.com/click/-/6614873/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:35.054Z"
-  },
-  {
-    "id": "6615259-excellent-1477.99",
-    "title": "LG - gram 17\" Touch Screen Laptop - Copilot+ PC - Intel Core Ultra 7 Series 2 with 32GB Memory - 1TB SSD - Obsidian Black",
-    "condition": "excellent",
-    "price": 1477.99,
-    "regularPrice": 1699.99,
-    "sku": "6615259",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6615259/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:35.086Z"
-  },
-  {
-    "id": "6615260-excellent-1847.99",
-    "title": "LG - gram 17\" Touch Screen Laptop - Copilot+ PC - Intel Core Ultra 9 Series 2 with 32GB Memory - 1TB SSD - Obsidian Black",
-    "condition": "excellent",
-    "price": 1847.99,
-    "regularPrice": 1999.99,
-    "sku": "6615260",
-    "model": "17Z90TL-H.AUB8U3",
-    "upc": "195174113240",
-    "link": "https://api.bestbuy.com/click/-/6615260/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:36.547Z"
-  },
-  {
-    "id": "6615728-excellent-843.99",
-    "title": "ASUS - Zenbook A14 14\" FHD+ OLED Laptop - Copilot+ PC - Snapdragon X Plus - 16GB RAM - 512GB SSD - Zabriskie Beige",
-    "condition": "excellent",
-    "price": 843.99,
-    "regularPrice": 999.99,
-    "sku": "6615728",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6615728/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:36.575Z"
-  },
-  {
-    "id": "6615729-excellent-782.99",
-    "title": "ASUS - Zenbook 14 14\" FHD+ OLED Touch Screen Laptop - Intel Core Ultra 9 - 32GB RAM - 1TB SSD - Jasper Gray",
-    "condition": "excellent",
-    "price": 782.99,
-    "regularPrice": 1299.99,
-    "sku": "6615729",
-    "model": "UX3405CA-U9321TB",
-    "upc": "197105869509",
-    "link": "https://api.bestbuy.com/click/-/6615729/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:36.909Z"
-  },
-  {
-    "id": "6615730-excellent-963.99",
-    "title": "ASUS - Zenbook S 14 14\" 3K OLED Touch Screen Laptop - Copilot+ PC - Intel Core Ultra 7 - 32GB RAM - 1TB SSD - Zumaia Gray",
-    "condition": "excellent",
-    "price": 963.99,
-    "regularPrice": 1599.99,
-    "sku": "6615730",
-    "model": "UX5406SA-S14.U732G1T",
-    "upc": "197105877931",
-    "link": "https://api.bestbuy.com/click/-/6615730/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:37.226Z"
-  },
-  {
-    "id": "6615731-excellent-736.99",
-    "title": "ASUS - Zenbook 14 14\" FHD+ OLED Touch Screen Laptop - Intel Core Ultra 7 - 16GB RAM - 512GB SSD - Jasper Gray",
-    "condition": "excellent",
-    "price": 736.99,
-    "regularPrice": 999.99,
-    "sku": "6615731",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6615731/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:37.256Z"
-  },
-  {
-    "id": "6615766-excellent-1105.99",
-    "title": "Lenovo - Yoga 9i 2-in-1 Aura Edition - Copilot+ PC - 14\" 3K 120Hz OLED Touchscreen Laptop - Intel Core Ultra 7 258V - 32GB - 1TB - Cosmic Blue",
-    "condition": "excellent",
-    "price": 1105.99,
-    "regularPrice": 1549.99,
-    "sku": "6615766",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6615766/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:37.282Z"
-  },
-  {
-    "id": "6615767-excellent-532.99",
-    "title": "Lenovo - Yoga 7 2-in-1 - Copilot+ PC - 16\" Full HD LCD Touchscreen Laptop - AMD Ryzen AI 7 350 2025 - 16GB Memory - 1TB SSD - Seashell",
-    "condition": "excellent",
-    "price": 532.99,
-    "regularPrice": 1049.99,
-    "sku": "6615767",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6615767/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:37.309Z"
-  },
-  {
-    "id": "6615768-excellent-1254.99",
-    "title": "Lenovo - Yoga Pro 9i 16\" 2.8K OLED Touchscreen Laptop - Intel Core Ultra 9 2025 - NVIDIA GeForce RTX 5050 - 32GB RAM - 1TB - Luna Grey",
-    "condition": "excellent",
-    "price": 1254.99,
-    "regularPrice": 1949.99,
-    "sku": "6615768",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6615768/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:37.335Z"
-  },
-  {
-    "id": "6615769-excellent-789.99",
-    "title": "Lenovo - Yoga 7i 2-in-1 - Copilot+ PC - 16\" 2K Touchscreen Laptop - Intel Core Ultra 5 Processor 2024 - 16GB Memory - 512GB SSD - Luna Grey",
-    "condition": "excellent",
-    "price": 789.99,
-    "regularPrice": 899.99,
-    "sku": "6615769",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6615769/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:37.360Z"
-  },
-  {
-    "id": "6615770-excellent-929.99",
-    "title": "Lenovo - Yoga 7i 2-in-1 - Copilot+ PC - 14\" 2K OLED Touchscreen Laptop - Intel Core Ultra 5 226V 2024 - 16GB Memory - 512GB SSD - Luna Grey",
-    "condition": "excellent",
-    "price": 929.99,
-    "regularPrice": 949.99,
-    "sku": "6615770",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6615770/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:37.386Z"
-  },
-  {
-    "id": "6615773-excellent-779.99",
-    "title": "Lenovo - Yoga 7 2-in-1 - Copilot+ PC - 14\" 2K OLED Touchscreen Laptop - AMD Ryzen AI 7 350 2025- 16GB Memory - 1TB SSD - Seashell",
-    "condition": "excellent",
-    "price": 779.99,
-    "regularPrice": 1099.99,
-    "sku": "6615773",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6615773/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:37.411Z"
-  },
-  {
-    "id": "6615774-excellent-524.99",
-    "title": "Lenovo - Yoga 7 2-in-1 - Copilot+ PC - 16\" 2K LCD Touchscreen Laptop - AMD Ryzen AI 5 340 2025 - 16GB Memory - 512GB SSD - Seashell",
-    "condition": "excellent",
-    "price": 524.99,
-    "regularPrice": 899.99,
-    "sku": "6615774",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6615774/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:37.437Z"
-  },
-  {
-    "id": "6615775-excellent-1601.99",
-    "title": "Lenovo - Yoga Book 9i 2-in-1 14\" 2.8K Dual Screen OLED Touchscreen Laptop - Intel Core Ultra 7 255H 2025 - 16GB RAM - 1TB SSD - Tidal Teal",
-    "condition": "excellent",
-    "price": 1601.99,
-    "regularPrice": 2199.99,
-    "sku": "6615775",
-    "model": "83KJ0000US",
-    "upc": "198155423680",
-    "link": "https://api.bestbuy.com/click/-/6615775/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:37.751Z"
-  },
-  {
-    "id": "6615776-excellent-672.99",
-    "title": "Lenovo - Yoga 7i 2-in-1 - Copilot+ PC - 16\" 2K Touchscreen Laptop - Intel Core Ultra 7 256V 2024 - 16GB Memory - 1TB SSD - Luna Grey",
-    "condition": "excellent",
-    "price": 672.99,
-    "regularPrice": 1099.99,
-    "sku": "6615776",
-    "model": "83JT0001US",
-    "upc": "198155420955",
-    "link": "https://api.bestbuy.com/click/-/6615776/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:38.102Z"
-  },
-  {
-    "id": "6615777-excellent-964.99",
-    "title": "Lenovo - Yoga 7i 2-in-1 - Copilot+ PC - 14\" 2K OLED Touchscreen Laptop - Intel Core Ultra 7 256V 2024 - 16GB Memory - 1TB SSD - Luna Grey",
-    "condition": "excellent",
-    "price": 964.99,
-    "regularPrice": 1099.99,
-    "sku": "6615777",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6615777/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:38.136Z"
-  },
-  {
-    "id": "6615841-excellent-434.99",
-    "title": "Lenovo - Yoga 7 2-in-1 - Copilot+ PC - 14\" 2K OLED Touchscreen Laptop - AMD Ryzen AI 5 340 2025 - 16GB Memory - 512GB SSD - Seashell",
-    "condition": "excellent",
-    "price": 434.99,
-    "regularPrice": 949.99,
-    "sku": "6615841",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6615841/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:38.161Z"
-  },
-  {
-    "id": "6616009-excellent-1812.99",
-    "title": "ASUS - ExpertBook B9 OLED Laptop - Intel Core 7 with 32GB Memory - 1TB SSD - Star Black",
-    "condition": "excellent",
-    "price": 1812.99,
-    "regularPrice": 1949.99,
-    "sku": "6616009",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6616009/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:38.188Z"
-  },
-  {
-    "id": "6616071-excellent-404.99",
-    "title": "Dell - Inspiron 14 - 14\" 2K 2-in-1 Touchscreen Laptop - Intel Core 5 120U 2024 - 16GB Memory - 512GB Storage - Ice Blue",
-    "condition": "excellent",
-    "price": 404.99,
-    "regularPrice": 749.99,
-    "sku": "6616071",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6616071/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:38.214Z"
-  },
-  {
-    "id": "6616966-excellent-1189.99",
-    "title": "ASUS - Zenbook 14 14\" OLED Touch Laptop - Intel Core Ultra 9 285H with 32GB Memory - Intel Arc Graphics - 1TB Storage - Foggy Silver",
-    "condition": "excellent",
-    "price": 1189.99,
-    "regularPrice": 1399.99,
-    "sku": "6616966",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6616966/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:38.240Z"
-  },
-  {
-    "id": "6617151-excellent-1325.99",
-    "title": "Lenovo - Yoga Slim 9i - Copilot+ PC - 14\" 4K 120Hz OLED Touchscreen Laptop - Intel Core Ultra 7 258V 2024 - 32GB RAM - 1TB SSD - Tidal Teal",
-    "condition": "excellent",
-    "price": 1325.99,
-    "regularPrice": 1999.99,
-    "sku": "6617151",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6617151/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:38.267Z"
-  },
-  {
-    "id": "6617381-excellent-650.99",
-    "title": "ASUS - Vivobook 16 16\" FHD+ Laptop - Intel Core i7-13620H with 16GB Memory - 512GB SSD - Cool Silver",
-    "condition": "excellent",
-    "price": 650.99,
-    "regularPrice": 699.99,
-    "sku": "6617381",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6617381/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:38.293Z"
-  },
-  {
-    "id": "6618657-excellent-940.99",
-    "title": "Dell - Plus - Copilot+ PC - 14\" 2K 2-in-1 Touchscreen Laptop - Intel Core Ultra 7 256V 2024 - 16GB Memory - 1TB Storage - Ice Blue",
-    "condition": "excellent",
-    "price": 940.99,
-    "regularPrice": 1099.99,
-    "sku": "6618657",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6618657/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:38.319Z"
-  },
-  {
-    "id": "6619038-excellent-1524.99",
-    "title": "ASUS - Zenbook Duo Dual 14\" 3K OLED Touch Laptop - Evo Intel Core Ultra 9 285H with 32GB RAM - Intel Arc Graphics - 1TB SSD - Inkwell Gray",
-    "condition": "excellent",
-    "price": 1524.99,
-    "regularPrice": 1799.99,
-    "sku": "6619038",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6619038/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:38.344Z"
-  },
-  {
-    "id": "6619039-excellent-649.99",
-    "title": "ASUS - Vivobook 14\" FHD+ Laptop - Copilot+ PC - Snapdragon X with 16GB Memory - 512GB SSD - Cool Silver",
-    "condition": "excellent",
-    "price": 649.99,
-    "regularPrice": 749.99,
-    "sku": "6619039",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6619039/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:38.369Z"
-  },
-  {
-    "id": "6619123-excellent-945.99",
-    "title": "Dell - Plus - Copilot+ PC - 14\" 2K 2-in-1 Touchscreen Laptop - Intel Core Ultra 9 288V 2024 - 32GB Memory - 1TB Storage - Ice Blue",
-    "condition": "excellent",
-    "price": 945.99,
-    "regularPrice": 1399.99,
-    "sku": "6619123",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6619123/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:38.396Z"
-  },
-  {
-    "id": "6619145-excellent-141.99",
-    "title": "Lenovo - IdeaPad Slim 3 Chromebook 14\" Full HD Laptop - MediaTek Kompanio 520 2022 - 4GB Memory - 64GB eMMC - Abyss Blue",
-    "condition": "excellent",
-    "price": 141.99,
-    "regularPrice": 319,
-    "sku": "6619145",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6619145/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:38.424Z"
-  },
-  {
-    "id": "6619147-excellent-336.99",
-    "title": "Lenovo - IdeaPad Slim 3x - Copilot+ PC - 15.3\" 2k Touchscreen Laptop - Snapdragon X X1-26-100 2025 - 16GB Memory - 256GB SSD - Luna Grey",
-    "condition": "excellent",
-    "price": 336.99,
-    "regularPrice": 749.99,
-    "sku": "6619147",
-    "model": "83N30000US",
-    "upc": "198156688347",
-    "link": "https://api.bestbuy.com/click/-/6619147/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:38.734Z"
-  },
-  {
-    "id": "6619285-excellent-1739.99",
-    "title": "LG - gram Pro 2in1 16\" OLED Touch Screen Laptop - Intel Core Ultra7 255H with 16GB RAM - 1TB SSD - Obsidian Black",
-    "condition": "excellent",
-    "price": 1739.99,
-    "regularPrice": 2099.99,
-    "sku": "6619285",
-    "model": "16T90TP-K.AAB4U1",
-    "upc": "195174110195",
-    "link": "https://api.bestbuy.com/click/-/6619285/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:39.048Z"
-  },
-  {
-    "id": "6619311-excellent-460.99",
-    "title": "Dell - Inspiron - Copilot+ PC - 14\" 2K Laptop - Snapdragon X X1-26-100 2025 - 16GB Memory - 512GB Storage - Titan Grey",
-    "condition": "excellent",
-    "price": 460.99,
-    "regularPrice": 799.99,
-    "sku": "6619311",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6619311/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:39.074Z"
-  },
-  {
-    "id": "6620390-excellent-1311.99",
-    "title": "Dell - Plus - Copilot+ PC - 16\" 2.5K 2-in-1 Touchscreen Laptop - Intel Core Ultra 9 288V 2024 - 32GB Memory - 1TB Storage - Midnight Blue",
-    "condition": "excellent",
-    "price": 1311.99,
-    "regularPrice": 1599.99,
-    "sku": "6620390",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6620390/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:39.098Z"
-  },
-  {
-    "id": "6620392-excellent-577.99",
-    "title": "Dell - Plus - Copilot+ PC - 16\" 2K 2-in-1 Touchscreen Laptop - Intel Core Ultra 7 256V 2024 - 16GB Memory - 1TB Storage - Ice Blue",
-    "condition": "excellent",
-    "price": 577.99,
-    "regularPrice": 1099.99,
-    "sku": "6620392",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6620392/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:39.123Z"
-  },
-  {
-    "id": "6620603-excellent-927.99",
-    "title": "Dell - Plus - Copilot+ PC - 16\" 2K Laptop - Intel Core Ultra 5 226V 2024 - 16GB Memory - 512GB Storage - Ice Blue",
-    "condition": "excellent",
-    "price": 927.99,
-    "regularPrice": 949.99,
-    "sku": "6620603",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6620603/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:39.147Z"
-  },
-  {
-    "id": "6621274-excellent-1487.99",
-    "title": "ASUS - Zenbook S 16 16” 3K OLED Touch-Screen Laptop - Copilot+ PC - AMD Ryzen AI 7 350 - 24GB Memory - 1TB SSD - Zumaia Gray",
-    "condition": "excellent",
-    "price": 1487.99,
-    "regularPrice": 1599.99,
-    "sku": "6621274",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6621274/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:39.174Z"
-  },
-  {
-    "id": "6622093-excellent-1115.99",
-    "title": "ASUS - Vivobook 16 Flip - 16\" 3K OLED Touch Laptop - Copilot+ PC - Intel Core Ultra 7 256V with 16GB Memory - 512GB SSD - Matte Gray",
-    "condition": "excellent",
-    "price": 1115.99,
-    "regularPrice": 1199.99,
-    "sku": "6622093",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6622093/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:39.210Z"
-  },
-  {
-    "id": "6622094-excellent-836.99",
-    "title": "ASUS - Vivobook 16 16\" FHD+ Laptop - Copilot+ PC - AMD Ryzen AI 7 350 with 16GB Memory - 1TB SSD - Quiet Blue",
-    "condition": "excellent",
-    "price": 836.99,
-    "regularPrice": 899.99,
-    "sku": "6622094",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6622094/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:39.236Z"
-  },
-  {
-    "id": "6622098-excellent-709.99",
-    "title": "ASUS - Vivobook 16 16\" FHD+ Laptop - Copilot+ PC - AMD Ryzen AI 5 340 with 16GB Memory - 512GB SSD - Quiet Blue",
-    "condition": "excellent",
-    "price": 709.99,
-    "regularPrice": 799.99,
-    "sku": "6622098",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6622098/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:39.262Z"
-  },
-  {
-    "id": "6622099-excellent-1115.99",
-    "title": "ASUS - Vivobook S14 14\" FHD+ OLED Laptop - Copilot+ PC - AMD Ryzen AI 9 HX 370 with 32GB Memory - 1TB SSD - Neutral Black",
-    "condition": "excellent",
-    "price": 1115.99,
-    "regularPrice": 1199.99,
-    "sku": "6622099",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6622099/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:39.288Z"
-  },
-  {
-    "id": "6623748-excellent-2417.99",
-    "title": "GIGABYTE - AORUS MASTER 16 - 16\" 240Hz 2560x1600 WQXGA Intel Core Ultra 9 275HX - 1TB SSD - 32GB DDR5 RAM - GeForce 5070Ti - Dark Tide",
-    "condition": "excellent",
-    "price": 2417.99,
-    "regularPrice": 2599.99,
-    "sku": "6623748",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6623748/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:39.314Z"
-  },
-  {
-    "id": "6623750-excellent-2463.99",
-    "title": "GIGABYTE - AORUS MASTER 16 - 16\" 240Hz 2560x1600 WQXGA Intel Core Ultra 9 275HX - 1TB SSD - 32GB DDR5 RAM - GeForce RTX 5080 - Dark Tide",
-    "condition": "excellent",
-    "price": 2463.99,
-    "regularPrice": 3099.99,
-    "sku": "6623750",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6623750/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:39.341Z"
-  },
-  {
-    "id": "6623751-excellent-3626.99",
-    "title": "GIGABYTE - AORUS MASTER 18 - 18\" 240Hz 2560x1600 WQXGA Intel Core Ultra 9 275HX - 2TB SSD - 64GB DDR5 RAM - GeForce RTX 5090 - 5-Degree Black",
-    "condition": "excellent",
-    "price": 3626.99,
-    "regularPrice": 4399.99,
-    "sku": "6623751",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6623751/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:39.367Z"
-  },
-  {
-    "id": "6624251-excellent-3654.99",
-    "title": "GIGABYTE - AORUS MASTER 16 - 16\" 240HZ 2560x1600 WQXGA Intel Core Ultra 9 275HX - 2TB SSD - 32GB DDR5 RAM - GeForce RTX 5090 - Dark Tide",
-    "condition": "excellent",
-    "price": 3654.99,
-    "regularPrice": 4299.99,
-    "sku": "6624251",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6624251/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:39.392Z"
-  },
-  {
-    "id": "6625143-excellent-669.99",
-    "title": "ASUS - Vivobook 14 14\" FHD Laptop - Copilot+ PC - AMD Ryzen AI 7 350 with 16GB Memory - 512GB SSD - Platinum Gold",
-    "condition": "excellent",
-    "price": 669.99,
-    "regularPrice": 849.99,
-    "sku": "6625143",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6625143/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:39.418Z"
-  },
-  {
-    "id": "6625646-excellent-637.99",
-    "title": "Dell - Plus - Copilot+ PC - 14\" 2K 2-in-1 Touchscreen Laptop - AMD Ryzen AI 5 340 2025 - 16GB Memory - 512GB Storage - Midnight Blue",
-    "condition": "excellent",
-    "price": 637.99,
-    "regularPrice": 849.99,
-    "sku": "6625646",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6625646/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:39.445Z"
-  },
-  {
-    "id": "6625647-excellent-460.99",
-    "title": "Dell - Plus - Copilot+ PC - 14\" 2K 2-in-1 Touchscreen Laptop - AMD Ryzen AI 7 350 2025 - 16GB Memory - 1TB Storage - Midnight Blue",
-    "condition": "excellent",
-    "price": 460.99,
-    "regularPrice": 999.99,
-    "sku": "6625647",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6625647/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:39.471Z"
-  },
-  {
-    "id": "6626050-excellent-1189.99",
-    "title": "ASUS - Vivobook S 15 15.6\" 3K OLED Laptop - Copilot+ PC - Snapdragon X Elite - 32GB Memory - 1TB SSD - Cool Silver",
-    "condition": "excellent",
-    "price": 1189.99,
-    "regularPrice": 1399.99,
-    "sku": "6626050",
-    "model": "S5507QAD-PS99",
-    "upc": "197105553712",
-    "link": "https://api.bestbuy.com/click/-/6626050/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:39.781Z"
-  },
-  {
-    "id": "6626051-excellent-436.99",
-    "title": "ASUS - Vivobook 15 15.6\" FHD Laptop - Intel Core i3 with 8GB Memory - 512GB SSD - Quiet Blue",
-    "condition": "excellent",
-    "price": 436.99,
-    "regularPrice": 469.99,
-    "sku": "6626051",
-    "model": "F1504ZA-SB36",
-    "upc": "197105466234",
-    "link": "https://api.bestbuy.com/click/-/6626051/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:40.096Z"
-  },
-  {
-    "id": "6628354-excellent-1026.99",
-    "title": "Dell - Plus - Copilot+ PC - 16\" 2K Touchscreen Laptop - AMD Ryzen AI 7 350 2025 - 32GB Memory - 1TB Storage - Ice Blue",
-    "condition": "excellent",
-    "price": 1026.99,
-    "regularPrice": 1099.99,
-    "sku": "6628354",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6628354/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:40.124Z"
-  },
-  {
-    "id": "6628459-excellent-1516.99",
-    "title": "HP - OmniBook X 16\" 2K OLED Touch-Screen Laptop - Intel Core Ultra 7 2025 - 32GB Memory - NVIDIA GeForce RTX 4050 - 2TB SSD - Meteor Silver",
-    "condition": "excellent",
-    "price": 1516.99,
-    "regularPrice": 1549.99,
-    "sku": "6628459",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6628459/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:40.151Z"
-  },
-  {
-    "id": "6629539-excellent-929.99",
-    "title": "ASUS - TUF Gaming F16 16\" 144Hz FHD+ Gaming Laptop - Intel Core 5 210H with 8GB Memory - NVIDIA GeForce RTX 4050 - 512GB SSD - Mecha Gray",
-    "condition": "excellent",
-    "price": 929.99,
-    "regularPrice": 999.99,
-    "sku": "6629539",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6629539/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:40.178Z"
-  },
-  {
-    "id": "6630493-excellent-578.99",
-    "title": "Lenovo - Chromebook Plus 14\" OLED 2K Touchscreen Laptop with Gemini - MediaTek Kompanio Ultra 910 - 16GB Memory - 256GB UFS - Seashell",
-    "condition": "excellent",
-    "price": 578.99,
-    "regularPrice": 749,
-    "sku": "6630493",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6630493/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:40.206Z"
-  },
-  {
-    "id": "6630918-excellent-594.99",
-    "title": "HP - OmniBook 5 16 inch Laptop Next Gen AI PC 16-ag1000nr AMD Ryzen AI 5 340 16GB RAM 512GB SSD Win 11 Silver - Glacier silver aluminum",
-    "condition": "excellent",
-    "price": 594.99,
-    "regularPrice": 819.99,
-    "sku": "6630918",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6630918/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:40.232Z"
-  },
-  {
-    "id": "6630919-excellent-678.99",
-    "title": "HP - OmniBook 5 16 inch Touch Laptop AI PC 16-af1700nr Intel Core Ultra 5 225U 16GB RAM 512GB SSD Win 11 Home - Silver",
-    "condition": "excellent",
-    "price": 678.99,
-    "regularPrice": 859.99,
-    "sku": "6630919",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6630919/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:40.259Z"
-  },
-  {
-    "id": "6631188-excellent-697.99",
-    "title": "Samsung - Galaxy Book4 Edge - Copilot+ PC - 15.6\" LED Laptop - Snapdragon X Plus - 16GB Memory- 1TB Storage - Sapphire Blue",
-    "condition": "excellent",
-    "price": 697.99,
-    "regularPrice": 999.99,
-    "sku": "6631188",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6631188/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:40.286Z"
-  },
-  {
-    "id": "6632084-excellent-3273.99",
-    "title": "ASUS - ROG Strix SCAR 16 16\" 2.5K 240Hz Gaming Laptop - Intel Core Ultra 9 HX - 32GB RAM - NVIDIA GeForce RTX 5090 - 2TB SSD - Off Black",
-    "condition": "excellent",
-    "price": 3273.99,
-    "regularPrice": 4299.99,
-    "sku": "6632084",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6632084/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:40.314Z"
-  },
-  {
-    "id": "6632408-excellent-141.99",
-    "title": "Samsung - Galaxy Chromebook Go - 14\" LED Laptop - Intel Celeron- 4GB Memory - 128GB Storage - Silver",
-    "condition": "excellent",
-    "price": 141.99,
-    "regularPrice": 329.99,
-    "sku": "6632408",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6632408/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:40.340Z"
-  },
-  {
-    "id": "6632994-excellent-2424.99",
-    "title": "ASUS - ROG Strix G16 16\" 2.5K 240Hz Gaming Laptop - AMD Ryzen 9 9955HX3D with 32GB RAM - NVIDIA GeForce RTX 5070 Ti - 1TB SSD - Eclipse Gray",
-    "condition": "excellent",
-    "price": 2424.99,
-    "regularPrice": 2499.99,
-    "sku": "6632994",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6632994/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:40.367Z"
-  },
-  {
-    "id": "6633220-excellent-431.99",
-    "title": "HP - OmniBook 5 - Copilot+ PC - 14\" 2K OLED Touch-Screen Laptop - Snapdragon X Plus 2025 - 16GB Memory - 512GB SSD - Glacier Silver",
-    "condition": "excellent",
-    "price": 431.99,
-    "regularPrice": 699.99,
-    "sku": "6633220",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6633220/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:40.394Z"
-  },
-  {
-    "id": "6633423-excellent-650.99",
-    "title": "ASUS - Vivobook 16\" FHD+ Laptop - Intel Core 5 with 16GB Memory - 512GB SSD - Indie Black",
-    "condition": "excellent",
-    "price": 650.99,
-    "regularPrice": 699.99,
-    "sku": "6633423",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6633423/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:40.421Z"
-  },
-  {
-    "id": "6633425-excellent-383.99",
-    "title": "ASUS - Vivobook Go - 15.6\" FHD Laptop - AMD Ryzen 3 with 8GB Memory - 512GB SSD - Mixed Black",
-    "condition": "excellent",
-    "price": 383.99,
-    "regularPrice": 399.99,
-    "sku": "6633425",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6633425/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:40.448Z"
-  },
-  {
-    "id": "6633426-excellent-1699.99",
-    "title": "ASUS - ROG Strix G18 18\" 2.5K 240Hz Gaming Laptop - AMD Ryzen 9 HX - 32GB RAM - NVIDIA GeForce RTX 5060 - 1TB SSD - Eclipse Gray",
-    "condition": "excellent",
-    "price": 1699.99,
-    "regularPrice": 1999.99,
-    "sku": "6633426",
-    "model": "G814PM-ES96",
-    "upc": "197105964952",
-    "link": "https://api.bestbuy.com/click/-/6633426/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:40.771Z"
-  },
-  {
-    "id": "6633872-excellent-475.99",
-    "title": "Samsung - Galaxy Book4 Edge - Copilot+ PC - 15.6\" LED Laptop - Snapdragon X- 16GB Memory- 512 GB Storage - Sapphire Blue",
-    "condition": "excellent",
-    "price": 475.99,
-    "regularPrice": 799.99,
-    "sku": "6633872",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6633872/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:40.801Z"
-  },
-  {
-    "id": "6634397-excellent-1301.99",
-    "title": "HP - OmniBook X Flip - Copilot+ PC - 16\" 3K OLED Touch-Screen Laptop - Intel Core Ultra 9 288V 2024 - 32GB Memory - 2TB SSD - Eclipse Gray",
-    "condition": "excellent",
-    "price": 1301.99,
-    "regularPrice": 1529.99,
-    "sku": "6634397",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6634397/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:40.827Z"
-  },
-  {
-    "id": "6635276-excellent-2045.99",
-    "title": "ASUS - ROG Strix G16 (2025) 16\" Nebula 2.5K 240Hz Gaming Laptop- Intel Core Ultra 9 275HX- 32GB DDR5- GeForce RTX 5070- 2TB SSD - Eclipse Gray",
-    "condition": "excellent",
-    "price": 2045.99,
-    "regularPrice": 2399.99,
-    "sku": "6635276",
-    "model": "G615LP-XS97",
-    "upc": "197105922921",
-    "link": "https://api.bestbuy.com/click/-/6635276/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:41.160Z"
-  },
-  {
-    "id": "6635281-excellent-464.99",
-    "title": "ASUS - CX34 14\" FHD Chromebook Plus Laptop with Google AI - Intel Core i3 with 8GB Memory - 256 GB SSD - Pearl White",
-    "condition": "excellent",
-    "price": 464.99,
-    "regularPrice": 499.99,
-    "sku": "6635281",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6635281/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:41.187Z"
-  },
-  {
-    "id": "6635282-excellent-726.99",
-    "title": "ASUS - Vivobook 17 17.3\" FHD Laptop - Intel Core i7-1355U with 16GB RAM - 1TB SSD - Cool Silver",
-    "condition": "excellent",
-    "price": 726.99,
-    "regularPrice": 749.99,
-    "sku": "6635282",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6635282/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:41.214Z"
-  },
-  {
-    "id": "6635525-excellent-652.99",
-    "title": "Samsung - Galaxy Book5 15.6\" FHD IPS LED Laptop - Intel Core Ultra 7- 16GB Memory - 512GB SSD - Silver",
-    "condition": "excellent",
-    "price": 652.99,
-    "regularPrice": 999.99,
-    "sku": "6635525",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6635525/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:41.240Z"
-  },
-  {
-    "id": "6635579-excellent-486.99",
-    "title": "HP - 15.6\" Full HD Laptop - AMD Ryzen 7 5825U 2022 - 16GB Memory - 1TB SSD - Natural Silver",
-    "condition": "excellent",
-    "price": 486.99,
-    "regularPrice": 799.99,
-    "sku": "6635579",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6635579/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:41.581Z"
-  },
-  {
-    "id": "6635753-excellent-2300.99",
-    "title": "LG - gram Pro 17\" Laptop - Intel Core Ultra 9 with 32GB Memory - NVIDIA RTX5050 -1TB SSD - Black",
-    "condition": "excellent",
-    "price": 2300.99,
-    "regularPrice": 2349.99,
-    "sku": "6635753",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6635753/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:41.607Z"
-  },
-  {
-    "id": "6636439-excellent-301.99",
-    "title": "HP - 15.6\" Full HD Touch-Screen Laptop - AMD Ryzen 5 7520U 2023 - 8GB Memory - 512GB SSD - Natural Silver",
-    "condition": "excellent",
-    "price": 301.99,
-    "regularPrice": 599.99,
-    "sku": "6636439",
-    "model": "C0CL9UA#ABA",
-    "upc": "199251872990",
-    "link": "https://api.bestbuy.com/click/-/6636439/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:41.922Z"
-  },
-  {
-    "id": "6636558-excellent-2452.99",
-    "title": "Dell - Premium - 16\" 4K Touchscreen Laptop - Intel Core Ultra 9 285H - 32GB Memory - NVIDIA GeForce RTX 5060 - 1TB Storage - Platinum",
-    "condition": "excellent",
-    "price": 2452.99,
-    "regularPrice": 2999.99,
-    "sku": "6636558",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6636558/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:41.948Z"
-  },
-  {
-    "id": "6636560-excellent-1682.99",
-    "title": "Dell - Premium - 14\" 3.2K OLED Touchsceen Laptop - Intel Core Ultra 7 255H 2025 - 32GB Memory - 1TB Storage - Platinum",
-    "condition": "excellent",
-    "price": 1682.99,
-    "regularPrice": 2099.99,
-    "sku": "6636560",
-    "model": "LDA14250-7667SLV-PUS",
-    "upc": "884116670667",
-    "link": "https://api.bestbuy.com/click/-/6636560/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:42.259Z"
-  },
-  {
-    "id": "6636563-excellent-2300.99",
-    "title": "Dell - Premium 16.3\" 4K OLED Touchscreen Laptop - Intel Core Ultra 7 255H - 32GB Memory - NVIDIA GeForce RTX 5050 - 1TB Storage - Platinum",
-    "condition": "excellent",
-    "price": 2300.99,
-    "regularPrice": 2699.99,
-    "sku": "6636563",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6636563/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:42.290Z"
-  },
-  {
-    "id": "6636605-excellent-563.99",
-    "title": "HP - 17.3\" Full HD Laptop - Intel Core i7 1355U 2023 - 16GB Memory - 1TB SSD - Natural Silver",
-    "condition": "excellent",
-    "price": 563.99,
-    "regularPrice": 899.99,
-    "sku": "6636605",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6636605/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:42.317Z"
-  },
-  {
-    "id": "6636628-excellent-561.99",
-    "title": "Lenovo - IdeaPad 1i 15.6\" Full HD Laptop- Intel Core i5-1335U 2023 - 16GB Memory - 256GB SSD - Cloud Grey",
-    "condition": "excellent",
-    "price": 561.99,
-    "regularPrice": 579.99,
-    "sku": "6636628",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6636628/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:42.341Z"
-  },
-  {
-    "id": "6636629-excellent-266.99",
-    "title": "Lenovo - IdeaPad 1 15.6\" Full HD Laptop - AMD Ryzen 5 7520U 2022 - 8GB Memory- 256GB SSD - Abyss Blue",
-    "condition": "excellent",
-    "price": 266.99,
-    "regularPrice": 529.99,
-    "sku": "6636629",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6636629/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:42.367Z"
-  },
-  {
-    "id": "6636630-excellent-464.99",
-    "title": "Lenovo - IdeaPad 1i 15.6\" Full HD Touchscreen Laptop - Intel Core i5-1335U 2023 - 8GB Memory - 256GB SSD - Abyss Blue",
-    "condition": "excellent",
-    "price": 464.99,
-    "regularPrice": 599.99,
-    "sku": "6636630",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6636630/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:42.392Z"
-  },
-  {
-    "id": "6636744-excellent-187.99",
-    "title": "HP - 15.6\" Laptop - Intel N100 2023 - 4GB Memory - 128GB UFS - Natural Silver",
-    "condition": "excellent",
-    "price": 187.99,
-    "regularPrice": 249.99,
-    "sku": "6636744",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6636744/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:42.418Z"
-  },
-  {
-    "id": "6636931-excellent-1384.99",
-    "title": "HP - OmniBook X - Copilot+ PC - 17.3\" Full HD Touch-Screen Laptop - Intel Core Ultra 9 288V 2024 - 32GB Memory - 2TB SSD - Glacier Silver",
-    "condition": "excellent",
-    "price": 1384.99,
-    "regularPrice": 1599.99,
-    "sku": "6636931",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6636931/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:42.442Z"
-  },
-  {
-    "id": "6637409-excellent-447.99",
-    "title": "HP - 15.6\" Laptop - Intel Core i3 N305 2023 - 8GB Memory - 128GB UFS - Natural Silver",
-    "condition": "excellent",
-    "price": 447.99,
-    "regularPrice": 499.99,
-    "sku": "6637409",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6637409/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:42.468Z"
-  },
-  {
-    "id": "6637503-excellent-629.99",
-    "title": "HP - 15.6\" Full HD Touch-Screen Laptop - Intel Core i5 1334U 2023 - 16GB Memory - 512GB SSD - Natural Silver",
-    "condition": "excellent",
-    "price": 629.99,
-    "regularPrice": 649.99,
-    "sku": "6637503",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6637503/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:42.494Z"
-  },
-  {
-    "id": "6637506-excellent-339.99",
-    "title": "HP - 15.6\" Touch-Screen Laptop - Intel Core i3 1315U 2023 - 8GB Memory - 256GB SSD - Natural Silver",
-    "condition": "excellent",
-    "price": 339.99,
-    "regularPrice": 529.99,
-    "sku": "6637506",
-    "model": "C20BPUA#ABA",
-    "upc": "199485164434",
-    "link": "https://api.bestbuy.com/click/-/6637506/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:44.023Z"
-  },
-  {
-    "id": "6638909-excellent-269.99",
-    "title": "ASUS - Vivobook 14 14\" FHD Laptop - Intel Core 5 120U with 8GB Memory - 256GB SSD - Quiet Blue",
-    "condition": "excellent",
-    "price": 269.99,
-    "regularPrice": 529.99,
-    "sku": "6638909",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6638909/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:44.050Z"
-  },
-  {
-    "id": "6639086-excellent-699.99",
-    "title": "HP - OmniBook 3 - Copilot+ PC - 15.6\" Full HD Touch-Screen Laptop - AMD Ryzen 5 AI 5 330 2025 - 16GB Memory - 512GB SSD - Glacier Silver",
-    "condition": "excellent",
-    "price": 699.99,
-    "regularPrice": 799.99,
-    "sku": "6639086",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6639086/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:44.076Z"
-  },
-  {
-    "id": "6640893-excellent-643.99",
-    "title": "HP - OmniBook 5 - Copilot+ PC - 16\" 2K OLED Touch-Screen Laptop - Snapdragon X Plus 2025 - 16GB Memory - 1TB SSD - Glacier Silver",
-    "condition": "excellent",
-    "price": 643.99,
-    "regularPrice": 799.99,
-    "sku": "6640893",
-    "model": "BV9U6UA#ABA",
-    "upc": "199251661372",
-    "link": "https://api.bestbuy.com/click/-/6640893/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:44.530Z"
-  },
-  {
-    "id": "6641736-excellent-1467.99",
-    "title": "MSI - Prestige 13”AI+ - Ukiyoe Edition 13.3\"OLED Laptop- Intel Core Ultra 7-258V– Intel ARC Graphics with 32GB Memory– 1TB SSD - Stellar Gray",
-    "condition": "excellent",
-    "price": 1467.99,
-    "regularPrice": 1999.99,
-    "sku": "6641736",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6641736/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:44.557Z"
-  },
-  {
-    "id": "6642209-excellent-703.99",
-    "title": "Dell - 15.6\" 2K Laptop - AMD Ryzen 7 7730U 2023 - 16GB Memory - 1TB Storage - Carbon Black",
-    "condition": "excellent",
-    "price": 703.99,
-    "regularPrice": 799.99,
-    "sku": "6642209",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6642209/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:44.581Z"
-  },
-  {
-    "id": "6642210-excellent-697.99",
-    "title": "Dell - 15.6\" 2K Touchscreen Laptop - Intel Core i7 1355U 2023 - 16GB Memory - 1TB Storage - Carbon Black",
-    "condition": "excellent",
-    "price": 697.99,
-    "regularPrice": 799.99,
-    "sku": "6642210",
-    "model": "LDC15250-7292BLK-PUS",
-    "upc": "884116430292",
-    "link": "https://api.bestbuy.com/click/-/6642210/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:44.895Z"
-  },
-  {
-    "id": "6642211-excellent-573.99",
-    "title": "Dell - 15.6\" 2K Touchscreen Laptop - Intel Core i5 1334U 2023 - 8GB Memory - 512GB Storage - Carbon Black",
-    "condition": "excellent",
-    "price": 573.99,
-    "regularPrice": 629.99,
-    "sku": "6642211",
-    "model": "LDC15250-5315BLK-PUS",
-    "upc": "884116430315",
-    "link": "https://api.bestbuy.com/click/-/6642211/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:45.312Z"
-  },
-  {
-    "id": "6642936-excellent-1970.99",
-    "title": "ASUS - ProArt P16 16\" 3K 120Hz OLED Touch Screen Laptop - Copilot+ PC - AMD Ryzen AI 9 HX 370 - 32GB RAM - RTX 5070 - 2TB SSD - Nano Black",
-    "condition": "excellent",
-    "price": 1970.99,
-    "regularPrice": 2399.99,
-    "sku": "6642936",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6642936/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:45.339Z"
-  },
-  {
-    "id": "6643754-excellent-631.99",
-    "title": "Dell - Inspiron - 14\" 2K 2-in-1 Touchscreen Laptop - AMD Ryzen 5 8640HS 2023 - 16GB Memory - 512GB Storage - Ice Blue",
-    "condition": "excellent",
-    "price": 631.99,
-    "regularPrice": 779.99,
-    "sku": "6643754",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6643754/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:45.364Z"
-  },
-  {
-    "id": "6648127-excellent-185.99",
-    "title": "HP - 14\" Laptop - Intel Celeron N4500 2021 - 4GB Memory - 64GB eMMC - Pale Rose Gold",
-    "condition": "excellent",
-    "price": 185.99,
-    "regularPrice": 199.99,
-    "sku": "6648127",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6648127/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T02:01:45.390Z"
-  },
-  {
-    "id": "6638910-excellent-176.99",
-    "title": "ASUS - Vivobook 14 14\" FHD Laptop - Intel Core i3-1315U with 8GB Memory - 128GB SSD - Quiet Blue",
-    "condition": "excellent",
-    "price": 176.99,
-    "regularPrice": 449.99,
-    "sku": "6638910",
-    "model": "X1404VA-V14.I38128",
-    "upc": "199291148536",
-    "link": "https://api.bestbuy.com/click/-/6638910/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T04:02:13.328Z",
+    "foundAt": "2025-12-08T05:42:01.309Z",
     "valuation": {
-      "ebayMedianPrice": 232.495,
+      "ebayMedianPrice": 1219.99,
       "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Vivobook%2014%2014%20FHD%20Intel%20Core%20i3%20128GB&LH_Sold=1",
-      "profit": -8.88,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
+      "profit": -397.16,
       "currency": "USD"
     }
   }

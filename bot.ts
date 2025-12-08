@@ -9,6 +9,7 @@ import { valuateDeal, ValuationResult } from './valuation';
 const BEST_BUY_API_KEY = process.env.BEST_BUY_API_KEY;
 const LAPTOP_CATEGORY_ID = 'abcat0502000';
 const SEEN_DEALS_FILE = path.join(__dirname, 'seen_deals.json');
+const PROFITABLE_DEALS_FILE = path.join(__dirname, 'profitable_flips.json');
 
 // --- Types ---
 interface BestBuyOffer {
@@ -83,6 +84,23 @@ function saveSeenDeals(deals: SavedDeal[]) {
     fs.writeFileSync(SEEN_DEALS_FILE, JSON.stringify(deals, null, 2));
 }
 
+function loadProfitableDeals(): SavedDeal[] {
+    if (fs.existsSync(PROFITABLE_DEALS_FILE)) {
+        try {
+            const data = fs.readFileSync(PROFITABLE_DEALS_FILE, 'utf-8');
+            return JSON.parse(data);
+        } catch (error) {
+            console.error("Error reading profitable_flips.json, starting fresh.", error);
+            return [];
+        }
+    }
+    return [];
+}
+
+function saveProfitableDeals(deals: SavedDeal[]) {
+    fs.writeFileSync(PROFITABLE_DEALS_FILE, JSON.stringify(deals, null, 2));
+}
+
 // --- Main Logic ---
 async function main() {
     if (!BEST_BUY_API_KEY) {
@@ -116,7 +134,7 @@ async function main() {
             const newDeals: SavedDeal[] = [];
             let newDealsCount = 0;
             let valuationCount = 0;
-            const MAX_VALUATIONS_PER_RUN = 3;
+            const MAX_VALUATIONS_PER_RUN = 100; // Increased to cover full page (w/ sleep)
 
             // 2. Process
             for (const product of products) {
@@ -166,24 +184,33 @@ async function main() {
 
                     // 3. Valuate
                     let valuation: ValuationResult | null = null;
-                    if (valuationCount < MAX_VALUATIONS_PER_RUN) {
+                    if (valuationCount >= MAX_VALUATIONS_PER_RUN) {
+                        console.log(`  [SAFETY] limit reached (${MAX_VALUATIONS_PER_RUN}). Skipping valuation.`);
+                    } else {
                         try {
                             console.log(`Valuating deal via eBay (${valuationCount + 1}/${MAX_VALUATIONS_PER_RUN})...`);
                             valuation = await valuateDeal(product.names.title, offer.prices.current);
                             valuationCount++;
 
                             if (valuation) {
-                                console.log(`eBay Median Sold Price: $${valuation.ebayMedianPrice.toFixed(2)}`);
-                                console.log(`Estimated Profit: $${valuation.profit.toFixed(2)}`);
-                                console.log(`Based on ${valuation.ebaySoldItemsCount} sold items.`);
+                                console.log(`  > eBay Median Sold Price: $${valuation.ebayMedianPrice.toFixed(2)}`);
+                                console.log(`  > Estimated Profit: $${valuation.profit.toFixed(2)}`);
+                                console.log(`  Based on ${valuation.ebaySoldItemsCount} sold items.`);
+
+                                if (valuation.profit >= 200) {
+                                    console.log(`  \x1b[32m$$$ PROFITABLE FLIP FOUND ($${valuation.profit.toFixed(2)}) $$$\x1b[0m`);
+                                }
                             } else {
                                 console.log("Valuation returned no data or failed.");
                             }
                         } catch (valErr) {
                             console.error("Valuation failed:", valErr);
                         }
-                    } else {
-                        console.log("Skipping valuation (limit reached).");
+
+                        // Sleep for 5-10 seconds to be gentle on eBay/Apify
+                        const sleepMs = Math.floor(Math.random() * 5000) + 5000;
+                        console.log(`  [Sleep] Waiting ${sleepMs / 1000}s...`);
+                        await new Promise(resolve => setTimeout(resolve, sleepMs));
                     }
 
 
@@ -201,22 +228,28 @@ async function main() {
                         valuation: valuation
                     };
 
+
+                    // 4. Persist Immediately (Safety first)
+                    const currentDeals = loadSeenDeals();
+                    currentDeals.push(deal);
+                    saveSeenDeals(currentDeals);
+                    console.log(`  [Saved] Deal persisted to seen_deals.json`);
+
+                    // 5. Check & Save Profitable Deal
+                    if (deal.valuation && deal.valuation.profit >= 200) {
+                        const profitableDeals = loadProfitableDeals();
+                        profitableDeals.push(deal);
+                        saveProfitableDeals(profitableDeals);
+                        console.log(`  [Saved] *** PROFITABLE DEAL persisted to profitable_flips.json ***`);
+                    }
+
                     newDeals.push(deal);
-                    seenIds.add(offerId); // Prevent duplicate adds in same run
+                    seenIds.add(offerId);
                     newDealsCount++;
                 }
             }
 
-            // 4. Persist (Per page)
-            if (newDealsCount > 0) {
-                console.log(`\nSaved ${newDealsCount} new deals from Page ${page} to seen_deals.json`);
-                // Reload current file state to append safely (in case of concurrent writes, though not issue here)
-                const currentDeals = loadSeenDeals();
-                const updatedDeals = [...currentDeals, ...newDeals];
-                saveSeenDeals(updatedDeals);
-            } else {
-                console.log(`\nNo new deals found on Page ${page}.`);
-            }
+            console.log(`\nFinished processing Page ${page}. (${newDealsCount} new deals)`);
 
             page++;
             // Rate limit page fetches
