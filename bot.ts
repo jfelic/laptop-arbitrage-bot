@@ -3,6 +3,8 @@ import * as fs from 'fs';
 import * as path from 'path';
 import 'dotenv/config';
 
+import { valuateDeal, ValuationResult } from './valuation';
+
 // --- Configuration ---
 const BEST_BUY_API_KEY = process.env.BEST_BUY_API_KEY;
 const LAPTOP_CATEGORY_ID = 'abcat0502000';
@@ -54,6 +56,7 @@ interface SavedDeal {
     upc: string;
     link: string;
     foundAt: string; // ISO Timestamp
+    valuation?: ValuationResult | null;
 }
 
 // --- Helpers ---
@@ -112,6 +115,8 @@ async function main() {
 
             const newDeals: SavedDeal[] = [];
             let newDealsCount = 0;
+            let valuationCount = 0;
+            const MAX_VALUATIONS_PER_RUN = 3;
 
             // 2. Process
             for (const product of products) {
@@ -150,6 +155,8 @@ async function main() {
 
                     console.log("------------------------------------------------");
                     console.log(`NEW DEAL FOUND: ${product.names.title}`);
+                    // ... (Logs)
+
                     console.log(`Condition: ${offer.condition}`);
                     console.log(`Price: $${offer.prices.current} (Regular: $${offer.prices.regular})`);
                     console.log(`SKU: ${product.sku}`);
@@ -157,7 +164,28 @@ async function main() {
                     console.log(`UPC: ${upc}`);
                     console.log(`Link: ${product.links.web}`);
 
-                    // TODO: Valuate & Profit Math (Phase 1, Part 2)
+                    // 3. Valuate
+                    let valuation: ValuationResult | null = null;
+                    if (valuationCount < MAX_VALUATIONS_PER_RUN) {
+                        try {
+                            console.log(`Valuating deal via eBay (${valuationCount + 1}/${MAX_VALUATIONS_PER_RUN})...`);
+                            valuation = await valuateDeal(product.names.title, offer.prices.current);
+                            valuationCount++;
+
+                            if (valuation) {
+                                console.log(`eBay Median Sold Price: $${valuation.ebayMedianPrice.toFixed(2)}`);
+                                console.log(`Estimated Profit: $${valuation.profit.toFixed(2)}`);
+                                console.log(`Based on ${valuation.ebaySoldItemsCount} sold items.`);
+                            } else {
+                                console.log("Valuation returned no data or failed.");
+                            }
+                        } catch (valErr) {
+                            console.error("Valuation failed:", valErr);
+                        }
+                    } else {
+                        console.log("Skipping valuation (limit reached).");
+                    }
+
 
                     const deal: SavedDeal = {
                         id: offerId,
@@ -169,7 +197,8 @@ async function main() {
                         model: modelNumber,
                         upc: upc,
                         link: product.links.web,
-                        foundAt: new Date().toISOString()
+                        foundAt: new Date().toISOString(),
+                        valuation: valuation
                     };
 
                     newDeals.push(deal);

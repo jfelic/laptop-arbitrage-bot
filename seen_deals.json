@@ -2890,5 +2890,24 @@
     "upc": "N/A",
     "link": "https://api.bestbuy.com/click/-/6648127/pdp#tab=buyingOptions",
     "foundAt": "2025-12-08T02:01:45.390Z"
+  },
+  {
+    "id": "6638910-excellent-176.99",
+    "title": "ASUS - Vivobook 14 14\" FHD Laptop - Intel Core i3-1315U with 8GB Memory - 128GB SSD - Quiet Blue",
+    "condition": "excellent",
+    "price": 176.99,
+    "regularPrice": 449.99,
+    "sku": "6638910",
+    "model": "X1404VA-V14.I38128",
+    "upc": "199291148536",
+    "link": "https://api.bestbuy.com/click/-/6638910/pdp#tab=buyingOptions",
+    "foundAt": "2025-12-08T04:02:13.328Z",
+    "valuation": {
+      "ebayMedianPrice": 232.495,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Vivobook%2014%2014%20FHD%20Intel%20Core%20i3%20128GB&LH_Sold=1",
+      "profit": -8.88,
+      "currency": "USD"
+    }
   }
 ]
