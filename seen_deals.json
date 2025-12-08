@@ -1575,5 +1575,152 @@
       "profit": -397.16,
       "currency": "USD"
     }
+  },
+  {
+    "id": "6602744-excellent-1391.99",
+    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 1TB SSD - Silver",
+    "condition": "excellent",
+    "price": 1391.99,
+    "regularPrice": 1699,
+    "sku": "6602744",
+    "model": "MW2X3LL/A",
+    "upc": "195949507816",
+    "link": "https://api.bestbuy.com/click/-/6602744/pdp#tab=buyingOptions",
+    "foundAt": "2025-12-08T05:42:28.603Z",
+    "valuation": {
+      "ebayMedianPrice": 1399.5,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%2016GB%201TB&LH_Sold=1",
+      "profit": -305.78,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "6602745-excellent-1655.99",
+    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Silver",
+    "condition": "excellent",
+    "price": 1655.99,
+    "regularPrice": 1999,
+    "sku": "6602745",
+    "model": "MX2E3LL/A",
+    "upc": "195949873485",
+    "link": "https://api.bestbuy.com/click/-/6602745/pdp#tab=buyingOptions",
+    "foundAt": "2025-12-08T05:42:48.149Z",
+    "valuation": {
+      "ebayMedianPrice": 1437.995,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%20Pro%2024GB%20512GB&LH_Sold=1",
+      "profit": -557.41,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "6602746-excellent-1909.99",
+    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 1TB SSD - Silver",
+    "condition": "excellent",
+    "price": 1909.99,
+    "regularPrice": 2399,
+    "sku": "6602746",
+    "model": "MX2F3LL/A",
+    "upc": "195949873935",
+    "link": "https://api.bestbuy.com/click/-/6602746/pdp#tab=buyingOptions",
+    "foundAt": "2025-12-08T05:43:12.291Z",
+    "valuation": {
+      "ebayMedianPrice": 1699,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%20Pro%2024GB%201TB&LH_Sold=1",
+      "profit": -604.66,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "6602748-excellent-1690.99",
+    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Space Black",
+    "condition": "excellent",
+    "price": 1690.99,
+    "regularPrice": 1999,
+    "sku": "6602748",
+    "model": "MX2H3LL/A",
+    "upc": "195949874833",
+    "link": "https://api.bestbuy.com/click/-/6602748/pdp#tab=buyingOptions",
+    "foundAt": "2025-12-08T05:43:48.234Z",
+    "valuation": {
+      "ebayMedianPrice": 1437.995,
+      "ebaySoldItemsCount": 10,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%20Pro%2024GB%20512GB&LH_Sold=1",
+      "profit": -595.21,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "6602749-excellent-2033.99",
+    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 1TB SSD - Space Black",
+    "condition": "excellent",
+    "price": 2033.99,
+    "regularPrice": 2399,
+    "sku": "6602749",
+    "model": "MX2J3LL/A",
+    "upc": "195949875281",
+    "link": "https://api.bestbuy.com/click/-/6602749/pdp#tab=buyingOptions",
+    "foundAt": "2025-12-08T05:44:16.775Z",
+    "valuation": {
+      "ebayMedianPrice": 1724,
+      "ebaySoldItemsCount": 8,
+      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%20Pro%2024GB%201TB&LH_Sold=1",
+      "profit": -716.83,
+      "currency": "USD"
+    }
+  },
+  {
+    "id": "6602750-excellent-2707.99",
+    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 Max chip Built for Apple Intelligence - 36GB Memory - 1TB SSD - Space Black",
+    "condition": "excellent",
+    "price": 2707.99,
+    "regularPrice": 3199,
+    "sku": "6602750",
+    "model": "MX2K3LL/A",
+    "upc": "195949875731",
+    "link": "https://api.bestbuy.com/click/-/6602750/pdp#tab=buyingOptions",
+    "foundAt": "2025-12-08T05:44:23.294Z",
+    "valuation": null
+  },
+  {
+    "id": "6602751-excellent-1952.99",
+    "title": "Apple - MacBook Pro 16-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Silver",
+    "condition": "excellent",
+    "price": 1952.99,
+    "regularPrice": 2499,
+    "sku": "6602751",
+    "model": "MX2T3LL/A",
+    "upc": "195949867804",
+    "link": "https://api.bestbuy.com/click/-/6602751/pdp#tab=buyingOptions",
+    "foundAt": "2025-12-08T05:44:30.987Z",
+    "valuation": null
+  },
+  {
+    "id": "6602754-excellent-3138.99",
+    "title": "Apple - MacBook Pro 16-inch Laptop - Apple M4 Max chip Built for Apple Intelligence - 48GB Memory - 1TB SSD - Silver",
+    "condition": "excellent",
+    "price": 3138.99,
+    "regularPrice": 3999,
+    "sku": "6602754",
+    "model": "MX2W3LL/A",
+    "upc": "195949869150",
+    "link": "https://api.bestbuy.com/click/-/6602754/pdp#tab=buyingOptions",
+    "foundAt": "2025-12-08T05:44:36.956Z",
+    "valuation": null
+  },
+  {
+    "id": "6602755-excellent-2130.99",
+    "title": "Apple - MacBook Pro 16-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Space Black",
+    "condition": "excellent",
+    "price": 2130.99,
+    "regularPrice": 2499,
+    "sku": "6602755",
+    "model": "MX2X3LL/A",
+    "upc": "195949869600",
+    "link": "https://api.bestbuy.com/click/-/6602755/pdp#tab=buyingOptions",
+    "foundAt": "2025-12-08T05:44:47.085Z",
+    "valuation": null
   }
 ]

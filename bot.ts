@@ -4,6 +4,7 @@ import * as path from 'path';
 import 'dotenv/config';
 
 import { valuateDeal, ValuationResult } from './valuation';
+import { sendDiscordAlert } from './notifications';
 
 // --- Configuration ---
 const BEST_BUY_API_KEY = process.env.BEST_BUY_API_KEY;
@@ -46,7 +47,7 @@ interface BestBuyResponse {
     results: BestBuyProduct[];
 }
 
-interface SavedDeal {
+export interface SavedDeal {
     id: string; // Unique ID (SKU-Condition-Price)
     title: string;
     condition: string;
@@ -235,12 +236,17 @@ async function main() {
                     saveSeenDeals(currentDeals);
                     console.log(`  [Saved] Deal persisted to seen_deals.json`);
 
+
                     // 5. Check & Save Profitable Deal
                     if (deal.valuation && deal.valuation.profit >= 200) {
                         const profitableDeals = loadProfitableDeals();
                         profitableDeals.push(deal);
                         saveProfitableDeals(profitableDeals);
                         console.log(`  [Saved] *** PROFITABLE DEAL persisted to profitable_flips.json ***`);
+
+                        // 6. Send Discord Notification
+                        console.log(`  [Discord] Sending alert...`);
+                        await sendDiscordAlert(deal);
                     }
 
                     newDeals.push(deal);
