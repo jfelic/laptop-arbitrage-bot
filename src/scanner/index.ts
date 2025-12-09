@@ -78,7 +78,10 @@ export const handler = async (event: any) => {
 
             for (const product of products) {
                 for (const offer of product.offers) {
-                    if (!offer.onlineAvailability) continue;
+                    // Filter 1: Must be available online specifically for shipping
+                    if (!offer.onlineAvailability) {
+                        continue;
+                    }
 
                     const payload = {
                         id: `${product.sku}-${offer.condition}-${offer.prices.current}`,
