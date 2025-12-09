@@ -20,7 +20,7 @@ jobs:
       - name: Compile TypeScript
         run: npx tsc --noEmit
 
-  build-and-deploy:
+  deploy:
     needs: test
     if: github.ref == 'refs/heads/main'
     runs-on: ubuntu-latest
@@ -34,10 +34,27 @@ jobs:
           aws-secret-access-key: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           aws-region: us-east-1
 
+      - name: Setup Terraform
+        uses: hashicorp/setup-terraform@v2
+
+      - name: Terraform Init
+        run: terraform init
+        working-directory: ./terraform
+
+      # Step 1: Create ECR Repo first (so we can push to it)
+      - name: Provision ECR
+        run: terraform apply -target=aws_ecr_repository.arbitrage_repo -auto-approve
+        working-directory: ./terraform
+        env:
+            TF_VAR_best_buy_api_key: ${{ secrets.BEST_BUY_API_KEY }}
+            TF_VAR_apify_api_token: ${{ secrets.APIFY_API_TOKEN }}
+            TF_VAR_discord_webhook: ${{ secrets.DISCORD_WEBHOOK }}
+
       - name: Login to Amazon ECR
         id: login-ecr
         uses: aws-actions/amazon-ecr-login@v1
 
+      # Step 2: Build & Push Image
       - name: Build, tag, and push Docker image
         env:
           ECR_REGISTRY: ${{ steps.login-ecr.outputs.registry }}
@@ -47,14 +64,8 @@ jobs:
           docker build -t $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG .
           docker push $ECR_REGISTRY/$ECR_REPOSITORY:$IMAGE_TAG
 
-      - name: Setup Terraform
-        uses: hashicorp/setup-terraform@v2
-
-      - name: Terraform Init
-        run: terraform init
-        working-directory: ./terraform
-
-      - name: Terraform Apply
+      # Step 3: Provision everything else (Lambda, SQS, etc.)
+      - name: Provision Infrastructure
         run: terraform apply -auto-approve
         working-directory: ./terraform
         env:
