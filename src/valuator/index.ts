@@ -104,10 +104,13 @@ export const handler = async (event: any) => {
                 Item: {
                     id: { S: id },
                     sku: { S: sku },
-                    title: { S: title.substring(0, 500) }, // Limit title length just in case
+                    condition: { S: body.condition },
+                    title: { S: title.substring(0, 500) },
                     price: { N: price.toString() },
+                    regularPrice: { N: (body.regularPrice || 0).toString() },
                     profit: { N: (valuation?.profit || 0).toString() },
                     link: { S: body.link },
+                    foundAt: { S: body.foundAt || new Date().toISOString() },
                     ttl: { N: ttl.toString() },
                     timestamp: { S: new Date().toISOString() }
                 }
