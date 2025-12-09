@@ -57,6 +57,10 @@ resource "aws_lambda_function" "scanner" {
   package_type  = "Image"
   image_uri     = "${aws_ecr_repository.arbitrage_repo.repository_url}:latest"
 
+  image_config {
+    command = ["dist/src/scanner/index.handler"]
+  }
+
   environment {
     variables = {
       SQS_QUEUE_URL    = aws_sqs_queue.arbitrage_job_queue.id
