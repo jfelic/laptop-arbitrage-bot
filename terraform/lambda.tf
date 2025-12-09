@@ -94,9 +94,9 @@ resource "aws_lambda_function" "valuator" {
 
 # Scanner Schedule (CloudWatch Event)
 resource "aws_cloudwatch_event_rule" "every_hour" {
-  name                = "every-hour"
-  description         = "Fires every hour"
-  schedule_expression = "rate(1 hour)"
+  name                = "every-4-hours"
+  description         = "Fires every 4 hours"
+  schedule_expression = "rate(4 hours)"
 }
 
 resource "aws_cloudwatch_event_target" "scan_every_hour" {
