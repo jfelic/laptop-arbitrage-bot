@@ -84,18 +84,19 @@ export const handler = async (event: any) => {
 
                 // 3. Notify
                 if (valuation.profit >= 200) {
+                    console.log(`  > Profit ($${valuation.profit}) meets threshold ($200). Sending alert...`);
                     await sendDiscordAlert({
                         title,
                         price,
                         link: body.link,
                         valuation
                     });
+                } else {
+                    console.log(`  > Profit ($${valuation.profit}) below threshold ($200). No alert.`);
                 }
             }
 
             // 4. Save State (PutItem)
-            // We save it even if valuation failed (to avoid retrying infinitely? Or maybe not?)
-            // If valuation failed, we might want to retry. But let's save success/empty for now to avoid loops.
             const ttl = Math.floor(Date.now() / 1000) + (60 * 60 * 24 * 7); // 7 days
 
             await ddb.send(new PutItemCommand({
@@ -103,8 +104,10 @@ export const handler = async (event: any) => {
                 Item: {
                     id: { S: id },
                     sku: { S: sku },
+                    title: { S: title.substring(0, 500) }, // Limit title length just in case
                     price: { N: price.toString() },
                     profit: { N: (valuation?.profit || 0).toString() },
+                    link: { S: body.link },
                     ttl: { N: ttl.toString() },
                     timestamp: { S: new Date().toISOString() }
                 }
