@@ -1,4 +1,4 @@
-# Best Buy to eBay Arbitrage Bot
+# Best Buy Open Box Laptop Deals to eBay Arbitrage Bot
 
 A Node.js bot that scans Best Buy for Open Box laptop deals, valuates them against real sold listings on eBay, and alerts you via Discord if a profitable flip is found.
 

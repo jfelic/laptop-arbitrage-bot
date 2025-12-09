@@ -1,1726 +1,1745 @@
 [
-  {
-    "id": "6527462-excellent-278.99",
-    "title": "Thomson - NEOZ3 Laptop - Qualcomm Snapdragon - 8GB Memory - Silver",
-    "condition": "excellent",
-    "price": 278.99,
-    "regularPrice": 299.99,
-    "sku": "6527462",
-    "model": "N/A",
-    "upc": "N/A",
-    "link": "https://api.bestbuy.com/click/-/6527462/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:03:53.613Z",
-    "valuation": {
-      "ebayMedianPrice": 336.975,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=NEOZ3%20Qualcomm%20Snapdragon%208GB&LH_Sold=1",
-      "profit": -28.14,
-      "currency": "USD"
+    {
+        "id": "6527462-excellent-278.99",
+        "title": "Thomson - NEOZ3 Laptop - Qualcomm Snapdragon - 8GB Memory - Silver",
+        "condition": "excellent",
+        "price": 278.99,
+        "regularPrice": 299.99,
+        "sku": "6527462",
+        "model": "N/A",
+        "upc": "N/A",
+        "link": "https://api.bestbuy.com/click/-/6527462/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:03:53.613Z",
+        "valuation": {
+            "ebayMedianPrice": 336.975,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=NEOZ3%20Qualcomm%20Snapdragon%208GB&LH_Sold=1",
+            "profit": -28.14,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6527463-excellent-185.99",
+        "title": "Thomson - NEOZ3 Laptop - Qualcomm Snapdragon - 4GB Memory - 64GB SDD - Silver",
+        "condition": "excellent",
+        "price": 185.99,
+        "regularPrice": 199.99,
+        "sku": "6527463",
+        "model": "WWZ313Q8504T64",
+        "upc": "810002150920",
+        "link": "https://api.bestbuy.com/click/-/6527463/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:04:35.352Z",
+        "valuation": {
+            "ebayMedianPrice": 274.95,
+            "ebaySoldItemsCount": 9,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=NEOZ3%20Qualcomm%20Snapdragon%204GB&LH_Sold=1",
+            "profit": 18.34,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6530630-excellent-1465.99",
+        "title": "Apple - MacBook Pro 14\" Laptop - M2 Pro chip - 16GB Memory - 512GB SSD - Silver",
+        "condition": "excellent",
+        "price": 1465.99,
+        "regularPrice": 1999,
+        "sku": "6530630",
+        "model": "3L553LL/A",
+        "upc": "194253714897",
+        "link": "https://api.bestbuy.com/click/-/6530630/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:05:08.301Z",
+        "valuation": {
+            "ebayMedianPrice": 909.495,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014%20M2%20Pro%2016GB%20512GB&LH_Sold=1",
+            "profit": -812.01,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6531741-excellent-286.99",
+        "title": "Lenovo - IdeaPad Flex 3i Chromebook Laptop - 12.2\" 2K Touchscreen - Intel N100 2023 - 4GB Memory - 64GB eMMC - Abyss Blue",
+        "condition": "excellent",
+        "price": 286.99,
+        "regularPrice": 429,
+        "sku": "6531741",
+        "model": "82XH0001US",
+        "upc": "196804039855",
+        "link": "https://api.bestbuy.com/click/-/6531741/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:05:41.083Z",
+        "valuation": {
+            "ebayMedianPrice": 199.99,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=IdeaPad%20Flex%203i%20Chromebook%20Intel%20N100%202023%204GB%2064GB&LH_Sold=1",
+            "profit": -155.96,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6531742-excellent-310.99",
+        "title": "Lenovo - IdeaPad Slim 3 Chromebook Laptop - 14\" Full HD Touchscreen Laptop - MediaTek Kompanio 520 2022 - 4GB Memory - 64GB eMMC - Abyss Blue",
+        "condition": "excellent",
+        "price": 310.99,
+        "regularPrice": 399,
+        "sku": "6531742",
+        "model": "82XJ0000US",
+        "upc": "196803504613",
+        "link": "https://api.bestbuy.com/click/-/6531742/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:06:11.606Z",
+        "valuation": {
+            "ebayMedianPrice": 199.95,
+            "ebaySoldItemsCount": 9,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=IdeaPad%20Slim%203%20Chromebook%204GB%2064GB&LH_Sold=1",
+            "profit": -181.91,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6534434-excellent-1209.99",
+        "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Silver",
+        "condition": "excellent",
+        "price": 1209.99,
+        "regularPrice": 1399,
+        "sku": "6534434",
+        "model": "MC654LL/A",
+        "upc": "195949888823",
+        "link": "https://api.bestbuy.com/click/-/6534434/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:06:37.243Z",
+        "valuation": {
+            "ebayMedianPrice": 1052,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
+            "profit": -411.55,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6534438-excellent-1209.99",
+        "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Starlight",
+        "condition": "excellent",
+        "price": 1209.99,
+        "regularPrice": 1399,
+        "sku": "6534438",
+        "model": "MC6A4LL/A",
+        "upc": "195949889295",
+        "link": "https://api.bestbuy.com/click/-/6534438/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:06:56.590Z",
+        "valuation": {
+            "ebayMedianPrice": 1052,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
+            "profit": -411.55,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6534483-excellent-978.99",
+        "title": "Apple - MacBook Air 15\" Laptop - M2 chip Built for Apple Intelligence - 8GB Memory - 256GB SSD - Starlight",
+        "condition": "excellent",
+        "price": 978.99,
+        "regularPrice": 1299,
+        "sku": "6534483",
+        "model": "3L621LL/A",
+        "upc": "194253710240",
+        "link": "https://api.bestbuy.com/click/-/6534483/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:07:18.736Z",
+        "valuation": {
+            "ebayMedianPrice": 626.995,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015%20M2%208GB%20256GB&LH_Sold=1",
+            "profit": -531.82,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6534488-excellent-1454.99",
+        "title": "Apple - MacBook Pro 14\" Laptop - M3 Pro chip Built for Apple Intelligence - 18GB Memory - 14-core GPU - 512GB SSD - Space Black",
+        "condition": "excellent",
+        "price": 1454.99,
+        "regularPrice": 1899,
+        "sku": "6534488",
+        "model": "3M524LL/A",
+        "upc": "195949073755",
+        "link": "https://api.bestbuy.com/click/-/6534488/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:07:41.177Z",
+        "valuation": {
+            "ebayMedianPrice": 1274.495,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014%20M3%20Pro%2018GB%20512GB&LH_Sold=1",
+            "profit": -482.58,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6534623-excellent-1452.99",
+        "title": "Apple - MacBook Pro 14\" Laptop - M3 Pro chip Built for Apple Intelligence - 18GB Memory - 18-core GPU - 1TB SSD - Silver",
+        "condition": "excellent",
+        "price": 1452.99,
+        "regularPrice": 2299,
+        "sku": "6534623",
+        "model": "MRX73LL/A",
+        "upc": "195949000072",
+        "link": "https://api.bestbuy.com/click/-/6534623/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:08:05.879Z",
+        "valuation": {
+            "ebayMedianPrice": 1299,
+            "ebaySoldItemsCount": 9,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014%20M3%20Pro%2018GB%201TB&LH_Sold=1",
+            "profit": -459.1,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6534624-excellent-1411.99",
+        "title": "Apple - MacBook Pro 14\" Laptop - M3 Pro chip Built for Apple Intelligence - 18GB Memory - 18-core GPU - 1TB SSD - Space Black",
+        "condition": "excellent",
+        "price": 1411.99,
+        "regularPrice": 2299,
+        "sku": "6534624",
+        "model": "MRX43LL/A",
+        "upc": "195949000041",
+        "link": "https://api.bestbuy.com/click/-/6534624/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:08:34.655Z",
+        "valuation": {
+            "ebayMedianPrice": 1299,
+            "ebaySoldItemsCount": 9,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014%20M3%20Pro%2018GB%201TB&LH_Sold=1",
+            "profit": -414.82,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6534638-excellent-1203.99",
+        "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Midnight",
+        "condition": "excellent",
+        "price": 1203.99,
+        "regularPrice": 1399,
+        "sku": "6534638",
+        "model": "MC6C4LL/A",
+        "upc": "195949889769",
+        "link": "https://api.bestbuy.com/click/-/6534638/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:08:58.202Z",
+        "valuation": {
+            "ebayMedianPrice": 1052,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
+            "profit": -405.07,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6534639-excellent-1356.99",
+        "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Silver",
+        "condition": "excellent",
+        "price": 1356.99,
+        "regularPrice": 1599,
+        "sku": "6534639",
+        "model": "MC6J4LL/A",
+        "upc": "195949891724",
+        "link": "https://api.bestbuy.com/click/-/6534639/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:09:18.450Z",
+        "valuation": {
+            "ebayMedianPrice": 1249,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
+            "profit": -398.92,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6534642-excellent-1394.99",
+        "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Starlight",
+        "condition": "excellent",
+        "price": 1394.99,
+        "regularPrice": 1599,
+        "sku": "6534642",
+        "model": "MC6K4LL/A",
+        "upc": "195949892196",
+        "link": "https://api.bestbuy.com/click/-/6534642/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:09:43.527Z",
+        "valuation": {
+            "ebayMedianPrice": 1249,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
+            "profit": -439.96,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6534643-excellent-1351.99",
+        "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Midnight",
+        "condition": "excellent",
+        "price": 1351.99,
+        "regularPrice": 1599,
+        "sku": "6534643",
+        "model": "MC6L4LL/A",
+        "upc": "195949892660",
+        "link": "https://api.bestbuy.com/click/-/6534643/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:10:19.781Z",
+        "valuation": {
+            "ebayMedianPrice": 1249,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
+            "profit": -393.52,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6534644-excellent-822.99",
+        "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Sky Blue",
+        "condition": "excellent",
+        "price": 822.99,
+        "regularPrice": 999,
+        "sku": "6534644",
+        "model": "MC6T4LL/A",
+        "upc": "195949890260",
+        "link": "https://api.bestbuy.com/click/-/6534644/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:11:08.022Z",
+        "valuation": {
+            "ebayMedianPrice": 734,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
+            "profit": -270.25,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6534646-excellent-974.99",
+        "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Sky Blue",
+        "condition": "excellent",
+        "price": 974.99,
+        "regularPrice": 1199,
+        "sku": "6534646",
+        "model": "MC6U4LL/A",
+        "upc": "195949890734",
+        "link": "https://api.bestbuy.com/click/-/6534646/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:11:39.798Z",
+        "valuation": {
+            "ebayMedianPrice": 899.5,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
+            "profit": -290.42,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6534647-excellent-1158.99",
+        "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Sky Blue",
+        "condition": "excellent",
+        "price": 1158.99,
+        "regularPrice": 1399,
+        "sku": "6534647",
+        "model": "MC6V4LL/A",
+        "upc": "195949891205",
+        "link": "https://api.bestbuy.com/click/-/6534647/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:12:02.640Z",
+        "valuation": {
+            "ebayMedianPrice": 1052,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
+            "profit": -356.47,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6534648-excellent-988.99",
+        "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Sky Blue",
+        "condition": "excellent",
+        "price": 988.99,
+        "regularPrice": 1199,
+        "sku": "6534648",
+        "model": "MC7A4LL/A",
+        "upc": "195949893162",
+        "link": "https://api.bestbuy.com/click/-/6534648/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:12:33.267Z",
+        "valuation": {
+            "ebayMedianPrice": 835,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
+            "profit": -361.66,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6535992-excellent-172.99",
+        "title": "HP - 15.6\" Chromebook Laptop - Intel Processor N200 2023 - 8GB Memory - 64GB eMMC - Natural Silver",
+        "condition": "excellent",
+        "price": 172.99,
+        "regularPrice": 429,
+        "sku": "6535992",
+        "model": "15A-NB0013DX/7J267UA#ABA",
+        "upc": "197192458518",
+        "link": "https://api.bestbuy.com/click/-/6535992/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:13:03.572Z",
+        "valuation": {
+            "ebayMedianPrice": 179.99,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=15.6%20Chromebook%20Intel%20%20N200%202023%208GB%2064GB&LH_Sold=1",
+            "profit": -50.24,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6542092-excellent-569.99",
+        "title": "ASUS - Vivobook 16 16\" FHD+ Laptop - AMD Ryzen 7 with 16GB Memory - 1TB SSD - Indie Black",
+        "condition": "excellent",
+        "price": 569.99,
+        "regularPrice": 649.99,
+        "sku": "6542092",
+        "model": "M1605YA-ES74",
+        "upc": "197105081215",
+        "link": "https://api.bestbuy.com/click/-/6542092/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:13:23.847Z",
+        "valuation": {
+            "ebayMedianPrice": 441.99,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Vivobook%2016%2016%20FHD%2B%20AMD%20Ryzen%207%20with%2016GB%20Memory%201TB&LH_Sold=1",
+            "profit": -251.06,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6547350-excellent-343.99",
+        "title": "HP - 14-EP0010NR 14\" Laptop HD - Intel Processor N200 With 4GB Memory 128GB UFS - Natural Silver",
+        "condition": "excellent",
+        "price": 343.99,
+        "regularPrice": 369.99,
+        "sku": "6547350",
+        "model": "14-EP0010NR",
+        "upc": "197192242261",
+        "link": "https://api.bestbuy.com/click/-/6547350/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:13:44.548Z",
+        "valuation": {
+            "ebayMedianPrice": 187.5,
+            "ebaySoldItemsCount": 2,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=14-EP0010NR%2014%20%20HD%20Intel%20%20N200%20With%204GB%20Memory%20128GB%20UFS&LH_Sold=1",
+            "profit": -228.38,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6550736-excellent-345.99",
+        "title": "Lenovo - Flex 5i Chromebook Plus Laptop with Gemini - 14\" 2K Touchscreen - Intel i3 1315U 2023 - 8GB RAM - 128GB SSD - Storm Grey",
+        "condition": "excellent",
+        "price": 345.99,
+        "regularPrice": 599,
+        "sku": "6550736",
+        "model": "83EK0000UX",
+        "upc": "197528655949",
+        "link": "https://api.bestbuy.com/click/-/6550736/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:14:09.075Z",
+        "valuation": {
+            "ebayMedianPrice": 299.495,
+            "ebaySoldItemsCount": 6,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Flex%205i%20Chromebook%20Plus%20%20with%20Gemini%20Intel%20i3%201315U%202023%208GB%20128GB&LH_Sold=1",
+            "profit": -133.11,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6551405-excellent-1171.99",
+        "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Sky Blue",
+        "condition": "excellent",
+        "price": 1171.99,
+        "regularPrice": 1399,
+        "sku": "6551405",
+        "model": "MC7C4LL/A",
+        "upc": "195949893636",
+        "link": "https://api.bestbuy.com/click/-/6551405/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:14:36.703Z",
+        "valuation": {
+            "ebayMedianPrice": 992,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
+            "profit": -422.71,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6551408-excellent-1403.99",
+        "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Sky Blue",
+        "condition": "excellent",
+        "price": 1403.99,
+        "regularPrice": 1599,
+        "sku": "6551408",
+        "model": "MC7D4LL/A",
+        "upc": "195949894107",
+        "link": "https://api.bestbuy.com/click/-/6551408/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:15:02.235Z",
+        "valuation": {
+            "ebayMedianPrice": 1249,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
+            "profit": -449.68,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6551410-excellent-797.99",
+        "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Silver",
+        "condition": "excellent",
+        "price": 797.99,
+        "regularPrice": 999,
+        "sku": "6551410",
+        "model": "MW0W3LL/A",
+        "upc": "195949836251",
+        "link": "https://api.bestbuy.com/click/-/6551410/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:15:41.421Z",
+        "valuation": {
+            "ebayMedianPrice": 734,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
+            "profit": -243.25,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6551412-excellent-991.99",
+        "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Silver",
+        "condition": "excellent",
+        "price": 991.99,
+        "regularPrice": 1199,
+        "sku": "6551412",
+        "model": "MW0X3LL/A",
+        "upc": "195949836725",
+        "link": "https://api.bestbuy.com/click/-/6551412/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:16:08.471Z",
+        "valuation": {
+            "ebayMedianPrice": 899.5,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
+            "profit": -308.78,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6565845-excellent-862.99",
+        "title": "Apple - MacBook Air 15-inch Laptop - M3 chip Built for Apple Intelligence - 8GB Memory - 512GB SSD - Space Gray",
+        "condition": "excellent",
+        "price": 862.99,
+        "regularPrice": 1199,
+        "sku": "6565845",
+        "model": "MRYN3LL/A",
+        "upc": "195949129346",
+        "link": "https://api.bestbuy.com/click/-/6565845/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:16:34.644Z",
+        "valuation": {
+            "ebayMedianPrice": 779.495,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20M3%208GB%20512GB&LH_Sold=1",
+            "profit": -273.87,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6565853-excellent-974.99",
+        "title": "Apple - MacBook Air 15-inch Laptop - M3 chip Built for Apple Intelligence - 8GB Memory - 512GB SSD - Midnight",
+        "condition": "excellent",
+        "price": 974.99,
+        "regularPrice": 1199,
+        "sku": "6565853",
+        "model": "MRYV3LL/A",
+        "upc": "195949132162",
+        "link": "https://api.bestbuy.com/click/-/6565853/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:17:02.295Z",
+        "valuation": {
+            "ebayMedianPrice": 779.495,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20M3%208GB%20512GB&LH_Sold=1",
+            "profit": -394.83,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6565856-excellent-929.99",
+        "title": "Apple - MacBook Air 15-inch Laptop - M3 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Starlight",
+        "condition": "excellent",
+        "price": 929.99,
+        "regularPrice": 1299,
+        "sku": "6565856",
+        "model": "MXD33LL/A",
+        "upc": "195949638541",
+        "link": "https://api.bestbuy.com/click/-/6565856/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:17:38.822Z",
+        "valuation": {
+            "ebayMedianPrice": 924.5,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20M3%2016GB%20512GB&LH_Sold=1",
+            "profit": -220.07,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6565859-excellent-822.99",
+        "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Starlight",
+        "condition": "excellent",
+        "price": 822.99,
+        "regularPrice": 999,
+        "sku": "6565859",
+        "model": "MW0Y3LL/A",
+        "upc": "195949837197",
+        "link": "https://api.bestbuy.com/click/-/6565859/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:18:00.609Z",
+        "valuation": {
+            "ebayMedianPrice": 734,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
+            "profit": -270.25,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6565860-excellent-1011.99",
+        "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Starlight",
+        "condition": "excellent",
+        "price": 1011.99,
+        "regularPrice": 1199,
+        "sku": "6565860",
+        "model": "MW103LL/A",
+        "upc": "195949837661",
+        "link": "https://api.bestbuy.com/click/-/6565860/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:18:21.882Z",
+        "valuation": {
+            "ebayMedianPrice": 899.5,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
+            "profit": -330.38,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6565862-excellent-816.99",
+        "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Midnight",
+        "condition": "excellent",
+        "price": 816.99,
+        "regularPrice": 999,
+        "sku": "6565862",
+        "model": "MW123LL/A",
+        "upc": "195949838132",
+        "link": "https://api.bestbuy.com/click/-/6565862/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:18:42.973Z",
+        "valuation": {
+            "ebayMedianPrice": 734,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
+            "profit": -263.77,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6565863-excellent-1015.99",
+        "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Midnight",
+        "condition": "excellent",
+        "price": 1015.99,
+        "regularPrice": 1199,
+        "sku": "6565863",
+        "model": "MW133LL/A",
+        "upc": "195949838606",
+        "link": "https://api.bestbuy.com/click/-/6565863/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:19:07.950Z",
+        "valuation": {
+            "ebayMedianPrice": 899.5,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
+            "profit": -334.7,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6565864-excellent-979.99",
+        "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Silver",
+        "condition": "excellent",
+        "price": 979.99,
+        "regularPrice": 1199,
+        "sku": "6565864",
+        "model": "MW1G3LL/A",
+        "upc": "195949840098",
+        "link": "https://api.bestbuy.com/click/-/6565864/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:19:41.730Z",
+        "valuation": {
+            "ebayMedianPrice": 835,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
+            "profit": -351.94,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6565865-excellent-1209.99",
+        "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Silver",
+        "condition": "excellent",
+        "price": 1209.99,
+        "regularPrice": 1399,
+        "sku": "6565865",
+        "model": "MW1H3LL/A",
+        "upc": "195949840562",
+        "link": "https://api.bestbuy.com/click/-/6565865/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:20:24.323Z",
+        "valuation": {
+            "ebayMedianPrice": 992,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
+            "profit": -463.75,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6565866-excellent-964.99",
+        "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Starlight",
+        "condition": "excellent",
+        "price": 964.99,
+        "regularPrice": 1199,
+        "sku": "6565866",
+        "model": "MW1J3LL/A",
+        "upc": "195949841033",
+        "link": "https://api.bestbuy.com/click/-/6565866/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:20:59.995Z",
+        "valuation": {
+            "ebayMedianPrice": 835,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
+            "profit": -335.74,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6565868-excellent-1167.99",
+        "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Starlight",
+        "condition": "excellent",
+        "price": 1167.99,
+        "regularPrice": 1399,
+        "sku": "6565868",
+        "model": "MW1K3LL/A",
+        "upc": "195949841507",
+        "link": "https://api.bestbuy.com/click/-/6565868/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:21:21.682Z",
+        "valuation": {
+            "ebayMedianPrice": 992,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
+            "profit": -418.39,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6565869-excellent-985.99",
+        "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Midnight",
+        "condition": "excellent",
+        "price": 985.99,
+        "regularPrice": 1199,
+        "sku": "6565869",
+        "model": "MW1L3LL/A",
+        "upc": "195949841972",
+        "link": "https://api.bestbuy.com/click/-/6565869/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:21:51.499Z",
+        "valuation": {
+            "ebayMedianPrice": 835,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
+            "profit": -358.42,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6565870-excellent-1209.99",
+        "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Midnight",
+        "condition": "excellent",
+        "price": 1209.99,
+        "regularPrice": 1399,
+        "sku": "6565870",
+        "model": "MW1M3LL/A",
+        "upc": "195949842443",
+        "link": "https://api.bestbuy.com/click/-/6565870/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:22:10.964Z",
+        "valuation": {
+            "ebayMedianPrice": 992,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
+            "profit": -463.75,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6565871-excellent-1548.99",
+        "title": "14-inch MacBook Pro - Apple M5 chip with 10-core CPU and 10-core GPU - 16GB Memory - 512GB SSD - Space Black",
+        "condition": "excellent",
+        "price": 1548.99,
+        "regularPrice": 1599,
+        "sku": "6565871",
+        "model": "MDE04LL/A",
+        "upc": "195950488999",
+        "link": "https://api.bestbuy.com/click/-/6565871/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:22:44.856Z",
+        "valuation": {
+            "ebayMedianPrice": 1274.5,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Apple%20M5%C2%A0chip%20with%2010-core%20CPU%20and%2010-core%20GPU%2016GB%20512GB&LH_Sold=1",
+            "profit": -584.09,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6565872-excellent-1631.99",
+        "title": "14-inch MacBook Pro - Apple M5 chip with 10-core CPU and 10-core GPU - 16GB Memory - 1TB SSD - Space Black",
+        "condition": "excellent",
+        "price": 1631.99,
+        "regularPrice": 1799,
+        "sku": "6565872",
+        "model": "MDE14LL/A",
+        "upc": "195950489460",
+        "link": "https://api.bestbuy.com/click/-/6565872/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:23:06.520Z",
+        "valuation": {
+            "ebayMedianPrice": 1369.495,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Apple%20M5%C2%A0chip%20with%2010-core%20CPU%20and%2010-core%20GPU%2016GB%201TB&LH_Sold=1",
+            "profit": -591.09,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6565873-excellent-1936.99",
+        "title": "14-inch MacBook Pro - Apple M5 chip with 10-core CPU and 10-core GPU - 24GB Memory - 1TB SSD - Space Black",
+        "condition": "excellent",
+        "price": 1936.99,
+        "regularPrice": 1999,
+        "sku": "6565873",
+        "model": "MDE34LL/A",
+        "upc": "195950489934",
+        "link": "https://api.bestbuy.com/click/-/6565873/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:23:30.798Z",
+        "valuation": {
+            "ebayMedianPrice": 1534,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Apple%20M5%C2%A0chip%20with%2010-core%20CPU%20and%2010-core%20GPU%2024GB%201TB&LH_Sold=1",
+            "profit": -777.37,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6565874-excellent-1548.99",
+        "title": "14-inch MacBook Pro - Apple M5 chip with 10-core CPU and 10-core GPU - 16GB Memory - 512GB SSD - Silver",
+        "condition": "excellent",
+        "price": 1548.99,
+        "regularPrice": 1599,
+        "sku": "6565874",
+        "model": "MDE44LL/A",
+        "upc": "195950490404",
+        "link": "https://api.bestbuy.com/click/-/6565874/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:24:03.432Z",
+        "valuation": {
+            "ebayMedianPrice": 1224.5,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Apple%20M5%C2%A0chip%20with%2010-core%20CPU%20and%2010-core%20GPU%2016GB%20512GB&LH_Sold=1",
+            "profit": -627.59,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6565875-excellent-1742.99",
+        "title": "14-inch MacBook Pro - Apple M5 chip with 10-core CPU and 10-core GPU - 16GB Memory - 1TB SSD - Silver",
+        "condition": "excellent",
+        "price": 1742.99,
+        "regularPrice": 1799,
+        "sku": "6565875",
+        "model": "MDE54LL/A",
+        "upc": "195950490879",
+        "link": "https://api.bestbuy.com/click/-/6565875/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:24:26.172Z",
+        "valuation": {
+            "ebayMedianPrice": 1369.495,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Apple%20M5%C2%A0chip%20with%2010-core%20CPU%20and%2010-core%20GPU%2016GB%201TB&LH_Sold=1",
+            "profit": -710.97,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6565877-excellent-1936.99",
+        "title": "14-inch MacBook Pro - Apple M5 chip with 10-core CPU and 10-core GPU - 24GB Memory - 1TB SSD - Silver",
+        "condition": "excellent",
+        "price": 1936.99,
+        "regularPrice": 1999,
+        "sku": "6565877",
+        "model": "MDE64LL/A",
+        "upc": "195950491340",
+        "link": "https://api.bestbuy.com/click/-/6565877/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:24:53.371Z",
+        "valuation": {
+            "ebayMedianPrice": 1534,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Apple%20M5%C2%A0chip%20with%2010-core%20CPU%20and%2010-core%20GPU%2024GB%201TB&LH_Sold=1",
+            "profit": -777.37,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6567669-excellent-250.99",
+        "title": "Lenovo - IdeaPad 3i Chromebook Laptop - 15.6\" Full HD Touch Screen - Pentium Silver N6000 2021 - 8GB Memory - 128GB eMMC - Arctic Grey",
+        "condition": "excellent",
+        "price": 250.99,
+        "regularPrice": 449,
+        "sku": "6567669",
+        "model": "82N40045US",
+        "upc": "197531451583",
+        "link": "https://api.bestbuy.com/click/-/6567669/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:25:29.400Z",
+        "valuation": {
+            "ebayMedianPrice": 220,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=IdeaPad%203i%20Chromebook%208GB%20128GB&LH_Sold=1",
+            "profit": -99.67,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6568135-excellent-891.99",
+        "title": "ASUS - Vivobook 17.3” FHD Laptop - Intel Core i9 with 16GB Memory - 1TB SSD - Silver",
+        "condition": "excellent",
+        "price": 891.99,
+        "regularPrice": 1049.99,
+        "sku": "6568135",
+        "model": "K3704VA-DH96-S",
+        "upc": "197105327085",
+        "link": "https://api.bestbuy.com/click/-/6568135/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:26:03.476Z",
+        "valuation": {
+            "ebayMedianPrice": 449.99,
+            "ebaySoldItemsCount": 9,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Vivobook%2017.3%E2%80%9D%20FHD%20Intel%20Core%20i9%20with%2016GB%20Memory%201TB&LH_Sold=1",
+            "profit": -591.86,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6571369-excellent-624.99",
+        "title": "Lenovo - Yoga 7i 2-in-1 16\" 2K Touchscreen Laptop - Intel Core Ultra 7 155U 2023 - 16GB Memory - 1TB SSD - Storm Grey",
+        "condition": "excellent",
+        "price": 624.99,
+        "regularPrice": 1049.99,
+        "sku": "6571369",
+        "model": "83DL0002US",
+        "upc": "197531069214",
+        "link": "https://api.bestbuy.com/click/-/6571369/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:26:25.754Z",
+        "valuation": {
+            "ebayMedianPrice": 579.97,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Yoga%207i%20%2016%202K%20Touchscreen%20Intel%20Core%20Ultra%207%20155U%202023%2016GB%201TB&LH_Sold=1",
+            "profit": -190.42,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6572179-excellent-1391.99",
+        "title": "Samsung - Galaxy Book4 Ultra 16\" AMOLED Touch Screen Laptop - Intel Core Ultra 7 - 16GB Memory - NVIDIA GeForce RTX 4050 - 1TB SSD - Moonstone Gray",
+        "condition": "excellent",
+        "price": 1391.99,
+        "regularPrice": 2399.99,
+        "sku": "6572179",
+        "model": "NP960XGL-XG2US",
+        "upc": "887276831534",
+        "link": "https://api.bestbuy.com/click/-/6572179/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:26:50.874Z",
+        "valuation": {
+            "ebayMedianPrice": 799.99,
+            "ebaySoldItemsCount": 9,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Book4%20Ultra%2016%20AMOLED%20Intel%20Core%20Ultra%207%2016GB%201TB&LH_Sold=1",
+            "profit": -827.36,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6572183-excellent-1059.99",
+        "title": "Samsung - Galaxy Book4 Pro 360 2-in1 16\" AMOLED Touch Screen Laptop - Intel Core Ultra 7 - 16GB Memory - 1TB SSD - Moonstone Gray",
+        "condition": "excellent",
+        "price": 1059.99,
+        "regularPrice": 1899.99,
+        "sku": "6572183",
+        "model": "NP960QGK-KG1US",
+        "upc": "887276831589",
+        "link": "https://api.bestbuy.com/click/-/6572183/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:27:19.968Z",
+        "valuation": {
+            "ebayMedianPrice": 839.475,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Book4%20Pro%20360%202-in1%2016%20AMOLED%20Intel%20Core%20Ultra%207%2016GB%201TB&LH_Sold=1",
+            "profit": -434.45,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6572184-excellent-455.99",
+        "title": "Samsung - Galaxy Book4 15.6\" FHD Laptop - Intel Core 7- 16GB Memory - 512GB SSD - Silver",
+        "condition": "excellent",
+        "price": 455.99,
+        "regularPrice": 899.99,
+        "sku": "6572184",
+        "model": "NP750XGK-KS2US",
+        "upc": "887276834672",
+        "link": "https://api.bestbuy.com/click/-/6572184/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:27:57.471Z",
+        "valuation": {
+            "ebayMedianPrice": 529.95,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Book4%2015.6%20FHD%20Intel%20Core%207%20512GB&LH_Sold=1",
+            "profit": -51.41,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6579293-excellent-255.99",
+        "title": "HP - 2-in-1 14\" Touch-Screen Chromebook Laptop - Intel Processor N100 2023 - 4GB Memory - 64GB eMMC - Sky Blue",
+        "condition": "excellent",
+        "price": 255.99,
+        "regularPrice": 479,
+        "sku": "6579293",
+        "model": "14B-CD0013DX/A28Q7UA#ABA",
+        "upc": "198122945665",
+        "link": "https://api.bestbuy.com/click/-/6579293/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:28:23.726Z",
+        "valuation": {
+            "ebayMedianPrice": 129.525,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=14%20%20Chromebook%20Intel%20%20N100%202023%204GB%2064GB&LH_Sold=1",
+            "profit": -183.78,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6580450-excellent-1056.99",
+        "title": "Samsung - Galaxy Book4 Edge - Copilot+ PC - 16\" AMOLED Touch-Screen Laptop - Snapdragon X Elite 3.8Ghz- 16GB Memory- 1TB Storage - Sapphire Blue",
+        "condition": "excellent",
+        "price": 1056.99,
+        "regularPrice": 1749.99,
+        "sku": "6580450",
+        "model": "NP960XMB-KB1US",
+        "upc": "887276870250",
+        "link": "https://api.bestbuy.com/click/-/6580450/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:28:49.516Z",
+        "valuation": {
+            "ebayMedianPrice": 677.49,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Book4%20Edge%20Snapdragon%20X%20Elite%203.8Ghz&LH_Sold=1",
+            "profit": -572.13,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6582538-excellent-1072.99",
+        "title": "Lenovo - Yoga Slim 7x - Copilot+ PC - 14.5\" 3K 90Hz OLED Touch-Screen Laptop - Snapdragon X Elite X1E-78-100 2024 - 16GB - 512GB - Cosmic Blue",
+        "condition": "excellent",
+        "price": 1072.99,
+        "regularPrice": 1299.99,
+        "sku": "6582538",
+        "model": "83ED0001US",
+        "upc": "198153128372",
+        "link": "https://api.bestbuy.com/click/-/6582538/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:29:21.419Z",
+        "valuation": {
+            "ebayMedianPrice": 695,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Yoga%20Slim%207x%20Snapdragon%20X%20Elite%20X1E-78-100%202024&LH_Sold=1",
+            "profit": -574.18,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6583788-excellent-764.99",
+        "title": "Samsung - Galaxy Book4 Edge - Copilot+ PC - 16\" AMOLED Touch-Screen Laptop - Snapdragon X Elite 3.4Ghz- 16GB Memory- 512GB Storage - Sapphire Blue",
+        "condition": "excellent",
+        "price": 764.99,
+        "regularPrice": 1449.99,
+        "sku": "6583788",
+        "model": "NP960XMA-KB1US",
+        "upc": "887276861722",
+        "link": "https://api.bestbuy.com/click/-/6583788/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:29:58.400Z",
+        "valuation": {
+            "ebayMedianPrice": 599.99,
+            "ebaySoldItemsCount": 7,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Book4%20Edge%20Snapdragon%20X%20Elite%203.4Ghz&LH_Sold=1",
+            "profit": -324.2,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6583789-excellent-692.99",
+        "title": "Samsung - Galaxy Book4 Edge - Copilot+ PC - 14\" AMOLED Touch-Screen Laptop - Snapdragon X Elite 3.4Ghz- 16GB Memory- 512GB Storage - Sapphire Blue",
+        "condition": "excellent",
+        "price": 692.99,
+        "regularPrice": 1349.99,
+        "sku": "6583789",
+        "model": "NP940XMA-KB1US",
+        "upc": "887276861739",
+        "link": "https://api.bestbuy.com/click/-/6583789/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:30:35.973Z",
+        "valuation": {
+            "ebayMedianPrice": 599.99,
+            "ebaySoldItemsCount": 7,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Book4%20Edge%20Snapdragon%20X%20Elite%203.4Ghz&LH_Sold=1",
+            "profit": -246.44,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6584127-excellent-809.99",
+        "title": "Dell - XPS - Copilot+ PC - 13.4\" 3K OLED Touchscreen Laptop - Snapdragon X Elite X1E-80 - 16GB Memory - 512GB Storage - Graphite",
+        "condition": "excellent",
+        "price": 809.99,
+        "regularPrice": 1499.99,
+        "sku": "6584127",
+        "model": "XPS9345-SX12807BLK-PUS",
+        "upc": "884116429807",
+        "link": "https://api.bestbuy.com/click/-/6584127/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:31:03.219Z",
+        "valuation": {
+            "ebayMedianPrice": 739.99,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=XPS%20Snapdragon%20X%20Elite%20X1E-80%2016GB%20512GB&LH_Sold=1",
+            "profit": -251,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6584131-excellent-473.99",
+        "title": "Dell - Inspiron 14 Plus Copilot+ PC - 14\" 2.5K Touchscreen Laptop - Snapdragon X Plus X1P-64 2024 - 16GB Memory - 512GB Storage - Ice Blue",
+        "condition": "excellent",
+        "price": 473.99,
+        "regularPrice": 999.99,
+        "sku": "6584131",
+        "model": "I7441-SX10838BLU-PUS",
+        "upc": "884116429838",
+        "link": "https://api.bestbuy.com/click/-/6584131/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:31:25.770Z",
+        "valuation": {
+            "ebayMedianPrice": 432.49,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Inspiron%2014%20Plus%20Copilot%2B%20PC%20Snapdragon%20X%20Plus%20X1P-64%202024%2016GB%20512GB&LH_Sold=1",
+            "profit": -155.64,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6584435-excellent-833.99",
+        "title": "ASUS - Zenbook S 16 16” 3K OLED Touch Screen Laptop - Copilot+ PC - AMD Ryzen AI 9 365 - 24GB Memory - 1TB SSD - Scandinavian White",
+        "condition": "excellent",
+        "price": 833.99,
+        "regularPrice": 1499.99,
+        "sku": "6584435",
+        "model": "UM5606WA-S16.R3651TB",
+        "upc": "197105646452",
+        "link": "https://api.bestbuy.com/click/-/6584435/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:31:54.652Z",
+        "valuation": {
+            "ebayMedianPrice": 999.495,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Zenbook%20S%2016%2016%E2%80%9D%203K%20OLED%20AMD%20Ryzen%20AI%209%20365%2024GB%201TB&LH_Sold=1",
+            "profit": -51.15,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6584436-excellent-1594.99",
+        "title": "ASUS - ProArt PX13 13\" 3K OLED Touch Screen Laptop - Copilot+ PC - AMD Ryzen AI 9 HX 370 - 32GB Memory - RTX 4050 - 1TB SSD - Nano Black",
+        "condition": "excellent",
+        "price": 1594.99,
+        "regularPrice": 1799.99,
+        "sku": "6584436",
+        "model": "HN7306WU-PX13.R3704050",
+        "upc": "197105613942",
+        "link": "https://api.bestbuy.com/click/-/6584436/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:32:21.204Z",
+        "valuation": {
+            "ebayMedianPrice": 1224.995,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=ProArt%20PX13%2013%203K%20OLED%20AMD%20Ryzen%20AI%209%20HX%20370%2032GB%201TB&LH_Sold=1",
+            "profit": -676.84,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6584438-excellent-1297.99",
+        "title": "ASUS - ProArt P16 16\" 4K OLED Touch Screen Laptop - Copilot+ PC - AMD Ryzen AI 9 HX 370 - 32GB Memory - RTX 4060 - 1TB SSD - Nano Black",
+        "condition": "excellent",
+        "price": 1297.99,
+        "regularPrice": 1999.99,
+        "sku": "6584438",
+        "model": "H7606WV-P16.R3704060",
+        "upc": "197105613935",
+        "link": "https://api.bestbuy.com/click/-/6584438/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:32:56.858Z",
+        "valuation": {
+            "ebayMedianPrice": 1574.9650000000001,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=ProArt%20P16%2016%204K%20OLED%20AMD%20Ryzen%20AI%209%20HX%20370%2032GB%201TB&LH_Sold=1",
+            "profit": -51.61,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6585178-excellent-777.99",
+        "title": "ASUS - ProArt PZ13 13\" OLED 3K Detachable Laptop - Copilot+ PC - Snapdragon X Plus - 16GB Memory - 1TB SSD - Nano Black",
+        "condition": "excellent",
+        "price": 777.99,
+        "regularPrice": 1299.99,
+        "sku": "6585178",
+        "model": "HT5306QA-PZ13.X1P1TB",
+        "upc": "197105684904",
+        "link": "https://api.bestbuy.com/click/-/6585178/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:33:25.113Z",
+        "valuation": {
+            "ebayMedianPrice": 759.975,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=ProArt%20PZ13%2013%20OLED%203K%20Detachable%20Snapdragon%20X%20Plus%2016GB%201TB&LH_Sold=1",
+            "profit": -199.05,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6586063-excellent-1265.99",
+        "title": "Dell - XPS 13 - Copilot+ PC - 13.4\" 3K OLED Touchscreen Laptop - Snapdragon X Elite X1E-80-100 2024 - 32GB Memory – 1TB Storage - Graphite",
+        "condition": "excellent",
+        "price": 1265.99,
+        "regularPrice": 1899.99,
+        "sku": "6586063",
+        "model": "XPS9345-SX12784BLK-PUS",
+        "upc": "884116429784",
+        "link": "https://api.bestbuy.com/click/-/6586063/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:33:53.989Z",
+        "valuation": {
+            "ebayMedianPrice": 874.495,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=XPS%2013%20Snapdragon%20X%20Elite%20X1E-80-100%202024%2032GB%20%20%E2%80%93%201TB%20Storage&LH_Sold=1",
+            "profit": -626.46,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6587437-excellent-452.99",
+        "title": "HP - 14\" 2-in-1 Full HD Touch-Screen Chromebook Plus Laptop with Google AI - Intel Core i3 N305 2023 - 8GB Memory - 256GB UFS - Meteor Silver",
+        "condition": "excellent",
+        "price": 452.99,
+        "regularPrice": 629,
+        "sku": "6587437",
+        "model": "14B-CD0023DX/A4HB3UA#ABA",
+        "upc": "198415330239",
+        "link": "https://api.bestbuy.com/click/-/6587437/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:34:30.986Z",
+        "valuation": {
+            "ebayMedianPrice": 281.495,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=14%20%20Full%20HD%20%20Chromebook%20Plus%20%20with%20Google%20AI%20Intel%20Core%20i3%20N305%202023%208GB%20256GB&LH_Sold=1",
+            "profit": -264.33,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6588600-excellent-550.99",
+        "title": "ASUS - Expertbook CX54 Chromebook Plus 14\" Laptop with Google AI - Intel Core Ultra 5 with 8GB Memory - 128GB SSD - Fog Silver",
+        "condition": "excellent",
+        "price": 550.99,
+        "regularPrice": 699.99,
+        "sku": "6588600",
+        "model": "CX5403CMA-DB588",
+        "upc": "197105615557",
+        "link": "https://api.bestbuy.com/click/-/6588600/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:34:50.193Z",
+        "valuation": {
+            "ebayMedianPrice": 369.99,
+            "ebaySoldItemsCount": 5,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Expertbook%20CX54%20Chromebook%20Plus%2014%20%20with%20Google%20AI%20Intel%20Core%20Ultra%205%20with%208GB%20Memory%20128GB&LH_Sold=1",
+            "profit": -293.18,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6588651-excellent-198.99",
+        "title": "Lenovo - IdeaPad 3i Chromebook 15.6\" Full HD Laptop - Intel Celeron 2021 - 4GB Memory with 64GB eMMC Storage - Arctic Grey",
+        "condition": "excellent",
+        "price": 198.99,
+        "regularPrice": 249,
+        "sku": "6588651",
+        "model": "82N4004NUS",
+        "upc": "198153733804",
+        "link": "https://api.bestbuy.com/click/-/6588651/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:35:14.833Z",
+        "valuation": {
+            "ebayMedianPrice": 162.495,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=IdeaPad%203i%20Chromebook%2015.6%20Full%20HD%20Intel%20Celeron%202021%204GB%20%20with%2064GB%20eMMC%20Storage&LH_Sold=1",
+            "profit": -93.54,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6593118-excellent-532.99",
+        "title": "ASUS - Vivobook 16 16\" FHD+ Laptop - Intel Core i5-1235U with 16GB Memory - 512GB SSD - Cool Silver",
+        "condition": "excellent",
+        "price": 532.99,
+        "regularPrice": 549.99,
+        "sku": "6593118",
+        "model": "F1605ZA-AS56",
+        "upc": "197105541016",
+        "link": "https://api.bestbuy.com/click/-/6593118/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:35:43.152Z",
+        "valuation": {
+            "ebayMedianPrice": 329.99,
+            "ebaySoldItemsCount": 5,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Vivobook%2016%2016%20FHD%2B%20Intel%20Core%20i5%20512GB&LH_Sold=1",
+            "profit": -308.54,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6593255-excellent-1529.99",
+        "title": "ASUS - Zenbook S 16 16” 3K OLED Touch Laptop - Copilot+ PC - AMD Ryzen AI 9 HX 370 - 32GB Memory - 1TB SSD - Zumaia Gray",
+        "condition": "excellent",
+        "price": 1529.99,
+        "regularPrice": 1799.99,
+        "sku": "6593255",
+        "model": "UM5606WA-PB99T",
+        "upc": "197105587618",
+        "link": "https://api.bestbuy.com/click/-/6593255/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:36:05.722Z",
+        "valuation": {
+            "ebayMedianPrice": 999.975,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Zenbook%20S%2016%2016%E2%80%9D%203K%20OLED%20Touch%20AMD%20Ryzen%20AI%209%20HX%20370%2032GB%201TB&LH_Sold=1",
+            "profit": -802.41,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6593257-excellent-1061.99",
+        "title": "ASUS - Vivobook S 14\" OLED 3K 120Hz Laptop - Copilot+ PC - AMD Ryzen AI 9 365 with 24GB RAM - 512GB SSD - Neutral Black",
+        "condition": "excellent",
+        "price": 1061.99,
+        "regularPrice": 1249.99,
+        "sku": "6593257",
+        "model": "M5406WA-DS76",
+        "upc": "197105595712",
+        "link": "https://api.bestbuy.com/click/-/6593257/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:36:28.443Z",
+        "valuation": {
+            "ebayMedianPrice": 950,
+            "ebaySoldItemsCount": 9,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Vivobook%20S%2014%20OLED%203K%20120Hz%20AMD%20Ryzen%20AI%209%20365%20with%2024GB%20RAM%20512GB&LH_Sold=1",
+            "profit": -340.45,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6593552-excellent-991.99",
+        "title": "HP - OmniBook Ultra Flip - Copilot+ PC - 14\" 3K OLED Touch-Screen Laptop - Intel Core Ultra 7 256V - 16GB Memory - 1TB SSD - Eclipse Gray",
+        "condition": "excellent",
+        "price": 991.99,
+        "regularPrice": 1599.99,
+        "sku": "6593552",
+        "model": "14-FH0013DX/A9SR3UA#ABA",
+        "upc": "198415975676",
+        "link": "https://api.bestbuy.com/click/-/6593552/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:36:49.693Z",
+        "valuation": {
+            "ebayMedianPrice": 689.495,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=OmniBook%20Ultra%20Flip%20Intel%20Core%20Ultra%207%20256V%2016GB%201TB&LH_Sold=1",
+            "profit": -491.49,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6594998-excellent-783.99",
+        "title": "Lenovo - Yoga Slim 7i Aura Edition - Copilot+ PC - 15.3” 3K 120Hz Touchscreen Laptop - Intel Core Ultra 7 256V 2024 - 16GB - 1TB - Luna Gray",
+        "condition": "excellent",
+        "price": 783.99,
+        "regularPrice": 1399.99,
+        "sku": "6594998",
+        "model": "83HM0000US",
+        "upc": "198153992805",
+        "link": "https://api.bestbuy.com/click/-/6594998/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:37:07.457Z",
+        "valuation": {
+            "ebayMedianPrice": 759.625,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Yoga%20Slim%207i%20Aura%20Edition%20Intel%20Core%20Ultra%207%20256V%202024&LH_Sold=1",
+            "profit": -205.84,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6597158-excellent-453.99",
+        "title": "Samsung - Galaxy Chromebook Plus 15.6” with Google AI - AMOLED display – Intel Core 3 – 8GB Memory – 256GB Storage - Neptune Blue",
+        "condition": "excellent",
+        "price": 453.99,
+        "regularPrice": 749.99,
+        "sku": "6597158",
+        "model": "XE550XGA-KC1US",
+        "upc": "887276902432",
+        "link": "https://api.bestbuy.com/click/-/6597158/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:37:28.029Z",
+        "valuation": {
+            "ebayMedianPrice": 489,
+            "ebaySoldItemsCount": 7,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Chromebook%20Plus%2015.6%E2%80%9D%20with%20Google%20AI%20AMOLED%20display%20%E2%80%93%20Intel%20Core%203%20%E2%80%93%208GB%20Memory%20%E2%80%93%20256GB%20Storage&LH_Sold=1",
+            "profit": -84.88,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6597397-excellent-211.99",
+        "title": "Lenovo - Duet 11 Chromebook 11\" 2K LCD Touchscreen 2-in-1 Laptop - MediaTek Kompanio 838 2024 - 4GB RAM - 128GB with keyboard - Luna Gray",
+        "condition": "excellent",
+        "price": 211.99,
+        "regularPrice": 399,
+        "sku": "6597397",
+        "model": "83HH0002US",
+        "upc": "198153907472",
+        "link": "https://api.bestbuy.com/click/-/6597397/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:37:56.731Z",
+        "valuation": {
+            "ebayMedianPrice": 185.91000000000003,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Duet%2011%20Chromebook%2011%202K%20LCD%20Touchscreen%204GB&LH_Sold=1",
+            "profit": -87.21,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6598567-excellent-1206.99",
+        "title": "Samsung - Galaxy Book5 Pro 360 - Copilot+ PC - 16\" AMOLED Touch Screen Laptop - Intel Core Ultra 7 - 16GB Memory - 1TB SSD - Gray",
+        "condition": "excellent",
+        "price": 1206.99,
+        "regularPrice": 1699.99,
+        "sku": "6598567",
+        "model": "NP960QHA-KG1US",
+        "upc": "887276900346",
+        "link": "https://api.bestbuy.com/click/-/6598567/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:38:22.452Z",
+        "valuation": {
+            "ebayMedianPrice": 1188.5,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Book5%20Pro%20360%20Intel%20Core%20Ultra%207%2016GB%201TB&LH_Sold=1",
+            "profit": -289.55,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6598704-excellent-1010.99",
+        "title": "Dell - XPS 13 - Copilot+ PC - 13.4” 2K Laptop - Intel Core Ultra 7 256V 2024 - 16GB Memory - 512GB Storage - Graphite",
+        "condition": "excellent",
+        "price": 1010.99,
+        "regularPrice": 1399.99,
+        "sku": "6598704",
+        "model": "XPS9350-7715BLK-PUS",
+        "upc": "884116429715",
+        "link": "https://api.bestbuy.com/click/-/6598704/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:38:46.820Z",
+        "valuation": {
+            "ebayMedianPrice": 904.415,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=XPS%2013%20Intel%20Core%20Ultra%207%20256V%202024%2016GB%20512GB&LH_Sold=1",
+            "profit": -325.03,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6601706-excellent-1380.99",
+        "title": "HP - OmniBook Ultra Flip 2-in-1 - Copilot+ PC - 14\" 3K OLED Touch-Screen Laptop - Intel Core Ultra 9 - 32GB Memory - 2TB SSD - Eclipse Gray",
+        "condition": "excellent",
+        "price": 1380.99,
+        "regularPrice": 1899.99,
+        "sku": "6601706",
+        "model": "14-FH0033DX/AW5Z6UA#ABA",
+        "upc": "198701765110",
+        "link": "https://api.bestbuy.com/click/-/6601706/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:39:07.558Z",
+        "valuation": {
+            "ebayMedianPrice": 929.99,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=OmniBook%20Ultra%20Flip%20Intel%20Core%20Ultra%209%2032GB%202TB&LH_Sold=1",
+            "profit": -702.38,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6602286-excellent-1359.99",
+        "title": "ASUS - Zenbook S 14 14\" 3K OLED Touch Laptop - Copilot+ PC - Intel Core Ultra 7 Series 2 with 32GB Memory - 1TB SSD - Scandinavian White",
+        "condition": "excellent",
+        "price": 1359.99,
+        "regularPrice": 1599.99,
+        "sku": "6602286",
+        "model": "UX5406SA-PH79T",
+        "upc": "197105714861",
+        "link": "https://api.bestbuy.com/click/-/6602286/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:39:44.045Z",
+        "valuation": {
+            "ebayMedianPrice": 730.495,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Zenbook%20S%2014%2014%203K%20OLED%20Touch%20Intel%20Core%20Ultra%207%20Series%202%20with%2032GB%20Memory%201TB&LH_Sold=1",
+            "profit": -853.26,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6602739-excellent-1739.99",
+        "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 chip Built for Apple Intelligence - 24GB Memory - 1TB SSD - Space Black",
+        "condition": "excellent",
+        "price": 1739.99,
+        "regularPrice": 1899,
+        "sku": "6602739",
+        "model": "MCX04LL/A",
+        "upc": "195949926594",
+        "link": "https://api.bestbuy.com/click/-/6602739/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:40:13.687Z",
+        "valuation": {
+            "ebayMedianPrice": 1699,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%2024GB%201TB&LH_Sold=1",
+            "profit": -421.06,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6602740-excellent-1640.99",
+        "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 chip Built for Apple Intelligence - 24GB Memory - 1TB SSD - Silver",
+        "condition": "excellent",
+        "price": 1640.99,
+        "regularPrice": 1899,
+        "sku": "6602740",
+        "model": "MCX14LL/A",
+        "upc": "195949927058",
+        "link": "https://api.bestbuy.com/click/-/6602740/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:40:36.767Z",
+        "valuation": {
+            "ebayMedianPrice": 1699,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%2024GB%201TB&LH_Sold=1",
+            "profit": -314.14,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6602741-excellent-1335.99",
+        "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Space Black",
+        "condition": "excellent",
+        "price": 1335.99,
+        "regularPrice": 1499,
+        "sku": "6602741",
+        "model": "MW2U3LL/A",
+        "upc": "195949507786",
+        "link": "https://api.bestbuy.com/click/-/6602741/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:40:58.668Z",
+        "valuation": {
+            "ebayMedianPrice": 1219.99,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
+            "profit": -401.48,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6602742-excellent-1429.99",
+        "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 1TB SSD - Space Black",
+        "condition": "excellent",
+        "price": 1429.99,
+        "regularPrice": 1699,
+        "sku": "6602742",
+        "model": "MW2V3LL/A",
+        "upc": "195949507793",
+        "link": "https://api.bestbuy.com/click/-/6602742/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:41:26.059Z",
+        "valuation": {
+            "ebayMedianPrice": 1399.5,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%2016GB%201TB&LH_Sold=1",
+            "profit": -346.82,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6602743-excellent-1331.99",
+        "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Silver",
+        "condition": "excellent",
+        "price": 1331.99,
+        "regularPrice": 1499,
+        "sku": "6602743",
+        "model": "MW2W3LL/A",
+        "upc": "195949507809",
+        "link": "https://api.bestbuy.com/click/-/6602743/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:42:01.309Z",
+        "valuation": {
+            "ebayMedianPrice": 1219.99,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
+            "profit": -397.16,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6602744-excellent-1391.99",
+        "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 1TB SSD - Silver",
+        "condition": "excellent",
+        "price": 1391.99,
+        "regularPrice": 1699,
+        "sku": "6602744",
+        "model": "MW2X3LL/A",
+        "upc": "195949507816",
+        "link": "https://api.bestbuy.com/click/-/6602744/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:42:28.603Z",
+        "valuation": {
+            "ebayMedianPrice": 1399.5,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%2016GB%201TB&LH_Sold=1",
+            "profit": -305.78,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6602745-excellent-1655.99",
+        "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Silver",
+        "condition": "excellent",
+        "price": 1655.99,
+        "regularPrice": 1999,
+        "sku": "6602745",
+        "model": "MX2E3LL/A",
+        "upc": "195949873485",
+        "link": "https://api.bestbuy.com/click/-/6602745/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:42:48.149Z",
+        "valuation": {
+            "ebayMedianPrice": 1437.995,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%20Pro%2024GB%20512GB&LH_Sold=1",
+            "profit": -557.41,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6602746-excellent-1909.99",
+        "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 1TB SSD - Silver",
+        "condition": "excellent",
+        "price": 1909.99,
+        "regularPrice": 2399,
+        "sku": "6602746",
+        "model": "MX2F3LL/A",
+        "upc": "195949873935",
+        "link": "https://api.bestbuy.com/click/-/6602746/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:43:12.291Z",
+        "valuation": {
+            "ebayMedianPrice": 1699,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%20Pro%2024GB%201TB&LH_Sold=1",
+            "profit": -604.66,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6602748-excellent-1690.99",
+        "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Space Black",
+        "condition": "excellent",
+        "price": 1690.99,
+        "regularPrice": 1999,
+        "sku": "6602748",
+        "model": "MX2H3LL/A",
+        "upc": "195949874833",
+        "link": "https://api.bestbuy.com/click/-/6602748/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:43:48.234Z",
+        "valuation": {
+            "ebayMedianPrice": 1437.995,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%20Pro%2024GB%20512GB&LH_Sold=1",
+            "profit": -595.21,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6602749-excellent-2033.99",
+        "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 1TB SSD - Space Black",
+        "condition": "excellent",
+        "price": 2033.99,
+        "regularPrice": 2399,
+        "sku": "6602749",
+        "model": "MX2J3LL/A",
+        "upc": "195949875281",
+        "link": "https://api.bestbuy.com/click/-/6602749/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:44:16.775Z",
+        "valuation": {
+            "ebayMedianPrice": 1724,
+            "ebaySoldItemsCount": 8,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%20Pro%2024GB%201TB&LH_Sold=1",
+            "profit": -716.83,
+            "currency": "USD"
+        }
+    },
+    {
+        "id": "6602750-excellent-2707.99",
+        "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 Max chip Built for Apple Intelligence - 36GB Memory - 1TB SSD - Space Black",
+        "condition": "excellent",
+        "price": 2707.99,
+        "regularPrice": 3199,
+        "sku": "6602750",
+        "model": "MX2K3LL/A",
+        "upc": "195949875731",
+        "link": "https://api.bestbuy.com/click/-/6602750/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:44:23.294Z",
+        "valuation": null
+    },
+    {
+        "id": "6602751-excellent-1952.99",
+        "title": "Apple - MacBook Pro 16-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Silver",
+        "condition": "excellent",
+        "price": 1952.99,
+        "regularPrice": 2499,
+        "sku": "6602751",
+        "model": "MX2T3LL/A",
+        "upc": "195949867804",
+        "link": "https://api.bestbuy.com/click/-/6602751/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:44:30.987Z",
+        "valuation": null
+    },
+    {
+        "id": "6602754-excellent-3138.99",
+        "title": "Apple - MacBook Pro 16-inch Laptop - Apple M4 Max chip Built for Apple Intelligence - 48GB Memory - 1TB SSD - Silver",
+        "condition": "excellent",
+        "price": 3138.99,
+        "regularPrice": 3999,
+        "sku": "6602754",
+        "model": "MX2W3LL/A",
+        "upc": "195949869150",
+        "link": "https://api.bestbuy.com/click/-/6602754/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:44:36.956Z",
+        "valuation": null
+    },
+    {
+        "id": "6602755-excellent-2130.99",
+        "title": "Apple - MacBook Pro 16-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Space Black",
+        "condition": "excellent",
+        "price": 2130.99,
+        "regularPrice": 2499,
+        "sku": "6602755",
+        "model": "MX2X3LL/A",
+        "upc": "195949869600",
+        "link": "https://api.bestbuy.com/click/-/6602755/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T05:44:47.085Z",
+        "valuation": null
+    },
+    {
+        "id": "6531741-excellent-152.99",
+        "title": "Lenovo - IdeaPad Flex 3i Chromebook Laptop - 12.2\" 2K Touchscreen - Intel N100 2023 - 4GB Memory - 64GB eMMC - Abyss Blue",
+        "condition": "excellent",
+        "price": 152.99,
+        "regularPrice": 429,
+        "sku": "6531741",
+        "model": "82XH0001US",
+        "upc": "196804039855",
+        "link": "https://api.bestbuy.com/click/-/6531741/pdp#tab=buyingOptions",
+        "foundAt": "2025-12-08T06:12:24.325Z",
+        "valuation": {
+            "ebayMedianPrice": 199.60500000000002,
+            "ebaySoldItemsCount": 10,
+            "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=IdeaPad%20Flex%203i%20Chromebook%20Intel%20N100%202023%204GB%2064GB&LH_Sold=1",
+            "profit": -11.57,
+            "currency": "USD"
+        }
     }
-  },
-  {
-    "id": "6527463-excellent-185.99",
-    "title": "Thomson - NEOZ3 Laptop - Qualcomm Snapdragon - 4GB Memory - 64GB SDD - Silver",
-    "condition": "excellent",
-    "price": 185.99,
-    "regularPrice": 199.99,
-    "sku": "6527463",
-    "model": "WWZ313Q8504T64",
-    "upc": "810002150920",
-    "link": "https://api.bestbuy.com/click/-/6527463/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:04:35.352Z",
-    "valuation": {
-      "ebayMedianPrice": 274.95,
-      "ebaySoldItemsCount": 9,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=NEOZ3%20Qualcomm%20Snapdragon%204GB&LH_Sold=1",
-      "profit": 18.34,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6530630-excellent-1465.99",
-    "title": "Apple - MacBook Pro 14\" Laptop - M2 Pro chip - 16GB Memory - 512GB SSD - Silver",
-    "condition": "excellent",
-    "price": 1465.99,
-    "regularPrice": 1999,
-    "sku": "6530630",
-    "model": "3L553LL/A",
-    "upc": "194253714897",
-    "link": "https://api.bestbuy.com/click/-/6530630/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:05:08.301Z",
-    "valuation": {
-      "ebayMedianPrice": 909.495,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014%20M2%20Pro%2016GB%20512GB&LH_Sold=1",
-      "profit": -812.01,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6531741-excellent-286.99",
-    "title": "Lenovo - IdeaPad Flex 3i Chromebook Laptop - 12.2\" 2K Touchscreen - Intel N100 2023 - 4GB Memory - 64GB eMMC - Abyss Blue",
-    "condition": "excellent",
-    "price": 286.99,
-    "regularPrice": 429,
-    "sku": "6531741",
-    "model": "82XH0001US",
-    "upc": "196804039855",
-    "link": "https://api.bestbuy.com/click/-/6531741/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:05:41.083Z",
-    "valuation": {
-      "ebayMedianPrice": 199.99,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=IdeaPad%20Flex%203i%20Chromebook%20Intel%20N100%202023%204GB%2064GB&LH_Sold=1",
-      "profit": -155.96,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6531742-excellent-310.99",
-    "title": "Lenovo - IdeaPad Slim 3 Chromebook Laptop - 14\" Full HD Touchscreen Laptop - MediaTek Kompanio 520 2022 - 4GB Memory - 64GB eMMC - Abyss Blue",
-    "condition": "excellent",
-    "price": 310.99,
-    "regularPrice": 399,
-    "sku": "6531742",
-    "model": "82XJ0000US",
-    "upc": "196803504613",
-    "link": "https://api.bestbuy.com/click/-/6531742/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:06:11.606Z",
-    "valuation": {
-      "ebayMedianPrice": 199.95,
-      "ebaySoldItemsCount": 9,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=IdeaPad%20Slim%203%20Chromebook%204GB%2064GB&LH_Sold=1",
-      "profit": -181.91,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6534434-excellent-1209.99",
-    "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Silver",
-    "condition": "excellent",
-    "price": 1209.99,
-    "regularPrice": 1399,
-    "sku": "6534434",
-    "model": "MC654LL/A",
-    "upc": "195949888823",
-    "link": "https://api.bestbuy.com/click/-/6534434/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:06:37.243Z",
-    "valuation": {
-      "ebayMedianPrice": 1052,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
-      "profit": -411.55,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6534438-excellent-1209.99",
-    "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Starlight",
-    "condition": "excellent",
-    "price": 1209.99,
-    "regularPrice": 1399,
-    "sku": "6534438",
-    "model": "MC6A4LL/A",
-    "upc": "195949889295",
-    "link": "https://api.bestbuy.com/click/-/6534438/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:06:56.590Z",
-    "valuation": {
-      "ebayMedianPrice": 1052,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
-      "profit": -411.55,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6534483-excellent-978.99",
-    "title": "Apple - MacBook Air 15\" Laptop - M2 chip Built for Apple Intelligence - 8GB Memory - 256GB SSD - Starlight",
-    "condition": "excellent",
-    "price": 978.99,
-    "regularPrice": 1299,
-    "sku": "6534483",
-    "model": "3L621LL/A",
-    "upc": "194253710240",
-    "link": "https://api.bestbuy.com/click/-/6534483/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:07:18.736Z",
-    "valuation": {
-      "ebayMedianPrice": 626.995,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015%20M2%208GB%20256GB&LH_Sold=1",
-      "profit": -531.82,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6534488-excellent-1454.99",
-    "title": "Apple - MacBook Pro 14\" Laptop - M3 Pro chip Built for Apple Intelligence - 18GB Memory - 14-core GPU - 512GB SSD - Space Black",
-    "condition": "excellent",
-    "price": 1454.99,
-    "regularPrice": 1899,
-    "sku": "6534488",
-    "model": "3M524LL/A",
-    "upc": "195949073755",
-    "link": "https://api.bestbuy.com/click/-/6534488/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:07:41.177Z",
-    "valuation": {
-      "ebayMedianPrice": 1274.495,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014%20M3%20Pro%2018GB%20512GB&LH_Sold=1",
-      "profit": -482.58,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6534623-excellent-1452.99",
-    "title": "Apple - MacBook Pro 14\" Laptop - M3 Pro chip Built for Apple Intelligence - 18GB Memory - 18-core GPU - 1TB SSD - Silver",
-    "condition": "excellent",
-    "price": 1452.99,
-    "regularPrice": 2299,
-    "sku": "6534623",
-    "model": "MRX73LL/A",
-    "upc": "195949000072",
-    "link": "https://api.bestbuy.com/click/-/6534623/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:08:05.879Z",
-    "valuation": {
-      "ebayMedianPrice": 1299,
-      "ebaySoldItemsCount": 9,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014%20M3%20Pro%2018GB%201TB&LH_Sold=1",
-      "profit": -459.1,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6534624-excellent-1411.99",
-    "title": "Apple - MacBook Pro 14\" Laptop - M3 Pro chip Built for Apple Intelligence - 18GB Memory - 18-core GPU - 1TB SSD - Space Black",
-    "condition": "excellent",
-    "price": 1411.99,
-    "regularPrice": 2299,
-    "sku": "6534624",
-    "model": "MRX43LL/A",
-    "upc": "195949000041",
-    "link": "https://api.bestbuy.com/click/-/6534624/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:08:34.655Z",
-    "valuation": {
-      "ebayMedianPrice": 1299,
-      "ebaySoldItemsCount": 9,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014%20M3%20Pro%2018GB%201TB&LH_Sold=1",
-      "profit": -414.82,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6534638-excellent-1203.99",
-    "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Midnight",
-    "condition": "excellent",
-    "price": 1203.99,
-    "regularPrice": 1399,
-    "sku": "6534638",
-    "model": "MC6C4LL/A",
-    "upc": "195949889769",
-    "link": "https://api.bestbuy.com/click/-/6534638/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:08:58.202Z",
-    "valuation": {
-      "ebayMedianPrice": 1052,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
-      "profit": -405.07,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6534639-excellent-1356.99",
-    "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Silver",
-    "condition": "excellent",
-    "price": 1356.99,
-    "regularPrice": 1599,
-    "sku": "6534639",
-    "model": "MC6J4LL/A",
-    "upc": "195949891724",
-    "link": "https://api.bestbuy.com/click/-/6534639/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:09:18.450Z",
-    "valuation": {
-      "ebayMedianPrice": 1249,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
-      "profit": -398.92,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6534642-excellent-1394.99",
-    "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Starlight",
-    "condition": "excellent",
-    "price": 1394.99,
-    "regularPrice": 1599,
-    "sku": "6534642",
-    "model": "MC6K4LL/A",
-    "upc": "195949892196",
-    "link": "https://api.bestbuy.com/click/-/6534642/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:09:43.527Z",
-    "valuation": {
-      "ebayMedianPrice": 1249,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
-      "profit": -439.96,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6534643-excellent-1351.99",
-    "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Midnight",
-    "condition": "excellent",
-    "price": 1351.99,
-    "regularPrice": 1599,
-    "sku": "6534643",
-    "model": "MC6L4LL/A",
-    "upc": "195949892660",
-    "link": "https://api.bestbuy.com/click/-/6534643/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:10:19.781Z",
-    "valuation": {
-      "ebayMedianPrice": 1249,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
-      "profit": -393.52,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6534644-excellent-822.99",
-    "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Sky Blue",
-    "condition": "excellent",
-    "price": 822.99,
-    "regularPrice": 999,
-    "sku": "6534644",
-    "model": "MC6T4LL/A",
-    "upc": "195949890260",
-    "link": "https://api.bestbuy.com/click/-/6534644/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:11:08.022Z",
-    "valuation": {
-      "ebayMedianPrice": 734,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
-      "profit": -270.25,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6534646-excellent-974.99",
-    "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Sky Blue",
-    "condition": "excellent",
-    "price": 974.99,
-    "regularPrice": 1199,
-    "sku": "6534646",
-    "model": "MC6U4LL/A",
-    "upc": "195949890734",
-    "link": "https://api.bestbuy.com/click/-/6534646/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:11:39.798Z",
-    "valuation": {
-      "ebayMedianPrice": 899.5,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
-      "profit": -290.42,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6534647-excellent-1158.99",
-    "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Sky Blue",
-    "condition": "excellent",
-    "price": 1158.99,
-    "regularPrice": 1399,
-    "sku": "6534647",
-    "model": "MC6V4LL/A",
-    "upc": "195949891205",
-    "link": "https://api.bestbuy.com/click/-/6534647/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:12:02.640Z",
-    "valuation": {
-      "ebayMedianPrice": 1052,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
-      "profit": -356.47,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6534648-excellent-988.99",
-    "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Sky Blue",
-    "condition": "excellent",
-    "price": 988.99,
-    "regularPrice": 1199,
-    "sku": "6534648",
-    "model": "MC7A4LL/A",
-    "upc": "195949893162",
-    "link": "https://api.bestbuy.com/click/-/6534648/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:12:33.267Z",
-    "valuation": {
-      "ebayMedianPrice": 835,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
-      "profit": -361.66,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6535992-excellent-172.99",
-    "title": "HP - 15.6\" Chromebook Laptop - Intel Processor N200 2023 - 8GB Memory - 64GB eMMC - Natural Silver",
-    "condition": "excellent",
-    "price": 172.99,
-    "regularPrice": 429,
-    "sku": "6535992",
-    "model": "15A-NB0013DX/7J267UA#ABA",
-    "upc": "197192458518",
-    "link": "https://api.bestbuy.com/click/-/6535992/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:13:03.572Z",
-    "valuation": {
-      "ebayMedianPrice": 179.99,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=15.6%20Chromebook%20Intel%20%20N200%202023%208GB%2064GB&LH_Sold=1",
-      "profit": -50.24,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6542092-excellent-569.99",
-    "title": "ASUS - Vivobook 16 16\" FHD+ Laptop - AMD Ryzen 7 with 16GB Memory - 1TB SSD - Indie Black",
-    "condition": "excellent",
-    "price": 569.99,
-    "regularPrice": 649.99,
-    "sku": "6542092",
-    "model": "M1605YA-ES74",
-    "upc": "197105081215",
-    "link": "https://api.bestbuy.com/click/-/6542092/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:13:23.847Z",
-    "valuation": {
-      "ebayMedianPrice": 441.99,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Vivobook%2016%2016%20FHD%2B%20AMD%20Ryzen%207%20with%2016GB%20Memory%201TB&LH_Sold=1",
-      "profit": -251.06,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6547350-excellent-343.99",
-    "title": "HP - 14-EP0010NR 14\" Laptop HD - Intel Processor N200 With 4GB Memory 128GB UFS - Natural Silver",
-    "condition": "excellent",
-    "price": 343.99,
-    "regularPrice": 369.99,
-    "sku": "6547350",
-    "model": "14-EP0010NR",
-    "upc": "197192242261",
-    "link": "https://api.bestbuy.com/click/-/6547350/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:13:44.548Z",
-    "valuation": {
-      "ebayMedianPrice": 187.5,
-      "ebaySoldItemsCount": 2,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=14-EP0010NR%2014%20%20HD%20Intel%20%20N200%20With%204GB%20Memory%20128GB%20UFS&LH_Sold=1",
-      "profit": -228.38,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6550736-excellent-345.99",
-    "title": "Lenovo - Flex 5i Chromebook Plus Laptop with Gemini - 14\" 2K Touchscreen - Intel i3 1315U 2023 - 8GB RAM - 128GB SSD - Storm Grey",
-    "condition": "excellent",
-    "price": 345.99,
-    "regularPrice": 599,
-    "sku": "6550736",
-    "model": "83EK0000UX",
-    "upc": "197528655949",
-    "link": "https://api.bestbuy.com/click/-/6550736/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:14:09.075Z",
-    "valuation": {
-      "ebayMedianPrice": 299.495,
-      "ebaySoldItemsCount": 6,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Flex%205i%20Chromebook%20Plus%20%20with%20Gemini%20Intel%20i3%201315U%202023%208GB%20128GB&LH_Sold=1",
-      "profit": -133.11,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6551405-excellent-1171.99",
-    "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Sky Blue",
-    "condition": "excellent",
-    "price": 1171.99,
-    "regularPrice": 1399,
-    "sku": "6551405",
-    "model": "MC7C4LL/A",
-    "upc": "195949893636",
-    "link": "https://api.bestbuy.com/click/-/6551405/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:14:36.703Z",
-    "valuation": {
-      "ebayMedianPrice": 992,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
-      "profit": -422.71,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6551408-excellent-1403.99",
-    "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Sky Blue",
-    "condition": "excellent",
-    "price": 1403.99,
-    "regularPrice": 1599,
-    "sku": "6551408",
-    "model": "MC7D4LL/A",
-    "upc": "195949894107",
-    "link": "https://api.bestbuy.com/click/-/6551408/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:15:02.235Z",
-    "valuation": {
-      "ebayMedianPrice": 1249,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2024GB%20512GB&LH_Sold=1",
-      "profit": -449.68,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6551410-excellent-797.99",
-    "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Silver",
-    "condition": "excellent",
-    "price": 797.99,
-    "regularPrice": 999,
-    "sku": "6551410",
-    "model": "MW0W3LL/A",
-    "upc": "195949836251",
-    "link": "https://api.bestbuy.com/click/-/6551410/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:15:41.421Z",
-    "valuation": {
-      "ebayMedianPrice": 734,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
-      "profit": -243.25,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6551412-excellent-991.99",
-    "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Silver",
-    "condition": "excellent",
-    "price": 991.99,
-    "regularPrice": 1199,
-    "sku": "6551412",
-    "model": "MW0X3LL/A",
-    "upc": "195949836725",
-    "link": "https://api.bestbuy.com/click/-/6551412/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:16:08.471Z",
-    "valuation": {
-      "ebayMedianPrice": 899.5,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
-      "profit": -308.78,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6565845-excellent-862.99",
-    "title": "Apple - MacBook Air 15-inch Laptop - M3 chip Built for Apple Intelligence - 8GB Memory - 512GB SSD - Space Gray",
-    "condition": "excellent",
-    "price": 862.99,
-    "regularPrice": 1199,
-    "sku": "6565845",
-    "model": "MRYN3LL/A",
-    "upc": "195949129346",
-    "link": "https://api.bestbuy.com/click/-/6565845/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:16:34.644Z",
-    "valuation": {
-      "ebayMedianPrice": 779.495,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20M3%208GB%20512GB&LH_Sold=1",
-      "profit": -273.87,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6565853-excellent-974.99",
-    "title": "Apple - MacBook Air 15-inch Laptop - M3 chip Built for Apple Intelligence - 8GB Memory - 512GB SSD - Midnight",
-    "condition": "excellent",
-    "price": 974.99,
-    "regularPrice": 1199,
-    "sku": "6565853",
-    "model": "MRYV3LL/A",
-    "upc": "195949132162",
-    "link": "https://api.bestbuy.com/click/-/6565853/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:17:02.295Z",
-    "valuation": {
-      "ebayMedianPrice": 779.495,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20M3%208GB%20512GB&LH_Sold=1",
-      "profit": -394.83,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6565856-excellent-929.99",
-    "title": "Apple - MacBook Air 15-inch Laptop - M3 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Starlight",
-    "condition": "excellent",
-    "price": 929.99,
-    "regularPrice": 1299,
-    "sku": "6565856",
-    "model": "MXD33LL/A",
-    "upc": "195949638541",
-    "link": "https://api.bestbuy.com/click/-/6565856/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:17:38.822Z",
-    "valuation": {
-      "ebayMedianPrice": 924.5,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20M3%2016GB%20512GB&LH_Sold=1",
-      "profit": -220.07,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6565859-excellent-822.99",
-    "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Starlight",
-    "condition": "excellent",
-    "price": 822.99,
-    "regularPrice": 999,
-    "sku": "6565859",
-    "model": "MW0Y3LL/A",
-    "upc": "195949837197",
-    "link": "https://api.bestbuy.com/click/-/6565859/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:18:00.609Z",
-    "valuation": {
-      "ebayMedianPrice": 734,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
-      "profit": -270.25,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6565860-excellent-1011.99",
-    "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Starlight",
-    "condition": "excellent",
-    "price": 1011.99,
-    "regularPrice": 1199,
-    "sku": "6565860",
-    "model": "MW103LL/A",
-    "upc": "195949837661",
-    "link": "https://api.bestbuy.com/click/-/6565860/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:18:21.882Z",
-    "valuation": {
-      "ebayMedianPrice": 899.5,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
-      "profit": -330.38,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6565862-excellent-816.99",
-    "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Midnight",
-    "condition": "excellent",
-    "price": 816.99,
-    "regularPrice": 999,
-    "sku": "6565862",
-    "model": "MW123LL/A",
-    "upc": "195949838132",
-    "link": "https://api.bestbuy.com/click/-/6565862/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:18:42.973Z",
-    "valuation": {
-      "ebayMedianPrice": 734,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
-      "profit": -263.77,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6565863-excellent-1015.99",
-    "title": "Apple - MacBook Air 13-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Midnight",
-    "condition": "excellent",
-    "price": 1015.99,
-    "regularPrice": 1199,
-    "sku": "6565863",
-    "model": "MW133LL/A",
-    "upc": "195949838606",
-    "link": "https://api.bestbuy.com/click/-/6565863/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:19:07.950Z",
-    "valuation": {
-      "ebayMedianPrice": 899.5,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2013-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
-      "profit": -334.7,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6565864-excellent-979.99",
-    "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Silver",
-    "condition": "excellent",
-    "price": 979.99,
-    "regularPrice": 1199,
-    "sku": "6565864",
-    "model": "MW1G3LL/A",
-    "upc": "195949840098",
-    "link": "https://api.bestbuy.com/click/-/6565864/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:19:41.730Z",
-    "valuation": {
-      "ebayMedianPrice": 835,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
-      "profit": -351.94,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6565865-excellent-1209.99",
-    "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Silver",
-    "condition": "excellent",
-    "price": 1209.99,
-    "regularPrice": 1399,
-    "sku": "6565865",
-    "model": "MW1H3LL/A",
-    "upc": "195949840562",
-    "link": "https://api.bestbuy.com/click/-/6565865/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:20:24.323Z",
-    "valuation": {
-      "ebayMedianPrice": 992,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
-      "profit": -463.75,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6565866-excellent-964.99",
-    "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Starlight",
-    "condition": "excellent",
-    "price": 964.99,
-    "regularPrice": 1199,
-    "sku": "6565866",
-    "model": "MW1J3LL/A",
-    "upc": "195949841033",
-    "link": "https://api.bestbuy.com/click/-/6565866/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:20:59.995Z",
-    "valuation": {
-      "ebayMedianPrice": 835,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
-      "profit": -335.74,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6565868-excellent-1167.99",
-    "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Starlight",
-    "condition": "excellent",
-    "price": 1167.99,
-    "regularPrice": 1399,
-    "sku": "6565868",
-    "model": "MW1K3LL/A",
-    "upc": "195949841507",
-    "link": "https://api.bestbuy.com/click/-/6565868/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:21:21.682Z",
-    "valuation": {
-      "ebayMedianPrice": 992,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
-      "profit": -418.39,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6565869-excellent-985.99",
-    "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 256GB SSD - Midnight",
-    "condition": "excellent",
-    "price": 985.99,
-    "regularPrice": 1199,
-    "sku": "6565869",
-    "model": "MW1L3LL/A",
-    "upc": "195949841972",
-    "link": "https://api.bestbuy.com/click/-/6565869/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:21:51.499Z",
-    "valuation": {
-      "ebayMedianPrice": 835,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20256GB&LH_Sold=1",
-      "profit": -358.42,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6565870-excellent-1209.99",
-    "title": "Apple - MacBook Air 15-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Midnight",
-    "condition": "excellent",
-    "price": 1209.99,
-    "regularPrice": 1399,
-    "sku": "6565870",
-    "model": "MW1M3LL/A",
-    "upc": "195949842443",
-    "link": "https://api.bestbuy.com/click/-/6565870/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:22:10.964Z",
-    "valuation": {
-      "ebayMedianPrice": 992,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Air%2015-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
-      "profit": -463.75,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6565871-excellent-1548.99",
-    "title": "14-inch MacBook Pro - Apple M5 chip with 10-core CPU and 10-core GPU - 16GB Memory - 512GB SSD - Space Black",
-    "condition": "excellent",
-    "price": 1548.99,
-    "regularPrice": 1599,
-    "sku": "6565871",
-    "model": "MDE04LL/A",
-    "upc": "195950488999",
-    "link": "https://api.bestbuy.com/click/-/6565871/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:22:44.856Z",
-    "valuation": {
-      "ebayMedianPrice": 1274.5,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Apple%20M5%C2%A0chip%20with%2010-core%20CPU%20and%2010-core%20GPU%2016GB%20512GB&LH_Sold=1",
-      "profit": -584.09,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6565872-excellent-1631.99",
-    "title": "14-inch MacBook Pro - Apple M5 chip with 10-core CPU and 10-core GPU - 16GB Memory - 1TB SSD - Space Black",
-    "condition": "excellent",
-    "price": 1631.99,
-    "regularPrice": 1799,
-    "sku": "6565872",
-    "model": "MDE14LL/A",
-    "upc": "195950489460",
-    "link": "https://api.bestbuy.com/click/-/6565872/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:23:06.520Z",
-    "valuation": {
-      "ebayMedianPrice": 1369.495,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Apple%20M5%C2%A0chip%20with%2010-core%20CPU%20and%2010-core%20GPU%2016GB%201TB&LH_Sold=1",
-      "profit": -591.09,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6565873-excellent-1936.99",
-    "title": "14-inch MacBook Pro - Apple M5 chip with 10-core CPU and 10-core GPU - 24GB Memory - 1TB SSD - Space Black",
-    "condition": "excellent",
-    "price": 1936.99,
-    "regularPrice": 1999,
-    "sku": "6565873",
-    "model": "MDE34LL/A",
-    "upc": "195950489934",
-    "link": "https://api.bestbuy.com/click/-/6565873/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:23:30.798Z",
-    "valuation": {
-      "ebayMedianPrice": 1534,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Apple%20M5%C2%A0chip%20with%2010-core%20CPU%20and%2010-core%20GPU%2024GB%201TB&LH_Sold=1",
-      "profit": -777.37,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6565874-excellent-1548.99",
-    "title": "14-inch MacBook Pro - Apple M5 chip with 10-core CPU and 10-core GPU - 16GB Memory - 512GB SSD - Silver",
-    "condition": "excellent",
-    "price": 1548.99,
-    "regularPrice": 1599,
-    "sku": "6565874",
-    "model": "MDE44LL/A",
-    "upc": "195950490404",
-    "link": "https://api.bestbuy.com/click/-/6565874/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:24:03.432Z",
-    "valuation": {
-      "ebayMedianPrice": 1224.5,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Apple%20M5%C2%A0chip%20with%2010-core%20CPU%20and%2010-core%20GPU%2016GB%20512GB&LH_Sold=1",
-      "profit": -627.59,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6565875-excellent-1742.99",
-    "title": "14-inch MacBook Pro - Apple M5 chip with 10-core CPU and 10-core GPU - 16GB Memory - 1TB SSD - Silver",
-    "condition": "excellent",
-    "price": 1742.99,
-    "regularPrice": 1799,
-    "sku": "6565875",
-    "model": "MDE54LL/A",
-    "upc": "195950490879",
-    "link": "https://api.bestbuy.com/click/-/6565875/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:24:26.172Z",
-    "valuation": {
-      "ebayMedianPrice": 1369.495,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Apple%20M5%C2%A0chip%20with%2010-core%20CPU%20and%2010-core%20GPU%2016GB%201TB&LH_Sold=1",
-      "profit": -710.97,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6565877-excellent-1936.99",
-    "title": "14-inch MacBook Pro - Apple M5 chip with 10-core CPU and 10-core GPU - 24GB Memory - 1TB SSD - Silver",
-    "condition": "excellent",
-    "price": 1936.99,
-    "regularPrice": 1999,
-    "sku": "6565877",
-    "model": "MDE64LL/A",
-    "upc": "195950491340",
-    "link": "https://api.bestbuy.com/click/-/6565877/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:24:53.371Z",
-    "valuation": {
-      "ebayMedianPrice": 1534,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Apple%20M5%C2%A0chip%20with%2010-core%20CPU%20and%2010-core%20GPU%2024GB%201TB&LH_Sold=1",
-      "profit": -777.37,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6567669-excellent-250.99",
-    "title": "Lenovo - IdeaPad 3i Chromebook Laptop - 15.6\" Full HD Touch Screen - Pentium Silver N6000 2021 - 8GB Memory - 128GB eMMC - Arctic Grey",
-    "condition": "excellent",
-    "price": 250.99,
-    "regularPrice": 449,
-    "sku": "6567669",
-    "model": "82N40045US",
-    "upc": "197531451583",
-    "link": "https://api.bestbuy.com/click/-/6567669/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:25:29.400Z",
-    "valuation": {
-      "ebayMedianPrice": 220,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=IdeaPad%203i%20Chromebook%208GB%20128GB&LH_Sold=1",
-      "profit": -99.67,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6568135-excellent-891.99",
-    "title": "ASUS - Vivobook 17.3” FHD Laptop - Intel Core i9 with 16GB Memory - 1TB SSD - Silver",
-    "condition": "excellent",
-    "price": 891.99,
-    "regularPrice": 1049.99,
-    "sku": "6568135",
-    "model": "K3704VA-DH96-S",
-    "upc": "197105327085",
-    "link": "https://api.bestbuy.com/click/-/6568135/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:26:03.476Z",
-    "valuation": {
-      "ebayMedianPrice": 449.99,
-      "ebaySoldItemsCount": 9,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Vivobook%2017.3%E2%80%9D%20FHD%20Intel%20Core%20i9%20with%2016GB%20Memory%201TB&LH_Sold=1",
-      "profit": -591.86,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6571369-excellent-624.99",
-    "title": "Lenovo - Yoga 7i 2-in-1 16\" 2K Touchscreen Laptop - Intel Core Ultra 7 155U 2023 - 16GB Memory - 1TB SSD - Storm Grey",
-    "condition": "excellent",
-    "price": 624.99,
-    "regularPrice": 1049.99,
-    "sku": "6571369",
-    "model": "83DL0002US",
-    "upc": "197531069214",
-    "link": "https://api.bestbuy.com/click/-/6571369/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:26:25.754Z",
-    "valuation": {
-      "ebayMedianPrice": 579.97,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Yoga%207i%20%2016%202K%20Touchscreen%20Intel%20Core%20Ultra%207%20155U%202023%2016GB%201TB&LH_Sold=1",
-      "profit": -190.42,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6572179-excellent-1391.99",
-    "title": "Samsung - Galaxy Book4 Ultra 16\" AMOLED Touch Screen Laptop - Intel Core Ultra 7 - 16GB Memory - NVIDIA GeForce RTX 4050 - 1TB SSD - Moonstone Gray",
-    "condition": "excellent",
-    "price": 1391.99,
-    "regularPrice": 2399.99,
-    "sku": "6572179",
-    "model": "NP960XGL-XG2US",
-    "upc": "887276831534",
-    "link": "https://api.bestbuy.com/click/-/6572179/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:26:50.874Z",
-    "valuation": {
-      "ebayMedianPrice": 799.99,
-      "ebaySoldItemsCount": 9,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Book4%20Ultra%2016%20AMOLED%20Intel%20Core%20Ultra%207%2016GB%201TB&LH_Sold=1",
-      "profit": -827.36,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6572183-excellent-1059.99",
-    "title": "Samsung - Galaxy Book4 Pro 360 2-in1 16\" AMOLED Touch Screen Laptop - Intel Core Ultra 7 - 16GB Memory - 1TB SSD - Moonstone Gray",
-    "condition": "excellent",
-    "price": 1059.99,
-    "regularPrice": 1899.99,
-    "sku": "6572183",
-    "model": "NP960QGK-KG1US",
-    "upc": "887276831589",
-    "link": "https://api.bestbuy.com/click/-/6572183/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:27:19.968Z",
-    "valuation": {
-      "ebayMedianPrice": 839.475,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Book4%20Pro%20360%202-in1%2016%20AMOLED%20Intel%20Core%20Ultra%207%2016GB%201TB&LH_Sold=1",
-      "profit": -434.45,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6572184-excellent-455.99",
-    "title": "Samsung - Galaxy Book4 15.6\" FHD Laptop - Intel Core 7- 16GB Memory - 512GB SSD - Silver",
-    "condition": "excellent",
-    "price": 455.99,
-    "regularPrice": 899.99,
-    "sku": "6572184",
-    "model": "NP750XGK-KS2US",
-    "upc": "887276834672",
-    "link": "https://api.bestbuy.com/click/-/6572184/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:27:57.471Z",
-    "valuation": {
-      "ebayMedianPrice": 529.95,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Book4%2015.6%20FHD%20Intel%20Core%207%20512GB&LH_Sold=1",
-      "profit": -51.41,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6579293-excellent-255.99",
-    "title": "HP - 2-in-1 14\" Touch-Screen Chromebook Laptop - Intel Processor N100 2023 - 4GB Memory - 64GB eMMC - Sky Blue",
-    "condition": "excellent",
-    "price": 255.99,
-    "regularPrice": 479,
-    "sku": "6579293",
-    "model": "14B-CD0013DX/A28Q7UA#ABA",
-    "upc": "198122945665",
-    "link": "https://api.bestbuy.com/click/-/6579293/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:28:23.726Z",
-    "valuation": {
-      "ebayMedianPrice": 129.525,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=14%20%20Chromebook%20Intel%20%20N100%202023%204GB%2064GB&LH_Sold=1",
-      "profit": -183.78,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6580450-excellent-1056.99",
-    "title": "Samsung - Galaxy Book4 Edge - Copilot+ PC - 16\" AMOLED Touch-Screen Laptop - Snapdragon X Elite 3.8Ghz- 16GB Memory- 1TB Storage - Sapphire Blue",
-    "condition": "excellent",
-    "price": 1056.99,
-    "regularPrice": 1749.99,
-    "sku": "6580450",
-    "model": "NP960XMB-KB1US",
-    "upc": "887276870250",
-    "link": "https://api.bestbuy.com/click/-/6580450/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:28:49.516Z",
-    "valuation": {
-      "ebayMedianPrice": 677.49,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Book4%20Edge%20Snapdragon%20X%20Elite%203.8Ghz&LH_Sold=1",
-      "profit": -572.13,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6582538-excellent-1072.99",
-    "title": "Lenovo - Yoga Slim 7x - Copilot+ PC - 14.5\" 3K 90Hz OLED Touch-Screen Laptop - Snapdragon X Elite X1E-78-100 2024 - 16GB - 512GB - Cosmic Blue",
-    "condition": "excellent",
-    "price": 1072.99,
-    "regularPrice": 1299.99,
-    "sku": "6582538",
-    "model": "83ED0001US",
-    "upc": "198153128372",
-    "link": "https://api.bestbuy.com/click/-/6582538/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:29:21.419Z",
-    "valuation": {
-      "ebayMedianPrice": 695,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Yoga%20Slim%207x%20Snapdragon%20X%20Elite%20X1E-78-100%202024&LH_Sold=1",
-      "profit": -574.18,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6583788-excellent-764.99",
-    "title": "Samsung - Galaxy Book4 Edge - Copilot+ PC - 16\" AMOLED Touch-Screen Laptop - Snapdragon X Elite 3.4Ghz- 16GB Memory- 512GB Storage - Sapphire Blue",
-    "condition": "excellent",
-    "price": 764.99,
-    "regularPrice": 1449.99,
-    "sku": "6583788",
-    "model": "NP960XMA-KB1US",
-    "upc": "887276861722",
-    "link": "https://api.bestbuy.com/click/-/6583788/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:29:58.400Z",
-    "valuation": {
-      "ebayMedianPrice": 599.99,
-      "ebaySoldItemsCount": 7,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Book4%20Edge%20Snapdragon%20X%20Elite%203.4Ghz&LH_Sold=1",
-      "profit": -324.2,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6583789-excellent-692.99",
-    "title": "Samsung - Galaxy Book4 Edge - Copilot+ PC - 14\" AMOLED Touch-Screen Laptop - Snapdragon X Elite 3.4Ghz- 16GB Memory- 512GB Storage - Sapphire Blue",
-    "condition": "excellent",
-    "price": 692.99,
-    "regularPrice": 1349.99,
-    "sku": "6583789",
-    "model": "NP940XMA-KB1US",
-    "upc": "887276861739",
-    "link": "https://api.bestbuy.com/click/-/6583789/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:30:35.973Z",
-    "valuation": {
-      "ebayMedianPrice": 599.99,
-      "ebaySoldItemsCount": 7,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Book4%20Edge%20Snapdragon%20X%20Elite%203.4Ghz&LH_Sold=1",
-      "profit": -246.44,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6584127-excellent-809.99",
-    "title": "Dell - XPS - Copilot+ PC - 13.4\" 3K OLED Touchscreen Laptop - Snapdragon X Elite X1E-80 - 16GB Memory - 512GB Storage - Graphite",
-    "condition": "excellent",
-    "price": 809.99,
-    "regularPrice": 1499.99,
-    "sku": "6584127",
-    "model": "XPS9345-SX12807BLK-PUS",
-    "upc": "884116429807",
-    "link": "https://api.bestbuy.com/click/-/6584127/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:31:03.219Z",
-    "valuation": {
-      "ebayMedianPrice": 739.99,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=XPS%20Snapdragon%20X%20Elite%20X1E-80%2016GB%20512GB&LH_Sold=1",
-      "profit": -251,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6584131-excellent-473.99",
-    "title": "Dell - Inspiron 14 Plus Copilot+ PC - 14\" 2.5K Touchscreen Laptop - Snapdragon X Plus X1P-64 2024 - 16GB Memory - 512GB Storage - Ice Blue",
-    "condition": "excellent",
-    "price": 473.99,
-    "regularPrice": 999.99,
-    "sku": "6584131",
-    "model": "I7441-SX10838BLU-PUS",
-    "upc": "884116429838",
-    "link": "https://api.bestbuy.com/click/-/6584131/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:31:25.770Z",
-    "valuation": {
-      "ebayMedianPrice": 432.49,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Inspiron%2014%20Plus%20Copilot%2B%20PC%20Snapdragon%20X%20Plus%20X1P-64%202024%2016GB%20512GB&LH_Sold=1",
-      "profit": -155.64,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6584435-excellent-833.99",
-    "title": "ASUS - Zenbook S 16 16” 3K OLED Touch Screen Laptop - Copilot+ PC - AMD Ryzen AI 9 365 - 24GB Memory - 1TB SSD - Scandinavian White",
-    "condition": "excellent",
-    "price": 833.99,
-    "regularPrice": 1499.99,
-    "sku": "6584435",
-    "model": "UM5606WA-S16.R3651TB",
-    "upc": "197105646452",
-    "link": "https://api.bestbuy.com/click/-/6584435/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:31:54.652Z",
-    "valuation": {
-      "ebayMedianPrice": 999.495,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Zenbook%20S%2016%2016%E2%80%9D%203K%20OLED%20AMD%20Ryzen%20AI%209%20365%2024GB%201TB&LH_Sold=1",
-      "profit": -51.15,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6584436-excellent-1594.99",
-    "title": "ASUS - ProArt PX13 13\" 3K OLED Touch Screen Laptop - Copilot+ PC - AMD Ryzen AI 9 HX 370 - 32GB Memory - RTX 4050 - 1TB SSD - Nano Black",
-    "condition": "excellent",
-    "price": 1594.99,
-    "regularPrice": 1799.99,
-    "sku": "6584436",
-    "model": "HN7306WU-PX13.R3704050",
-    "upc": "197105613942",
-    "link": "https://api.bestbuy.com/click/-/6584436/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:32:21.204Z",
-    "valuation": {
-      "ebayMedianPrice": 1224.995,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=ProArt%20PX13%2013%203K%20OLED%20AMD%20Ryzen%20AI%209%20HX%20370%2032GB%201TB&LH_Sold=1",
-      "profit": -676.84,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6584438-excellent-1297.99",
-    "title": "ASUS - ProArt P16 16\" 4K OLED Touch Screen Laptop - Copilot+ PC - AMD Ryzen AI 9 HX 370 - 32GB Memory - RTX 4060 - 1TB SSD - Nano Black",
-    "condition": "excellent",
-    "price": 1297.99,
-    "regularPrice": 1999.99,
-    "sku": "6584438",
-    "model": "H7606WV-P16.R3704060",
-    "upc": "197105613935",
-    "link": "https://api.bestbuy.com/click/-/6584438/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:32:56.858Z",
-    "valuation": {
-      "ebayMedianPrice": 1574.9650000000001,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=ProArt%20P16%2016%204K%20OLED%20AMD%20Ryzen%20AI%209%20HX%20370%2032GB%201TB&LH_Sold=1",
-      "profit": -51.61,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6585178-excellent-777.99",
-    "title": "ASUS - ProArt PZ13 13\" OLED 3K Detachable Laptop - Copilot+ PC - Snapdragon X Plus - 16GB Memory - 1TB SSD - Nano Black",
-    "condition": "excellent",
-    "price": 777.99,
-    "regularPrice": 1299.99,
-    "sku": "6585178",
-    "model": "HT5306QA-PZ13.X1P1TB",
-    "upc": "197105684904",
-    "link": "https://api.bestbuy.com/click/-/6585178/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:33:25.113Z",
-    "valuation": {
-      "ebayMedianPrice": 759.975,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=ProArt%20PZ13%2013%20OLED%203K%20Detachable%20Snapdragon%20X%20Plus%2016GB%201TB&LH_Sold=1",
-      "profit": -199.05,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6586063-excellent-1265.99",
-    "title": "Dell - XPS 13 - Copilot+ PC - 13.4\" 3K OLED Touchscreen Laptop - Snapdragon X Elite X1E-80-100 2024 - 32GB Memory – 1TB Storage - Graphite",
-    "condition": "excellent",
-    "price": 1265.99,
-    "regularPrice": 1899.99,
-    "sku": "6586063",
-    "model": "XPS9345-SX12784BLK-PUS",
-    "upc": "884116429784",
-    "link": "https://api.bestbuy.com/click/-/6586063/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:33:53.989Z",
-    "valuation": {
-      "ebayMedianPrice": 874.495,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=XPS%2013%20Snapdragon%20X%20Elite%20X1E-80-100%202024%2032GB%20%20%E2%80%93%201TB%20Storage&LH_Sold=1",
-      "profit": -626.46,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6587437-excellent-452.99",
-    "title": "HP - 14\" 2-in-1 Full HD Touch-Screen Chromebook Plus Laptop with Google AI - Intel Core i3 N305 2023 - 8GB Memory - 256GB UFS - Meteor Silver",
-    "condition": "excellent",
-    "price": 452.99,
-    "regularPrice": 629,
-    "sku": "6587437",
-    "model": "14B-CD0023DX/A4HB3UA#ABA",
-    "upc": "198415330239",
-    "link": "https://api.bestbuy.com/click/-/6587437/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:34:30.986Z",
-    "valuation": {
-      "ebayMedianPrice": 281.495,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=14%20%20Full%20HD%20%20Chromebook%20Plus%20%20with%20Google%20AI%20Intel%20Core%20i3%20N305%202023%208GB%20256GB&LH_Sold=1",
-      "profit": -264.33,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6588600-excellent-550.99",
-    "title": "ASUS - Expertbook CX54 Chromebook Plus 14\" Laptop with Google AI - Intel Core Ultra 5 with 8GB Memory - 128GB SSD - Fog Silver",
-    "condition": "excellent",
-    "price": 550.99,
-    "regularPrice": 699.99,
-    "sku": "6588600",
-    "model": "CX5403CMA-DB588",
-    "upc": "197105615557",
-    "link": "https://api.bestbuy.com/click/-/6588600/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:34:50.193Z",
-    "valuation": {
-      "ebayMedianPrice": 369.99,
-      "ebaySoldItemsCount": 5,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Expertbook%20CX54%20Chromebook%20Plus%2014%20%20with%20Google%20AI%20Intel%20Core%20Ultra%205%20with%208GB%20Memory%20128GB&LH_Sold=1",
-      "profit": -293.18,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6588651-excellent-198.99",
-    "title": "Lenovo - IdeaPad 3i Chromebook 15.6\" Full HD Laptop - Intel Celeron 2021 - 4GB Memory with 64GB eMMC Storage - Arctic Grey",
-    "condition": "excellent",
-    "price": 198.99,
-    "regularPrice": 249,
-    "sku": "6588651",
-    "model": "82N4004NUS",
-    "upc": "198153733804",
-    "link": "https://api.bestbuy.com/click/-/6588651/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:35:14.833Z",
-    "valuation": {
-      "ebayMedianPrice": 162.495,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=IdeaPad%203i%20Chromebook%2015.6%20Full%20HD%20Intel%20Celeron%202021%204GB%20%20with%2064GB%20eMMC%20Storage&LH_Sold=1",
-      "profit": -93.54,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6593118-excellent-532.99",
-    "title": "ASUS - Vivobook 16 16\" FHD+ Laptop - Intel Core i5-1235U with 16GB Memory - 512GB SSD - Cool Silver",
-    "condition": "excellent",
-    "price": 532.99,
-    "regularPrice": 549.99,
-    "sku": "6593118",
-    "model": "F1605ZA-AS56",
-    "upc": "197105541016",
-    "link": "https://api.bestbuy.com/click/-/6593118/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:35:43.152Z",
-    "valuation": {
-      "ebayMedianPrice": 329.99,
-      "ebaySoldItemsCount": 5,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Vivobook%2016%2016%20FHD%2B%20Intel%20Core%20i5%20512GB&LH_Sold=1",
-      "profit": -308.54,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6593255-excellent-1529.99",
-    "title": "ASUS - Zenbook S 16 16” 3K OLED Touch Laptop - Copilot+ PC - AMD Ryzen AI 9 HX 370 - 32GB Memory - 1TB SSD - Zumaia Gray",
-    "condition": "excellent",
-    "price": 1529.99,
-    "regularPrice": 1799.99,
-    "sku": "6593255",
-    "model": "UM5606WA-PB99T",
-    "upc": "197105587618",
-    "link": "https://api.bestbuy.com/click/-/6593255/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:36:05.722Z",
-    "valuation": {
-      "ebayMedianPrice": 999.975,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Zenbook%20S%2016%2016%E2%80%9D%203K%20OLED%20Touch%20AMD%20Ryzen%20AI%209%20HX%20370%2032GB%201TB&LH_Sold=1",
-      "profit": -802.41,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6593257-excellent-1061.99",
-    "title": "ASUS - Vivobook S 14\" OLED 3K 120Hz Laptop - Copilot+ PC - AMD Ryzen AI 9 365 with 24GB RAM - 512GB SSD - Neutral Black",
-    "condition": "excellent",
-    "price": 1061.99,
-    "regularPrice": 1249.99,
-    "sku": "6593257",
-    "model": "M5406WA-DS76",
-    "upc": "197105595712",
-    "link": "https://api.bestbuy.com/click/-/6593257/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:36:28.443Z",
-    "valuation": {
-      "ebayMedianPrice": 950,
-      "ebaySoldItemsCount": 9,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Vivobook%20S%2014%20OLED%203K%20120Hz%20AMD%20Ryzen%20AI%209%20365%20with%2024GB%20RAM%20512GB&LH_Sold=1",
-      "profit": -340.45,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6593552-excellent-991.99",
-    "title": "HP - OmniBook Ultra Flip - Copilot+ PC - 14\" 3K OLED Touch-Screen Laptop - Intel Core Ultra 7 256V - 16GB Memory - 1TB SSD - Eclipse Gray",
-    "condition": "excellent",
-    "price": 991.99,
-    "regularPrice": 1599.99,
-    "sku": "6593552",
-    "model": "14-FH0013DX/A9SR3UA#ABA",
-    "upc": "198415975676",
-    "link": "https://api.bestbuy.com/click/-/6593552/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:36:49.693Z",
-    "valuation": {
-      "ebayMedianPrice": 689.495,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=OmniBook%20Ultra%20Flip%20Intel%20Core%20Ultra%207%20256V%2016GB%201TB&LH_Sold=1",
-      "profit": -491.49,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6594998-excellent-783.99",
-    "title": "Lenovo - Yoga Slim 7i Aura Edition - Copilot+ PC - 15.3” 3K 120Hz Touchscreen Laptop - Intel Core Ultra 7 256V 2024 - 16GB - 1TB - Luna Gray",
-    "condition": "excellent",
-    "price": 783.99,
-    "regularPrice": 1399.99,
-    "sku": "6594998",
-    "model": "83HM0000US",
-    "upc": "198153992805",
-    "link": "https://api.bestbuy.com/click/-/6594998/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:37:07.457Z",
-    "valuation": {
-      "ebayMedianPrice": 759.625,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Yoga%20Slim%207i%20Aura%20Edition%20Intel%20Core%20Ultra%207%20256V%202024&LH_Sold=1",
-      "profit": -205.84,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6597158-excellent-453.99",
-    "title": "Samsung - Galaxy Chromebook Plus 15.6” with Google AI - AMOLED display – Intel Core 3 – 8GB Memory – 256GB Storage - Neptune Blue",
-    "condition": "excellent",
-    "price": 453.99,
-    "regularPrice": 749.99,
-    "sku": "6597158",
-    "model": "XE550XGA-KC1US",
-    "upc": "887276902432",
-    "link": "https://api.bestbuy.com/click/-/6597158/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:37:28.029Z",
-    "valuation": {
-      "ebayMedianPrice": 489,
-      "ebaySoldItemsCount": 7,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Chromebook%20Plus%2015.6%E2%80%9D%20with%20Google%20AI%20AMOLED%20display%20%E2%80%93%20Intel%20Core%203%20%E2%80%93%208GB%20Memory%20%E2%80%93%20256GB%20Storage&LH_Sold=1",
-      "profit": -84.88,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6597397-excellent-211.99",
-    "title": "Lenovo - Duet 11 Chromebook 11\" 2K LCD Touchscreen 2-in-1 Laptop - MediaTek Kompanio 838 2024 - 4GB RAM - 128GB with keyboard - Luna Gray",
-    "condition": "excellent",
-    "price": 211.99,
-    "regularPrice": 399,
-    "sku": "6597397",
-    "model": "83HH0002US",
-    "upc": "198153907472",
-    "link": "https://api.bestbuy.com/click/-/6597397/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:37:56.731Z",
-    "valuation": {
-      "ebayMedianPrice": 185.91000000000003,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Duet%2011%20Chromebook%2011%202K%20LCD%20Touchscreen%204GB&LH_Sold=1",
-      "profit": -87.21,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6598567-excellent-1206.99",
-    "title": "Samsung - Galaxy Book5 Pro 360 - Copilot+ PC - 16\" AMOLED Touch Screen Laptop - Intel Core Ultra 7 - 16GB Memory - 1TB SSD - Gray",
-    "condition": "excellent",
-    "price": 1206.99,
-    "regularPrice": 1699.99,
-    "sku": "6598567",
-    "model": "NP960QHA-KG1US",
-    "upc": "887276900346",
-    "link": "https://api.bestbuy.com/click/-/6598567/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:38:22.452Z",
-    "valuation": {
-      "ebayMedianPrice": 1188.5,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Galaxy%20Book5%20Pro%20360%20Intel%20Core%20Ultra%207%2016GB%201TB&LH_Sold=1",
-      "profit": -289.55,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6598704-excellent-1010.99",
-    "title": "Dell - XPS 13 - Copilot+ PC - 13.4” 2K Laptop - Intel Core Ultra 7 256V 2024 - 16GB Memory - 512GB Storage - Graphite",
-    "condition": "excellent",
-    "price": 1010.99,
-    "regularPrice": 1399.99,
-    "sku": "6598704",
-    "model": "XPS9350-7715BLK-PUS",
-    "upc": "884116429715",
-    "link": "https://api.bestbuy.com/click/-/6598704/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:38:46.820Z",
-    "valuation": {
-      "ebayMedianPrice": 904.415,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=XPS%2013%20Intel%20Core%20Ultra%207%20256V%202024%2016GB%20512GB&LH_Sold=1",
-      "profit": -325.03,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6601706-excellent-1380.99",
-    "title": "HP - OmniBook Ultra Flip 2-in-1 - Copilot+ PC - 14\" 3K OLED Touch-Screen Laptop - Intel Core Ultra 9 - 32GB Memory - 2TB SSD - Eclipse Gray",
-    "condition": "excellent",
-    "price": 1380.99,
-    "regularPrice": 1899.99,
-    "sku": "6601706",
-    "model": "14-FH0033DX/AW5Z6UA#ABA",
-    "upc": "198701765110",
-    "link": "https://api.bestbuy.com/click/-/6601706/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:39:07.558Z",
-    "valuation": {
-      "ebayMedianPrice": 929.99,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=OmniBook%20Ultra%20Flip%20Intel%20Core%20Ultra%209%2032GB%202TB&LH_Sold=1",
-      "profit": -702.38,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6602286-excellent-1359.99",
-    "title": "ASUS - Zenbook S 14 14\" 3K OLED Touch Laptop - Copilot+ PC - Intel Core Ultra 7 Series 2 with 32GB Memory - 1TB SSD - Scandinavian White",
-    "condition": "excellent",
-    "price": 1359.99,
-    "regularPrice": 1599.99,
-    "sku": "6602286",
-    "model": "UX5406SA-PH79T",
-    "upc": "197105714861",
-    "link": "https://api.bestbuy.com/click/-/6602286/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:39:44.045Z",
-    "valuation": {
-      "ebayMedianPrice": 730.495,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=Zenbook%20S%2014%2014%203K%20OLED%20Touch%20Intel%20Core%20Ultra%207%20Series%202%20with%2032GB%20Memory%201TB&LH_Sold=1",
-      "profit": -853.26,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6602739-excellent-1739.99",
-    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 chip Built for Apple Intelligence - 24GB Memory - 1TB SSD - Space Black",
-    "condition": "excellent",
-    "price": 1739.99,
-    "regularPrice": 1899,
-    "sku": "6602739",
-    "model": "MCX04LL/A",
-    "upc": "195949926594",
-    "link": "https://api.bestbuy.com/click/-/6602739/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:40:13.687Z",
-    "valuation": {
-      "ebayMedianPrice": 1699,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%2024GB%201TB&LH_Sold=1",
-      "profit": -421.06,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6602740-excellent-1640.99",
-    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 chip Built for Apple Intelligence - 24GB Memory - 1TB SSD - Silver",
-    "condition": "excellent",
-    "price": 1640.99,
-    "regularPrice": 1899,
-    "sku": "6602740",
-    "model": "MCX14LL/A",
-    "upc": "195949927058",
-    "link": "https://api.bestbuy.com/click/-/6602740/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:40:36.767Z",
-    "valuation": {
-      "ebayMedianPrice": 1699,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%2024GB%201TB&LH_Sold=1",
-      "profit": -314.14,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6602741-excellent-1335.99",
-    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Space Black",
-    "condition": "excellent",
-    "price": 1335.99,
-    "regularPrice": 1499,
-    "sku": "6602741",
-    "model": "MW2U3LL/A",
-    "upc": "195949507786",
-    "link": "https://api.bestbuy.com/click/-/6602741/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:40:58.668Z",
-    "valuation": {
-      "ebayMedianPrice": 1219.99,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
-      "profit": -401.48,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6602742-excellent-1429.99",
-    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 1TB SSD - Space Black",
-    "condition": "excellent",
-    "price": 1429.99,
-    "regularPrice": 1699,
-    "sku": "6602742",
-    "model": "MW2V3LL/A",
-    "upc": "195949507793",
-    "link": "https://api.bestbuy.com/click/-/6602742/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:41:26.059Z",
-    "valuation": {
-      "ebayMedianPrice": 1399.5,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%2016GB%201TB&LH_Sold=1",
-      "profit": -346.82,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6602743-excellent-1331.99",
-    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 512GB SSD - Silver",
-    "condition": "excellent",
-    "price": 1331.99,
-    "regularPrice": 1499,
-    "sku": "6602743",
-    "model": "MW2W3LL/A",
-    "upc": "195949507809",
-    "link": "https://api.bestbuy.com/click/-/6602743/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:42:01.309Z",
-    "valuation": {
-      "ebayMedianPrice": 1219.99,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%2016GB%20512GB&LH_Sold=1",
-      "profit": -397.16,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6602744-excellent-1391.99",
-    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 chip Built for Apple Intelligence - 16GB Memory - 1TB SSD - Silver",
-    "condition": "excellent",
-    "price": 1391.99,
-    "regularPrice": 1699,
-    "sku": "6602744",
-    "model": "MW2X3LL/A",
-    "upc": "195949507816",
-    "link": "https://api.bestbuy.com/click/-/6602744/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:42:28.603Z",
-    "valuation": {
-      "ebayMedianPrice": 1399.5,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%2016GB%201TB&LH_Sold=1",
-      "profit": -305.78,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6602745-excellent-1655.99",
-    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Silver",
-    "condition": "excellent",
-    "price": 1655.99,
-    "regularPrice": 1999,
-    "sku": "6602745",
-    "model": "MX2E3LL/A",
-    "upc": "195949873485",
-    "link": "https://api.bestbuy.com/click/-/6602745/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:42:48.149Z",
-    "valuation": {
-      "ebayMedianPrice": 1437.995,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%20Pro%2024GB%20512GB&LH_Sold=1",
-      "profit": -557.41,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6602746-excellent-1909.99",
-    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 1TB SSD - Silver",
-    "condition": "excellent",
-    "price": 1909.99,
-    "regularPrice": 2399,
-    "sku": "6602746",
-    "model": "MX2F3LL/A",
-    "upc": "195949873935",
-    "link": "https://api.bestbuy.com/click/-/6602746/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:43:12.291Z",
-    "valuation": {
-      "ebayMedianPrice": 1699,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%20Pro%2024GB%201TB&LH_Sold=1",
-      "profit": -604.66,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6602748-excellent-1690.99",
-    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Space Black",
-    "condition": "excellent",
-    "price": 1690.99,
-    "regularPrice": 1999,
-    "sku": "6602748",
-    "model": "MX2H3LL/A",
-    "upc": "195949874833",
-    "link": "https://api.bestbuy.com/click/-/6602748/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:43:48.234Z",
-    "valuation": {
-      "ebayMedianPrice": 1437.995,
-      "ebaySoldItemsCount": 10,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%20Pro%2024GB%20512GB&LH_Sold=1",
-      "profit": -595.21,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6602749-excellent-2033.99",
-    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 1TB SSD - Space Black",
-    "condition": "excellent",
-    "price": 2033.99,
-    "regularPrice": 2399,
-    "sku": "6602749",
-    "model": "MX2J3LL/A",
-    "upc": "195949875281",
-    "link": "https://api.bestbuy.com/click/-/6602749/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:44:16.775Z",
-    "valuation": {
-      "ebayMedianPrice": 1724,
-      "ebaySoldItemsCount": 8,
-      "ebaySearchUrl": "https://www.ebay.com/sch/i.html?_nkw=MacBook%20Pro%2014-inch%20Apple%20M4%20Pro%2024GB%201TB&LH_Sold=1",
-      "profit": -716.83,
-      "currency": "USD"
-    }
-  },
-  {
-    "id": "6602750-excellent-2707.99",
-    "title": "Apple - MacBook Pro 14-inch Laptop - Apple M4 Max chip Built for Apple Intelligence - 36GB Memory - 1TB SSD - Space Black",
-    "condition": "excellent",
-    "price": 2707.99,
-    "regularPrice": 3199,
-    "sku": "6602750",
-    "model": "MX2K3LL/A",
-    "upc": "195949875731",
-    "link": "https://api.bestbuy.com/click/-/6602750/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:44:23.294Z",
-    "valuation": null
-  },
-  {
-    "id": "6602751-excellent-1952.99",
-    "title": "Apple - MacBook Pro 16-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Silver",
-    "condition": "excellent",
-    "price": 1952.99,
-    "regularPrice": 2499,
-    "sku": "6602751",
-    "model": "MX2T3LL/A",
-    "upc": "195949867804",
-    "link": "https://api.bestbuy.com/click/-/6602751/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:44:30.987Z",
-    "valuation": null
-  },
-  {
-    "id": "6602754-excellent-3138.99",
-    "title": "Apple - MacBook Pro 16-inch Laptop - Apple M4 Max chip Built for Apple Intelligence - 48GB Memory - 1TB SSD - Silver",
-    "condition": "excellent",
-    "price": 3138.99,
-    "regularPrice": 3999,
-    "sku": "6602754",
-    "model": "MX2W3LL/A",
-    "upc": "195949869150",
-    "link": "https://api.bestbuy.com/click/-/6602754/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:44:36.956Z",
-    "valuation": null
-  },
-  {
-    "id": "6602755-excellent-2130.99",
-    "title": "Apple - MacBook Pro 16-inch Laptop - Apple M4 Pro chip Built for Apple Intelligence - 24GB Memory - 512GB SSD - Space Black",
-    "condition": "excellent",
-    "price": 2130.99,
-    "regularPrice": 2499,
-    "sku": "6602755",
-    "model": "MX2X3LL/A",
-    "upc": "195949869600",
-    "link": "https://api.bestbuy.com/click/-/6602755/pdp#tab=buyingOptions",
-    "foundAt": "2025-12-08T05:44:47.085Z",
-    "valuation": null
-  }
 ]
