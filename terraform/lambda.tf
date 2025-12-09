@@ -55,7 +55,7 @@ resource "aws_lambda_function" "scanner" {
   function_name = "arbitrage-scanner"
   role          = aws_iam_role.lambda_exec.arn
   package_type  = "Image"
-  image_uri     = "${aws_ecr_repository.arbitrage_repo.repository_url}:latest"
+  image_uri     = "${aws_ecr_repository.arbitrage_repo.repository_url}:${var.image_tag}"
 
   image_config {
     command = ["dist/src/scanner/index.handler"]
@@ -76,7 +76,7 @@ resource "aws_lambda_function" "valuator" {
   function_name = "arbitrage-valuator"
   role          = aws_iam_role.lambda_exec.arn
   package_type  = "Image"
-  image_uri     = "${aws_ecr_repository.arbitrage_repo.repository_url}:latest"
+  image_uri     = "${aws_ecr_repository.arbitrage_repo.repository_url}:${var.image_tag}"
   # Note: A real deployment needs to specify the CMD override or separate ECR images.
   # Our Dockerfile has stages, but ECR stores one image per tag usually, unless we push two tags.
   # We should configure the Image Config Command in Lambda to override the CMD.

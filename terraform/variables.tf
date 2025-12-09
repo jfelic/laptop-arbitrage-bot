@@ -9,6 +9,12 @@ variable "apify_api_token" {
 }
 
 variable "discord_webhook" {
+  description = "Discord Webhook URL for alerts"
   type        = string
-  description = "Discord Webhook URL"
+}
+
+variable "image_tag" {
+  description = "Docker image tag to deploy"
+  type        = string
+  default     = "latest"
 }
