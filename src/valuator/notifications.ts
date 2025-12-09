@@ -73,7 +73,11 @@ export async function sendDiscordAlert(deal: NotificationDeal) {
             embeds: [embed]
         });
         console.log("  [Discord] Notification sent successfully.");
-    } catch (error) {
-        console.error("  [Discord] Failed to send notification:", error);
+    } catch (error: any) {
+        console.error("  [Discord] Failed to send notification:", error.message);
+        if (error.response) {
+            console.error("  [Discord] Response Status:", error.response.status);
+            console.error("  [Discord] Response Data:", JSON.stringify(error.response.data));
+        }
     }
 }
