@@ -17,6 +17,15 @@ interface SqsMessageBody {
     foundAt: string;
 }
 
+/**
+ * Lambda Handler: Valuator Service
+ * 
+ * Triggered by: SQS Messages (from Scanner)
+ * Purpose:
+ * 1. Checks DynamoDB to see if deal was already processed (Idempotency).
+ * 2. Scrapes eBay for recent sales data to determine market value.
+ * 3. Sends Discord alerts if profit > threshold.
+ */
 export const handler = async (event: any) => {
     console.log(`Received ${event.Records?.length || 0} records.`);
 

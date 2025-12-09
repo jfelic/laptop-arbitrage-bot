@@ -41,6 +41,13 @@ interface BestBuyResponse {
     results: BestBuyProduct[];
 }
 
+/**
+ * Lambda Handler: Scanner Service
+ * 
+ * Triggered by: CloudWatch Events (Schedule)
+ * Purpose: Fetches open-box laptops from Best Buy api and pushes candidates to SQS.
+ * Note: Does NOT filter by profitability yet (that's the Valuator's job).
+ */
 export const handler = async (event: any) => {
     if (!BEST_BUY_API_KEY) {
         throw new Error("BEST_BUY_API_KEY is missing");
