@@ -6,7 +6,7 @@ An event-driven serverless platform that detects profitable laptop arbitrage opp
 The system uses a **Fan-Out** architecture on AWS to decouple high-volume ingestion from valuation processing.
 
 - **Scanner Service (Producer)**: AWS Lambda
-    - Triggered every 4 hours via EventBridge.
+    - Triggered every 8 hours via EventBridge.
     - Scans Best Buy Open-Box API for laptops.
     - Filters for valid deals and pushes JSON payloads to SQS.
 - **Valuator Service (Consumer)**: AWS Lambda

@@ -97,14 +97,14 @@ resource "aws_lambda_function" "valuator" {
 }
 
 # Scanner Schedule (CloudWatch Event)
-resource "aws_cloudwatch_event_rule" "every_hour" {
-  name                = "every-4-hours"
-  description         = "Fires every 4 hours"
-  schedule_expression = "rate(4 hours)"
+resource "aws_cloudwatch_event_rule" "every_8_hours" {
+  name                = "every-8-hours"
+  description         = "Fires every 8 hours"
+  schedule_expression = "rate(8 hours)"
 }
 
-resource "aws_cloudwatch_event_target" "scan_every_hour" {
-  rule      = aws_cloudwatch_event_rule.every_hour.name
+resource "aws_cloudwatch_event_target" "scan_every_8_hours" {
+  rule      = aws_cloudwatch_event_rule.every_8_hours.name
   target_id = "scanner"
   arn       = aws_lambda_function.scanner.arn
 }
@@ -114,7 +114,7 @@ resource "aws_lambda_permission" "allow_cloudwatch" {
   action        = "lambda:InvokeFunction"
   function_name = aws_lambda_function.scanner.function_name
   principal     = "events.amazonaws.com"
-  source_arn    = aws_cloudwatch_event_rule.every_hour.arn
+  source_arn    = aws_cloudwatch_event_rule.every_8_hours.arn
 }
 
 
