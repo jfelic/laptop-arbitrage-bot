@@ -12,6 +12,7 @@
   "dependencies": {
     "@aws-sdk/client-dynamodb": "^3.947.0",
     "@aws-sdk/client-sqs": "^3.947.0",
+    "@aws-sdk/lib-dynamodb": "^3.965.0",
     "apify-client": "^2.20.0",
     "axios": "^1.13.2",
     "dotenv": "^17.2.3"
